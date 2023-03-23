@@ -7,6 +7,8 @@ In order to apply for a grant you must meet certain criteria and make your submi
 
 There are also Recognition Grants that may be awarded to proven projects at the discretion of the Proton Consortium.
 
+<img src="img/grant-flow.png" />
+
 ## Grant Guidelines
 
 Individuals and companies are allowed to apply for grants. The purpose of these grants is to help developers and small businesses build on the Proton Blockchain. All types of projects are allowed to submit an application, but open source projects are preferred as you will see below. All applications must meet the following minimum requirements.
@@ -64,8 +66,8 @@ This document is subject to change please check the latest version here on Githu
 
 ## Grant Evaluators
 
-[Proton Consortium Members](https://www.proton.org/about)
-[Metallicus Core Developers](https://github.com/metallicusdev)
+- [Proton Consortium Members](https://www.proton.org/about)
+- [Metallicus Core Developers](https://github.com/metallicusdev)
 
 ## Grant Operator
 
