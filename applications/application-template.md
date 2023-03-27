@@ -12,22 +12,31 @@
 - **Project has a token:** Yes/No
 - **Github Repo:** github.com/<your_org>/<project_repo>
 
+### Contact Information
+
 - **Contact Name:** Full name of contact person
 - **Contact Email:** example@example.com
 - **Website:** https://example.com
 
-- **Project Details:** Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
+### Project Details
 
-- **Ecosystem Fit:**
+> Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
+
+### Ecosystem Fit
+
 1. Where and how does your project fit into the Proton ecosystem?
 2. Who is your target audience?
 3. What needs does your project meet for the community and what sets it apart from other similar projects?
 
-- **Team:** List the members of your team, including their roles and responsibilities. Include links to their LinkedIn profiles, Github repos, and any other relevant information.
+### Team
 
-- **Roadmap:** Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
+List the members of your team, including their roles and responsibilities. Include links to their LinkedIn profiles, Github repos, and any other relevant information.
 
-- **List of Milestones:**
+### Roadmap
+
+Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
+
+### Milestones
 
 > Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the Proton Blockchain ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
 
@@ -36,6 +45,8 @@
 > FTE: Full-Time Equivalent (Number of people working on the project on a full-time basis)
 
 > Total Costs: This should be the requested amount in USD for the whole project milestone. If the grant is paid out in XPR the amount will be calculated based on the XPR/USD exchange rate on the time of payment.
+
+### Milestone Example
 
 - **Milestone:** 1
 - **Estimated duration:** 1 month
@@ -53,6 +64,10 @@
 
 Add more milestones as needed.
 
-- **Future Plans:** How do you intend to enhance, promote and support your project in the future?
+### Future Plans
 
-- **Additional Information:** Include work you have already done on Proton Blockchain, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
+How do you intend to enhance, promote and support your project in the future?
+
+### Additional Information
+
+Include work you have already done on Proton Blockchain, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
