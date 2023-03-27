@@ -24,17 +24,17 @@
 
 ### Ecosystem Fit
 
-1. Where and how does your project fit into the Proton ecosystem?
-2. Who is your target audience?
-3. What needs does your project meet for the community and what sets it apart from other similar projects?
+> 1. Where and how does your project fit into the Proton ecosystem?
+> 2. Who is your target audience?
+> 3. What needs does your project meet for the community and what sets it apart from other similar projects?
 
 ### Team
 
-List the members of your team, including their roles and responsibilities. Include links to their LinkedIn profiles, Github repos, and any other relevant information.
+> List the members of your team, including their roles and responsibilities. Include links to their LinkedIn profiles, Github repos, and any other relevant information.
 
 ### Roadmap
 
-Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
+> Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
 
 ### Milestones
 
@@ -62,12 +62,12 @@ Include a roadmap for your project and timeline. This section should be detailed
 | 2. | Front-End / User Interface | We will create a UI that connects to ... |  
 | 3. | API interface to our app | We will create an API that ... |  
 
-Add more milestones as needed.
+> Add more milestones as needed.
 
 ### Future Plans
 
-How do you intend to enhance, promote and support your project in the future?
+> How do you intend to enhance, promote and support your project in the future?
 
 ### Additional Information
 
-Include work you have already done on Proton Blockchain, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
+> Include work you have already done on Proton Blockchain, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
