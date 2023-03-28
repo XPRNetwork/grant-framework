@@ -93,7 +93,7 @@
 		> c. Customer Support
 		> d. Newsletter Creation
 		> e. QA Testing
-        
+
   
 
 ### Roadmap
@@ -248,5 +248,6 @@
 1. Tayler has contributed directly to the Javascript SDK, and plans to continue contributing (as discussed above in future plans) as Protonext sees possible upgrades in UI/UX/Functionality of the SDK.
 2. Other than a $1500 purchase of a second Node by the Marketing Officer, there are no other teams or people that have contributed to the project financially.
 3. A lot of the remaining portions of the De-Fi MVP are perspective due to the lack of available documentation on how rewards are calculated, which is why it is currently blocked. One of the best resources for the improvement of Protonext besides capital is access to developers and complete documentation. This is another reason why Protonext believes acquisition would be beneficial. 
+4. A Node.JS/Express backend already exists for this project outside of the Proton Blockchain, since it is a public chain and this project contains financial information. A custom designed IPFS Swarm has been created to allow for multiple nodes to exist concurrently, whenever available. These nodes will automatically update when new information is available, and is secured by a private swarm key.  
 
 > An investment document has already been created for this project, please feel free to take a look there for more information. Please keep in mind this was meant for outside angel investment, and contains some outdated information: https://docs.google.com/document/d/1O9T_GUmCVodn2QJof_-wFEZhkKs0G_S8j8iJgdODEV0/edit#
