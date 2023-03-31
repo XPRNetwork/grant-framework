@@ -20,25 +20,25 @@
 
 ### Project Details
 
-> As it is becoming increasingly evident, we all understand the power of video in today's world. Video is KING. I am excited to present my video
+As it is becoming increasingly evident, we all understand the power of video in today's world. Video is KING. I am excited to present my video
 package proposal to help the Proton and Metallicus ecosystems reach a wider audience and stand out in the competitive market. I am
 dedicated to delivering high-quality videos that will make an impact for the Proton/ Metallicus communities. PDF Pitch Deck linked below
 https://drive.google.com/file/d/12T8emUalVH3_f_mgHtZ0NQQHPZjwsOvn/view?usp=share_link
 
 ### Ecosystem Fit
 
-> 1. These videos will help create media assests for the Proton community to share to increase global reach. 
-> 2. This video package is specifically tailored to help the Metallicus team expand their reach and get their message and products
+1. These videos will help create media assests for the Proton community to share to increase global reach. 
+2. This video package is specifically tailored to help the Metallicus team expand their reach and get their message and products
 out into the marketplace in a compelling way.
-> 3. As of now, there is no other project actively turning content such as Twitter spaces/ Youtube Lives into optimized shorts to be shared on other 
+3. As of now, there is no other project actively turning content such as Twitter spaces/ Youtube Lives into optimized shorts to be shared on other 
 social platforms such as Tik Tok and Youtube Shorts. The commmunity is often times asking/begging to see such content.
 
 ### Team
 
-> Andrew > Youtube Shorts https://www.youtube.com/@Bsprouts/shorts
+ Andrew > Youtube Shorts https://www.youtube.com/@Bsprouts/shorts
 ### Roadmap
 
-> I am looking to work with the team to optimize long form content into shareable short form video asssets. 
+ I am looking to work with the team to optimize long form content into shareable short form video asssets. 
 1. Create template for long form Youtube show reviewing the latest happenings in the ecosystem.
      optimize file sharing system for team to review and approve.
 2. Create efficient systems to repurpose long form content into short form video optimized for YouTube shorts and Tik Tok reels.
@@ -47,7 +47,7 @@ social platforms such as Tik Tok and Youtube Shorts. The commmunity is often tim
 
 ### Milestones
 
-> Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the Proton Blockchain ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
+ Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the Proton Blockchain ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
 
 > For each milestone make sure to include detailed specification of your software. Include the amount of funding requested per milestone, as well as the number of full-time employees working on each milestone. This information should be included in the milestone deliverables.
 
@@ -75,8 +75,8 @@ social platforms such as Tik Tok and Youtube Shorts. The commmunity is often tim
 ### Future Plans
 
 How do you intend to enhance, promote and support your project in the future?
-> I will continue to study trends, and optimize repurposing long form content to create shareable media that promotes the Proton ecosystem.
+I will continue to study trends, and optimize repurposing long form content to create shareable media that promotes the Proton ecosystem.
 
 ### Additional Information
 
-> Previous work > https://www.tiktok.com/@marshallhayner
+Previous work > https://www.tiktok.com/@marshallhayner
