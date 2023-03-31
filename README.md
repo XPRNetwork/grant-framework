@@ -38,8 +38,8 @@ Grant milestones will be monitored by the Proton Consortium and Core Developers.
 4. Make a copy of contents from [(applications/application-template.md)](applications/application-template.md) 
 5. Paste the contents into your new file
 6. Fill out the template with the details of your own project 
-7. When you're done, commit the changes **directly to the master branch**
-8. Create a Pull Request for **your_project.md** file
+7. When you're done, commit the changes **directly to the `master` branch**
+8. Create a Pull Request for `your_project.md` file
 
 ## Application Process
 
