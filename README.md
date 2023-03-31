@@ -34,8 +34,8 @@ Grant milestones will be monitored by the Proton Consortium and Core Developers.
 
 1. Fork this repo 
 2. Go to the `applications` folder
-3. Add File `your_project.md` using the template below
-4. Make a copy of [(applications/application-template.md)](applications/application-template.md) 
+3. Add File `your_project.md` 
+4. Make a copy of contents from [(applications/application-template.md)](applications/application-template.md) 
 5. Paste the contents into your new file
 6. Fill out the template with the details of your own project 
 7. When you're done, commit the changes **directly to the master branch**
