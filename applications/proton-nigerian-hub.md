@@ -14,7 +14,7 @@
 
 ### Contact Information
 
-- **Contact Name:** Promise Okezie
+- **Contact Name:** Okezie Promise 
 - **Contact Email:** protonxprnigeria@gmail.com
 - **Website:** [ProtonNigerianHub](http://protonnigeria.com) (Under Construction)
 
@@ -22,24 +22,24 @@
 
 > Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project?
 Proton-Nigerian-Hub is a community of Proton Blockchain Enthusiasts and early investors in Nigeria and Africa, dedicated to spreading awareness 
-and knowledge about Proton and its potential applications. 
-Our goal is to educate the large population of Nigerians about the benefits of Proton blockchain, its products and usecases, 
-thereby bringing more investors and developers to the ecosystem.
+and knowledge about Proton and its potential applications. <br>
+**Our goal** is to educate the large population of Nigerians about the benefits of Proton blockchain, its products and usecases, 
+thereby bringing more investors and developers to the ecosystem. <br>
 We believe that Proton is an innovative blockchain project that solves many of the problems facing traditional finance and payments systems. 
 With its fast, secure, and low-cost transactions, Proton has the potential to revolutionize the way people in Nigeria and Africa transact and 
 interact with financial institutions.
 
-**Problem We're Solving:
-We have recognized that there is still a lot of work to be done in terms of spreading awareness and knowledge about Proton in our local communities. 
-This is where ProtonNigerianHub comes in. By building a community both online and offline, we aim to provide education, networking opportunities, 
+**Problem We're Solving:**
+We have recognized that there is still a lot of work to be done in terms of spreading awareness and knowledge about Proton in our local communities. <br>
+This is where ProtonNigerianHub comes in. By building a community both online and offline, we aim to provide education, networking opportunities, <br>
 and support for anyone interested in learning more about Proton and its potential applications.
 
-**Our Mission
-We believe that ProtonNigerianHub will be an important driver of growth and adoption for Proton in Nigeria and Africa. 
+**Our Mission:**
+We believe that ProtonNigerianHub will be an important driver of growth and adoption for Proton in Nigeria and Africa. <br>
 By providing a central point of activity and information for blockchain enthusiasts and investors, we hope to build 
 a strong community that can help drive adoption and growth for Proton in our local markets.
  
-** The Current State of Our Project
+**The Current State of Our Project**
 - We already have a working team that is on non-stop evangelism about Proton Blockchain but we need capacity & resources to spread even further across 36 States 
   in Nigeria and touch neighboring African Countries. We have carried and still carrying events, seminars across Universities and engaging investors and government officials.
 - We have secured a domain (Protonnigeria.com) for this project but need to develop an online platform (ProtonNigerianHub) where we will educate, train, blog, 
@@ -89,26 +89,26 @@ we can help to drive adoption and growth for Proton Blockchain in a very populou
 
 ### Our Team
 
-1. Promise Okezie - Chief Coordinator/Team Lead of ProtonNigerianHub
-   A dedicated business administrator & Marketing experts with 7 years experience
-   He has been into crypto space for over 10 years making research for a solution 
-   to solve payment system problems in Nigeria till he found protonblockchain in August 2021.
-   Email: protonxprnigeria@gmail.com
-   [Twitter Handle] (https://twitter.com/ProtonNigeria)
+1. Okezie Promise - Chief Coordinator/Team Lead of ProtonNigerianHub <br>
+   A dedicated business administrator & Marketing experts with 7 years experience.<br>
+   He has been into crypto space for over 10 years making research for a solution <br>
+   to solve payment system problems in Nigeria till he found protonblockchain in August 2021.<br>
+   Email: protonxprnigeria@gmail.com <br>
+   [Twitter Handle](https://twitter.com/ProtonNigeria)
 
-2. Evans Tansi - Operations/Programs Officer
-   A recent Graduate with a degree in engineering.
-   He is a crypto enthusiast and proton lover & investor.
-   [Linkedin Profile](https://www.linkedin.com/mwlite/in/evans-tansi-334b37138) 
+2. Evans Tansi - Operations/Programs Officer <br>
+   A recent Graduate with a degree in engineering. <br>
+   He is a crypto enthusiast and proton lover & investor. <br>
+   [Linkedin Profile](https://www.linkedin.com/mwlite/in/evans-tansi-334b37138) <br>
    Email: tansievans@gmail.com
 
-3. Great Emeka - Chief Technical Officer (CTO)
-   A recent first-class graduate of Electronic and Computer Engineering. An experienced Crypto trader who has been into crypto since his undergraduate days.
-   Great is passionate about Cryptocurrency & Blockchain, software development and cybersecurity.
-   He is currently a web developer, IT support Specialist and a CyberSecurity Enthusiast.
-   [Linkedin Profile](https://www.linkedin.com/in/chimezie-emeka-great/) 
-   [Github Account](https://github.com/great-emeka) 
-   [Twitter Handle](https://twitter.com/Great4codes)
+3. Great Emeka - Chief Technical Officer (CTO). <br>
+   A recent first-class graduate of Electronic and Computer Engineering. An experienced Crypto trader who has been into crypto since his undergraduate days.<br>
+   Great is passionate about Cryptocurrency & Blockchain, software development and cybersecurity. <br>
+   He is currently a web developer, IT support Specialist and a CyberSecurity Enthusiast. <br>
+   [Linkedin Profile](https://www.linkedin.com/in/chimezie-emeka-great/) <br>
+   [Github Account](https://github.com/great-emeka) <br>
+   [Twitter Handle](https://twitter.com/Great4codes) <br>
    Email: greatestgreatemeka@gmail.com
 
 
@@ -161,7 +161,7 @@ we can help to drive adoption and growth for Proton Blockchain in a very populou
     
 - **Estimated duration:** 6 months
 - **FTE:**  3 
-- **Costs:** 15,000 USD
+- **Costs:** 35,000 USD
 
 
 - **Milestone:** 2
@@ -185,7 +185,9 @@ we can help to drive adoption and growth for Proton Blockchain in a very populou
 
 - **Estimated duration:** 6 - 1 year
 - **FTE:**  3 - 5
-- **Costs:** 10,000 USD
+- **Costs:** 25,000 USD
+
+**Total Costs:** 60,000 USD
 
 **NOTE:** our milestone is kept this way because it is not typical in sofware development scope formart as stated, although our web Application is still a software.
       Owing to this, some of our Deliverables include but not limited to:
