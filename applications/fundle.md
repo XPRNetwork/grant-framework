@@ -20,6 +20,14 @@
 
 ### Project Details
 
+This grant will be used to build the community token model, integrate with TrustEVM and launch the platform. The community can make use of and learn from the mechanism or build and manage their communities on the Fundle platform! We will customize and make the Balancer protocol compatible for TrustEVM.
+
+**Platform video**
+
+This video will show how the application will look like and how Fundle works!
+[https://vimeo.com/759605041
+](https://vimeo.com/813072758)
+
 > Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
 
 ### Ecosystem Fit
