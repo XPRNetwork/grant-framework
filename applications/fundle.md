@@ -128,7 +128,7 @@ Democratic fundraising mechanism where members can buy products as pre orders an
 
 #### Uniqueness
 
-To the best of our knowledge there are no similar projects in the Proton or related ecosystems. Compared to other community building platform we are unique. Our token modal and ways of interaction between business and members sets us apart. There is a completely different dynamic on our platform with a social media vibe. Fundle is therefore the perfect all-in-one platform and marketing tool for businesses to get the most out or their community. 
+To the best of our knowledge there are no similar projects in Proton's or related ecosystems. Compared to other community building platform we are unique. Our token modal and ways of interaction between business and members sets us apart. There is a completely different dynamic on our platform with a social media vibe. Fundle is therefore the perfect all-in-one platform and marketing tool for businesses to get the most out or their community. 
 
 
 
