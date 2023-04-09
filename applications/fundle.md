@@ -18,16 +18,39 @@
 - **Contact Email:** wiebe.hendriks@wefundle.com
 - **Website:** https://wefundle.com
 
+### Short Description
+Fundle is a community building platform to increase customer engagement, benefits and value for both business and members.
+
+We allow businesses to build stronger long-term relationships, offer new customer experiences and gain more out of their community. Our mission is to increase customer engagement, benefits and deliver more value from the community for both business and members.
+Each business has its own token to build a digital community and economy. Holders of that token (members) can unlock specific products, NFTs, merchandise, events, experiences, discounts, tokens, access to content or involvement. Community tokens allow businesses to engage with their fans more closely than ever before.
+
+Our token model introduces new ways of customer engagement, benefits, involvement and marketing. Allowing businesses to increase their brand to customer relationship and grow their customer and fan base!
+
 ### Project Details
 
-This grant will be used integrate our application and token bonding curve protocol with Proton and to launch the platform. 
+This grant will be used integrate our application and token bonding curve protocol with Proton and to launch the platform. Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building, managing, and crowdfunding. 
+
+We see an interesting opportunity in the crowdfunding and community-building market. In these markets involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors. 
+
+21 million users, $6,8 billion dollars pledged, and 227,000 projects funded. These are Kickstarter's stats and represent only 21.21% of the crowdfunding market, this means a total of 100 million users. Over the last years this market has proven to be a successful formula for funding products. However, there is little involvement, interaction, and control for backers. Furthermore the success rate of crowdfunding can be improved by intensive community building and working together. 
+
+For businesses, the top 3 benefits of an online community are customer loyalty, reduction in support costs and brand awareness. 70% of communities positively affect the brand and company culture. Companies with online communities are 60% more profitable than companies which do not focus on online communities. 
+
+An average member contributes $67 of worth yearly to the community. 33% of organizations with an online community have 10,000 or more members. In the coming years, the social business market will potentially grow with a CAGR of 30.8% to 7 trillion by 2030. Community building is becoming an increasingly important topic for businesses. 
+
+Active participation, involvement, and engagement remains difficult for large businesses. 55% of community professionals find it difficult to consistently engage members when running online communities.  For small businesses building and managing communities remains challenging and a barrier.
+
+These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships, involvement and control is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. The funding mechanism will be democratic and based on voting to release the funds stepwise. We will move towards a heavily interactive environment based on open business participation. The community can help tackling issues and be paid out in tokens. 
+
+#### Application UI 
+<img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
+![image](https://user-images.githubusercontent.com/54183058/230790954-c2bd0c2c-fe90-4fb5-a8f3-ba3e8c7ad8a0.png)
 
 **Platform video**
 
 This video will show how the application looks like and how Fundle works!
 [https://vimeo.com/759605041
 ](https://vimeo.com/813072758)
-
 > Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
 
 ### Ecosystem Fit
