@@ -1,4 +1,5 @@
-# Proton Blockchain Grant Proposal - Fundle's new generation of community building #BuildonProton. 
+# Proton Blockchain Grant Proposal 
+### Fundle's new generation of community building #BuildOnProton. 
 
 - **Project Name:** Fundle
 - **Team Name:** Fundle
