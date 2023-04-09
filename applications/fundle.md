@@ -213,10 +213,9 @@ This grant will be used to integrate our application with the Proton ecosystem (
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0. | Unlicense |
-| 1. | Documentation | We will provide extensive **tutorials** and **demos** that explains how a user can use our dApp. |
 | 1. | Application and API integration with Proton | We integrate the Proton blockchain into our application, this is implemented in the front and and our API so that we can easily connect it also to a mobile app. |  
-| 2. | Payment integration | Make it as easy as possible for users to join communities. This implies integrating wallet and fiat checkouts. This part covers steps for the necessary payment architecture of the system.  |
+| 2. | Payment integration | We will make it as easy as possible for users to join communities. Therefore we need to integrate wallet and fiat checkouts. This part covers the necessary payment architecture of the system.  |
+| 3. | Documentation | We will provide extensive **tutorials** and **demos** that explains how a user can use our dApp. |
 
 
 ### Milestone 3 - Marketing/Sales & Application development
@@ -228,9 +227,10 @@ This grant will be used to integrate our application with the Proton ecosystem (
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0. | Unlicense |
-| 1. | Documentation | We will start our marketing and sales campaign for the launch to create awareness. With minimal 5 starting communities we will launch the platform. |
-| 0c. | Article | We will publish multiple **articles** that explains our token model, platform and community management 2.0. This includes costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. Together with our advisors we made a marketing and sales strategy where we want to use the funds of this step for.   |
+| 1. | Marketing/Sales | Costs for the promotion of the platform. Together with our advisors we made a marketing and sales strategy, we will start this marketing campaign to create brand awareness and customers. With a minimum of 5 starting communities we will launch the platform. |
+| 2. | Articles | We will publish multiple **articles** that explains our token model, platform and community management 2.0.   |
+| 3. | Team | Hiring of working students as (digital) marketer/communication and business developer/sales. |
+
 
 
 ### Future Plans
