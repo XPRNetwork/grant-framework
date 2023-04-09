@@ -1,9 +1,5 @@
 # Proton Blockchain Grant Proposal
 
-> See the [Grant Framework Application Process](https://github.com/ProtonProtocol/grant-framework#application-process) on how to submit a proposal.
->
-> Fill out the following information about your team and project
-
 - **Project Name:** Fundle
 - **Team Name:** Fundle
 - **Payment Address:** Proton account
