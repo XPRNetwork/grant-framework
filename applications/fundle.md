@@ -50,7 +50,10 @@ These market trends and opportunities form the basis of the Fundle platform. We 
 This video will show how the application looks like and how Fundle works!
 [https://vimeo.com/759605041
 ](https://vimeo.com/813072758)
-> Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
+
+**Platform status**
+
+We have developed and finished the application and token bonding curve protocol. It is right now running on the Polygon blockchain and the application is already tested on usability and bugs with customers. In the coming weeks we will finetune the application and start with the sales and marketing process. We are planning to launch the platform in the coming months. ![image](https://user-images.githubusercontent.com/54183058/230791222-79713646-916b-46d8-9ef8-f0ab9f4292d2.png)
 
 ### Ecosystem Fit
 
