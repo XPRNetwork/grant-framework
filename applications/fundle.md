@@ -61,7 +61,7 @@ This video will show how the application looks like and how Fundle works!
 
 **Platform status**
 
-We have developed and finished the application and token bonding curve protocol. It is right now running on the Polygon blockchain and the application is already tested on usability and bugs with customers. In the coming weeks we will finetune the application and start with the sales and marketing process. We are planning to launch the platform in the coming months. 
+We have developed and finished the application and token bonding curve protocol. Everything is right now **working and running** on the Polygon blockchain and the application is already tested on usability and bugs with customers. In the coming weeks we will finetune the application and start with the sales and marketing process. We are planning to launch the platform in the coming months, in the meanwhile can show a demo of the platform!
 
 ### Ecosystem Fit
 
