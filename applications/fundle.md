@@ -122,7 +122,7 @@ Creatives can do tasks for the community in exchange for community tokens (desig
 
 Democratic fundraising mechanism where members can buy products as pre orders and have control over the collected money. (Mechanism will be included in the future)
 
-#### Uniqueness
+### Uniqueness
 
 To the best of our knowledge there are no similar projects in Proton's or related ecosystems. Compared to other community building platform we are unique. Our token modal and ways of interaction between business and members sets us apart. There is a completely different dynamic on our platform with a social media vibe. Fundle is therefore the perfect all-in-one platform and marketing tool for businesses to get the most out or their community. 
 
