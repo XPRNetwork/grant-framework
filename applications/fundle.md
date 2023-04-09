@@ -48,7 +48,7 @@ These market trends and opportunities form the basis of the Fundle platform. We 
 
 **Technical description of protocol**
 
-Token bonding curves facilitate buy and sell mechanism. Each community has its own curve and utility token acting as an Automated Market Maker to facilitate buy and sell of tokens. Works as an automated algorithm which calculates the token price based on the supply of a token. Users can buy the token by providing collateral for the curve in fiat currencies or other cryptos. At purchase a new community token is mint/created which increases the supply. 
+Token bonding curves facilitate buy and sell mechanism. Each community has its own curve and utility token acting as an Automated Market Maker to facilitate buy and sell of tokens. Works as an automated algorithm which calculates the token price based on the supply of a token. Users can buy the token by providing collateral for the curve the USDC/EUROC stablecoins. At purchase a new community token is mint/created which increases the supply. 
 
 Our innovative token bonding curve protocol provides a dynamic approach to calculate community value by taking ecosystem growth into consideration. The curve recognizes if an ecosystem grows, so does the amount of the tokens (supply) and subsequently so does its value and price. This differs from how digital token usually determine value, namely based on scarcity with supply and demand.
 
@@ -187,44 +187,51 @@ Zaisan has been around in EOSIO ecosystem for several years, formally known as E
 
 ### Roadmap
 
-> Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
-
-
 ### Milestones
+This grant will be used to integrate our application with the Proton ecosystem (convert smart contracts + application integration), create brand awareness, and to launch the platform.  
 
+### Milestone 1 - Convert token bonding curve protocol
 
-Protocol solidity --> typescript
-we wrote it ourselves in solidity
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| 0. | Unlicense |
+| 1a. | Smart Contracts | Since the protocol we developed is written in Solidity we need to convert it to Typescript. |
+| 1b. | Documentation | We will provide **inline documentation** of the code. |
+| 2. | Testing | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests for the customized contracts. |
+| 3. | Auditting | Auditting of the smart contracts to make sure everything is working as expected. |
 
-integration proton blockchain into application
+- **Estimated Duration:** 1 month
+- **FTE:**  1.5
+- **Costs:** 15,000 USD
 
+### Milestone 2 - Application integration
 
-
-> Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the Proton Blockchain ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-> For each milestone make sure to include detailed specification of your software. Include the amount of funding requested per milestone, as well as the number of full-time employees working on each milestone. This information should be included in the milestone deliverables.
-
-> FTE: Full-Time Equivalent (Number of people working on the project on a full-time basis)
-
-> Total Costs: This should be the requested amount in USD for the whole project milestone. If the grant is paid out in XPR the amount will be calculated based on the XPR/USD exchange rate on the time of payment.
-
-### Milestone Example
-
-- **Milestone:** 1
+- **Milestone:** 2
 - **Estimated duration:** 1 month
 - **FTE:**  2
-- **Costs:** 8,000 USD
+- **Costs:** 20,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can use our dApp. |
-| 0c. | Article | We will publish an **article** that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to Proton | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | API interface to our app | We will create an API that ... |  
+| 0. | Unlicense |
+| 1. | Documentation | We will provide extensive **tutorials** and **demos** that explains how a user can use our dApp. |
+| 1. | Application and API integration with Proton | We integrate the Proton blockchain into our application, this is implemented in the front and and our API so that we can easily connect it also to a mobile app. |  
+| 2. | Payment integration | Make it as easy as possible for users to join communities. This implies integrating wallet and fiat checkouts. This part covers steps for the necessary payment architecture of the system.  |
 
-> Add more milestones as needed.
+
+### Milestone 3 - Marketing/Sales & Application development
+
+- **Milestone:** 3
+- **Estimated duration:** 2 months
+- **FTE:**  2
+- **Costs:** 15,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0. | Unlicense |
+| 1. | Documentation | We will start our marketing and sales campaign for the launch to create awareness. With minimal 5 starting communities we will launch the platform. |
+| 0c. | Article | We will publish multiple **articles** that explains our token model, platform and community management 2.0. This includes costs for the promotion of the platform and hiring of working students as (digital) marketer/communication and business developer/sales. Together with our advisors we made a marketing and sales strategy where we want to use the funds of this step for.   |
+
 
 ### Future Plans
 
