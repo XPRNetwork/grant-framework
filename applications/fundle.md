@@ -24,7 +24,7 @@ This grant will be used integrate our application and token bonding curve protoc
 
 **Platform video**
 
-This video will show how the application will look like and how Fundle works!
+This video will show how the application looks like and how Fundle works!
 [https://vimeo.com/759605041
 ](https://vimeo.com/813072758)
 
