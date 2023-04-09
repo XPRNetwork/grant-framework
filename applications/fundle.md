@@ -183,6 +183,7 @@ https://www.linkedin.com/in/rhettoudkerkpool/
 
 
 Role: Business and blockchain development support
+
 Zaisan has been around in EOSIO ecosystem for several years, formally known as Europechain BV. The company is founded by several European block producers, and is focusing on software projects and business consultancy. The company has previously taken the task of writing the EOSIO Core+ Blue Paper on request of ENF.
 
 
