@@ -30,28 +30,23 @@
 
 ### Team
 
-**Wiebe Hendriks
-**
+**Wiebe Hendriks**
 
 Role: CEO
 An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. Background in Industrial Engineering and Management at Eindhoven University of Technology. Within Fundle focusing on general tasks (strategy, product design/functionalities), Software Development (front-end, blockchain), Marketing and Financial.
-**Niels Snakenborg
-**
+**Niels Snakenborg**
 
 Role: Software Developer
 A senior software developer that loves to work with people, new technologies and innovations. Designed, build en deployed several solutions for big companies in the past 7 years and uses this experience for Fundle and as an iOS and web developer. I get energy from working with like minded people and I am responsible for the backend development.
-**Leo Frehe
-**
+**Leo Frehe**
 
 Role: Business Advisor
 Over 20 years proven track record in senior/executive roles within both IT and business consultancy. From Professional- and Software Services to Manages Services and IP Solutions. Leading Sales and Delivery teams. With a passion for driving demonstrable results through leadership and teamwork. I have high energy and passion for business, business technology & innovation.
-**Gerton Knipping
-**
+**Gerton Knipping**
 
 Role: Marketing & Brand Advisor
 Founder of branding and positioning agencies with over 25 years of experience. Colleagues, clients and project teams consider me as a positive-critical person with a practical approach. I have always been a generalist with a sharp focus on details who was responsible for the clear translations from strategy to creation. Passion for solving problems; complex or simple, always with the highest attainable end result.
-**Rhett Oudkerk Pool
-**
+**Rhett Oudkerk Pool**
 
 Role: Business/Web3 Advisor
 CEO and founder of Zaisan, Europechain and previously Kahuna. A passionate entrepreneur, business leader, consultant, public speaker, and investor in Cyber Security & Web3 Companies. Always left of the chasm. Helping innovative companies and entrepreneurs create next- generation business models utilizing blockchain technology, to be part of the Internet of Value.
