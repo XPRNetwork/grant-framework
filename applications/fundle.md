@@ -4,19 +4,19 @@
 >
 > Fill out the following information about your team and project
 
-- **Project Name:** Name of your project (e.g. Atomic Assets)
-- **Team Name:** Legal name of your team (e.g. PinkNetwork, Inc)
+- **Project Name:** Fundle
+- **Team Name:** Fundle
 - **Payment Address:** Proton account
 - **Level:** Individual, Small Team, Company
-- **Is Project Open-Source:** Yes/No
-- **Project has a token:** Yes/No
-- **Github Repo:** github.com/<your_org>/<project_repo>
+- **Is Project Open-Source:** No
+- **Project has a token:** No
+- **Github Repo:** https://github.com/wefundle/fundle-contracts
 
 ### Contact Information
 
-- **Contact Name:** Full name of contact person
-- **Contact Email:** example@example.com
-- **Website:** https://example.com
+- **Contact Name:** Wiebe Hendriks
+- **Contact Email:** wiebe.hendriks@wefundle.com
+- **Website:** https://wefundle.com
 
 ### Project Details
 
@@ -30,11 +30,49 @@
 
 ### Team
 
-> List the members of your team, including their roles and responsibilities. Include links to their LinkedIn profiles, Github repos, and any other relevant information.
+**Wiebe Hendriks
+**
+
+Role: CEO
+An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. Background in Industrial Engineering and Management at Eindhoven University of Technology. Within Fundle focusing on general tasks (strategy, product design/functionalities), Software Development (front-end, blockchain), Marketing and Financial.
+**Niels Snakenborg
+**
+
+Role: Software Developer
+A senior software developer that loves to work with people, new technologies and innovations. Designed, build en deployed several solutions for big companies in the past 7 years and uses this experience for Fundle and as an iOS and web developer. I get energy from working with like minded people and I am responsible for the backend development.
+**Leo Frehe
+**
+
+Role: Business Advisor
+Over 20 years proven track record in senior/executive roles within both IT and business consultancy. From Professional- and Software Services to Manages Services and IP Solutions. Leading Sales and Delivery teams. With a passion for driving demonstrable results through leadership and teamwork. I have high energy and passion for business, business technology & innovation.
+**Gerton Knipping
+**
+
+Role: Marketing & Brand Advisor
+Founder of branding and positioning agencies with over 25 years of experience. Colleagues, clients and project teams consider me as a positive-critical person with a practical approach. I have always been a generalist with a sharp focus on details who was responsible for the clear translations from strategy to creation. Passion for solving problems; complex or simple, always with the highest attainable end result.
+**Rhett Oudkerk Pool
+**
+
+Role: Business/Web3 Advisor
+CEO and founder of Zaisan, Europechain and previously Kahuna. A passionate entrepreneur, business leader, consultant, public speaker, and investor in Cyber Security & Web3 Companies. Always left of the chasm. Helping innovative companies and entrepreneurs create next- generation business models utilizing blockchain technology, to be part of the Internet of Value.
+**Zaisan**
+
+
+Role: Business and blockchain development support
+Zaisan has been around in EOSIO ecosystem for several years, formally known as Europechain BV. The company is founded by several European block producers, and is focusing on software projects and business consultancy. The company has previously taken the task of writing the EOSIO Core+ Blue Paper on request of ENF.
+
+**Team LinkedIn Profiles
+**
+
+https://www.linkedin.com/in/wiebe-hendriks/ 
+https://www.linkedin.com/in/niels-snakenborg-05a07661/ 
+https://www.linkedin.com/in/leo-frehe-9433811/ 
+https://www.linkedin.com/in/rhettoudkerkpool/
 
 ### Roadmap
 
 > Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
+
 
 ### Milestones
 
@@ -66,9 +104,5 @@
 
 ### Future Plans
 
-> How do you intend to enhance, promote and support your project in the future?
-
-### Additional Information
-
-> Include work you have already done on Proton Blockchain, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
+We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies. In the coming years we will slowly move towards the adoption of digital economies. The roadmap can be found at: https://wefundle.com/roadmap
 
