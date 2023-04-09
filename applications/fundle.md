@@ -219,7 +219,7 @@ This grant will be used to integrate our application with the Proton ecosystem (
 | 3. | Documentation | We will provide extensive **tutorials** and **demos** that explains how a user can use our dApp. |
 
 
-### Milestone 3 - Marketing/Sales
+### Milestone 3 - Marketing & Sales
 
 - **Milestone:** 3
 - **Estimated duration:** 2 months
