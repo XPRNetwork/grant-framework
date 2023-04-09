@@ -192,17 +192,17 @@ This grant will be used to integrate our application with the Proton ecosystem (
 
 ### Milestone 1 - Convert token bonding curve protocol
 
+- **Milestone:** 1
+- **Estimated Duration:** 1 month
+- **FTE:**  1.5
+- **Costs:** 15,000 USD
+
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0. | Unlicense |
 | 1a. | Smart Contracts | Since the protocol we developed is written in Solidity we need to convert it to Typescript. |
 | 1b. | Documentation | We will provide **inline documentation** of the code. |
 | 2. | Testing | Core functions will be fully covered by unit tests to ensure functionality and robustness. |
 | 3. | Auditting | Auditting of the smart contracts to make sure everything is working as expected. |
-
-- **Estimated Duration:** 1 month
-- **FTE:**  1.5
-- **Costs:** 15,000 USD
 
 ### Milestone 2 - Application integration
 
