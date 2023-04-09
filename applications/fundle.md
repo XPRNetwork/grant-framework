@@ -65,7 +65,7 @@ We have developed and finished the application and token bonding curve protocol.
 
 **Wiebe Hendriks**
 
-Role: CEO
+Role: CEO/Founder
 
 An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. Background in Industrial Engineering and Management at Eindhoven University of Technology. Within Fundle focusing on general tasks (strategy, product design/functionalities), Software Development (front-end, blockchain), Marketing and Financial.
 
