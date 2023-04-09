@@ -88,7 +88,7 @@ Members buy tokens to become part of the digital community and enjoy the benefit
 
 The community token model creates new ways of interaction between businesses and members and so new types of benefits and opportunities!
 
-#### For businesses:
+### For businesses:
 From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and trust. This will positively affect the profit and success of the business.
 
 **Marketing tool**
@@ -107,7 +107,7 @@ Ability to offer new types of customer experiences such as digital assets (NFTs)
 
 Access to skills and opinions of the community to grow and improve the business/product. Enables new forms of (user centric) product creation.
 
-#### For members:
+### For members:
 Current platforms lack real community involvement and interaction. Members cannot really be "part of" and there is little interaction. Furthermore, both business and members cannot always have fair benefits (social and/or economical).
 
 **Exclusive access**
