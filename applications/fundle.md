@@ -26,6 +26,9 @@ Each business has its own token to build a digital community and economy. Holder
 
 Our token model introduces new ways of customer engagement, benefits, involvement and marketing. Allowing businesses to increase their brand to customer relationship and grow their customer and fan base!
 
+The exclusive digital economy can enable new revenue streams and can be used as an effective marketing tool for businesses. The token model unlocks new ways of customer engagement, benefits, involvement and marketing. Allowing businesses to increase their brand to customer relationship and grow their customer and fan base! The community is rewarded for the value they help creating the business. Members will have social & economic incentives to help the business succeed and the community will grow not only by its members but also in economic value. The tokens stimulate active participation and promotion of the business.
+
+
 ### Project Details
 
 This grant will be used integrate our application and token bonding curve protocol with Proton and to launch the platform. Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building, managing, and crowdfunding. 
@@ -57,9 +60,63 @@ We have developed and finished the application and token bonding curve protocol.
 
 ### Ecosystem Fit
 
-> 1. Where and how does your project fit into the Proton ecosystem?
-> 2. Who is your target audience?
-> 3. What needs does your project meet for the community and what sets it apart from other similar projects?
+**1. Where and how does your project fit into the Proton ecosystem?**
+
+Fundle's potential partnership with the Proton blockchain presents an exciting opportunity to introduce a whole new cohort of users to the world of crypto and Proton. By leveraging the power of Proton, Fundle can showcase what is possible to build on this innovative blockchain by demonstrating the practical value of this blockchain in the real world. With a focus on fostering interaction between members and businesses, Fundle is set to generate a significant volume of transactions on the Proton Blockchain, which will, increase liquidity and volume in the Proton ecosystem. Moreover, Fundle's collaboration with Proton will enable many new and non-crypto users to explore and interact with the Proton ecosystem, including the use of webauth, expanding Protons customer base. With our application ready for launch, Fundle is set to make a significant impact on the Proton ecosystem and beyond
+
+Similar to Proton’s mission, payment accessibility is of high importance for Fundle, and that's why we see Proton as the perfect blockchain to power our platform. Compared to Polygon, Proton offers several benefits for our users, including a streamlined payment process with fiat onramps and no gas fees. With in-app payment requests and verified user accounts, we can simplify and increase the conversion of community token purchases, while minimizing the risk of financial scams and bot activity. By harnessing the power of Proton's high throughput and transaction cost-free architecture. Blockchain technology allows us to revolutionize and strengthen the position of the community with our developed token bonding curve model. 
+
+
+**2. Who is your target audience?**
+
+**3. What needs does your project meet for the community and what sets it apart from other similar projects?**
+
+The community token model creates new ways of interaction between businesses and members and so new types of benefits and opportunities!
+
+#### For businesses:
+From business perspective, much more can be gained from a community (skills, opinions, etc.). An involved and active community will result in loyal customers, a reduction in support costs and an increase in brand awareness and trust. This will positively affect the profit and success of the business.
+
+**Marketing tool**
+
+Tool to build and host community with strong long term relationships with involvement and interaction. The token model stimulates engagement, active participation, promotion and involvement. Fundle can be used to attract new customers and create more engagement within an existing community. More effective marketing than running ads. Businesses can create a digital ecosystem to strengthen brand to customer relations.
+
+**Digital Economy**
+
+Building a digital economy. Business can enable new revenue streams by using Fundle as a sales channel to sell exclusive products, items (NFTs) or merch and profit even more since the community will grow not only by its members but also in economic value. Businesses can determine themselves how they want to utilize the Fundle platform and which types of value or revenue streams they want to enable. The integrated chat eliminates need for external chat channels. Businesses don't need additional communication or sales channels anymore. 
+
+**Offering new experiences**
+
+Ability to offer new types of customer experiences such as digital assets (NFTs) or experiences.
+
+**Community skills**
+
+Access to skills and opinions of the community to grow and improve the business/product. Enables new forms of (user centric) product creation.
+
+#### For members:
+Current platforms lack real community involvement and interaction. Members cannot really be "part of" and there is little interaction. Furthermore, both business and members cannot always have fair benefits (social and/or economical).
+
+**Exclusive access**
+
+Access to the community with benefits and rewards in the form of products, NFTs, merchandise, events, experiences, discounts, tokens and acces to content via the groupchat.
+
+**Involvement and interaction**
+
+Involvement and interaction with the business in the form of involvement in the design, testing or development process of products. Interaction via the chat with business updates or discussions and polls about (design) ideas.
+
+**Freelance possibility**
+
+Creatives can do tasks for the community in exchange for community tokens (design, advisory, marketing, etc.). We will move towards a heavily interactive environment based on open business participation.
+
+**Voting**
+
+Democratic fundraising mechanism where members can buy products as pre orders and have control over the collected money. (Mechanism will be included in the future)
+
+#### Uniqueness
+
+To the best of our knowledge there are no similar projects in the Proton or related ecosystems. Compared to other community building platform we are unique. Our token modal and ways of interaction between business and members sets us apart. There is a completely different dynamic on our platform with a social media vibe. Fundle is therefore the perfect all-in-one platform and marketing tool for businesses to get the most out or their community. 
+
+
+
 
 ### Team
 
