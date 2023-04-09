@@ -135,7 +135,7 @@ To the best of our knowledge there are no similar projects in Proton's or relate
 
 Role: CEO/Founder
 
-An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. Background in Industrial Engineering and Management at Eindhoven University of Technology and digital innovation consultancy focused on  payments and web 3. Within Fundle focusing on general tasks (strategy, product design/functionalities), Software Development (front-end, blockchain), Marketing and Financial.
+An ambitious person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. Background in Industrial Engineering and Management at Eindhoven University of Technology and digital innovation consultancy focused on  payments and web 3. Within Fundle focusing on general tasks (strategy, product design/functionalities), Software Development (front-end, blockchain), Marketing and Financial.
 
 https://www.linkedin.com/in/wiebe-hendriks/ 
 
@@ -145,12 +145,16 @@ Role: Software Developer
 
 A senior software developer that loves to work with people, new technologies and innovations. Designed, build en deployed several solutions for big companies in the past 7 years and uses this experience for Fundle and as an iOS and web developer. I get energy from working with like minded people and I am responsible for the backend development.
 
-**Robin Starink**
-
-Role: Sales
-
 https://www.linkedin.com/in/niels-snakenborg-05a07661/ 
 
+
+**Robin Starink**
+
+Role: Marketing & Sales
+
+An enthusiastic person who derives satisfaction from giving presentations and making deals. Currently studying sales and marketing at Avans university. Believes in Fundle because of the disruptive vision and the combination of people and innovative technology at its core. Working at marketing and sales within Fundle.
+
+https://www.linkedin.com/in/robin-starink-80111815b/
 
 **Leo Frehe**
 
