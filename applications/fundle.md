@@ -44,7 +44,6 @@ These market trends and opportunities form the basis of the Fundle platform. We 
 
 #### Application UI 
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
-![image](https://user-images.githubusercontent.com/54183058/230790954-c2bd0c2c-fe90-4fb5-a8f3-ba3e8c7ad8a0.png)
 
 **Platform video**
 
