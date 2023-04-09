@@ -28,7 +28,7 @@ Communities will play a vital role in improving user experience and brand to cus
 
 ### Project Details
 
-This grant will be used integrate our application and token bonding curve protocol with Proton and to launch the platform. Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building, managing, and crowdfunding. 
+This grant will be used to integrate our application and token bonding curve protocol with Proton and to launch the platform. Our team has an ambitious long-term commitment to make Fundle the most popular all-in-one platform for community building, managing, and crowdfunding. 
 
 We see an interesting opportunity in the crowdfunding and community-building market. In these markets involvement and interaction are essential for success. With the entrance of web3, we can strengthen and improve these factors. 
 
