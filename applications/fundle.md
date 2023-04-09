@@ -139,7 +139,7 @@ To the best of our knowledge there are no similar projects in Proton's or relate
 
 Role: CEO/Founder
 
-An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. Background in Industrial Engineering and Management at Eindhoven University of Technology. Within Fundle focusing on general tasks (strategy, product design/functionalities), Software Development (front-end, blockchain), Marketing and Financial.
+An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. Background in Industrial Engineering and Management at Eindhoven University of Technology and digital innovation consultancy focused on  payments and web 3. Within Fundle focusing on general tasks (strategy, product design/functionalities), Software Development (front-end, blockchain), Marketing and Financial.
 
 https://www.linkedin.com/in/wiebe-hendriks/ 
 
