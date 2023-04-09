@@ -93,6 +93,14 @@ https://www.linkedin.com/in/rhettoudkerkpool/
 
 ### Milestones
 
+
+Protocol solidity --> typescript
+we wrote it ourselves in solidity
+
+integration proton blockchain into application
+
+
+
 > Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the Proton Blockchain ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
 
 > For each milestone make sure to include detailed specification of your software. Include the amount of funding requested per milestone, as well as the number of full-time employees working on each milestone. This information should be included in the milestone deliverables.
