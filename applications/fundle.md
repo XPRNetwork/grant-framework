@@ -3,7 +3,7 @@
 - **Project Name:** Fundle
 - **Team Name:** Fundle
 - **Payment Address:** Proton account
-- **Level:** Individual, Small Team, Company
+- **Level:** Company
 - **Is Project Open-Source:** No
 - **Project has a token:** No
 - **Github Repo:** https://github.com/wefundle/fundle-contracts
