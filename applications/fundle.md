@@ -28,6 +28,7 @@ Our token model introduces new ways of customer engagement, benefits, involvemen
 
 The exclusive digital economy can enable new revenue streams and can be used as an effective marketing tool for businesses. The token model unlocks new ways of customer engagement, benefits, involvement and marketing. Allowing businesses to increase their brand to customer relationship and grow their customer and fan base! The community is rewarded for the value they help creating the business. Members will have social & economic incentives to help the business succeed and the community will grow not only by its members but also in economic value. The tokens stimulate active participation and promotion of the business.
 
+Communities will play a vital role in improving user experience and brand to customer relationships. The future will be digital, social and community-driven and web3 will change how the world will interact with each other. We believe that the current concept of monthly membership fees can be upset by the community token model.
 
 ### Project Details
 
@@ -44,6 +45,14 @@ An average member contributes $67 of worth yearly to the community. 33% of organ
 Active participation, involvement, and engagement remains difficult for large businesses. 55% of community professionals find it difficult to consistently engage members when running online communities.  For small businesses building and managing communities remains challenging and a barrier.
 
 These market trends and opportunities form the basis of the Fundle platform. We can revolutionize this landscape by combining the benefits of these markets and blockchain. The way of community building and fundraising needs to be redeveloped to let it reach its maximum potential. We believe that building long-term relationships, involvement and control is essential for this. Our community token model allows businesses to reward members and engage with them more closely than before. The funding mechanism will be democratic and based on voting to release the funds stepwise. We will move towards a heavily interactive environment based on open business participation. The community can help tackling issues and be paid out in tokens. 
+
+**Technical description of protocol**
+
+Token bonding curves facilitate buy and sell mechanism. Each community has its own curve and utility token acting as an Automated Market Maker to facilitate buy and sell of tokens. Works as an automated algorithm which calculates the token price based on the supply of a token. Users can buy the token by providing collateral for the curve in fiat currencies or other cryptos. At purchase a new community token is mint/created which increases the supply. 
+
+Our innovative token bonding curve protocol provides a dynamic approach to calculate community value by taking ecosystem growth into consideration. The curve recognizes if an ecosystem grows, so does the amount of the tokens (supply) and subsequently so does its value and price. This differs from how digital token usually determine value, namely based on scarcity with supply and demand.
+
+In this way there is a stable mechanism regarding price where both the community and business can be rewarded for the value they help creating. Engagement and benefits determine the added value and thus, utility of the token. This utility drives popularity and attracts members, which influences purchase and holding behavior that determines the token price. 
 
 #### Application UI 
 <img width="1296" alt="image" src="https://user-images.githubusercontent.com/54183058/191728363-99844410-721e-4e51-ae91-471825e49806.png">
@@ -68,6 +77,12 @@ Similar to Proton’s mission, payment accessibility is of high importance for F
 
 
 **2. Who is your target audience?**
+
+Our target businesses are those who are interested in the potential of online community building and are focused on innovating their businesses to improve customer experiences. These businesses should preferably already be actively online and have existing communities where they would like to expand and interact with more. We are targeting web 3 interested brands, influencers with brands, and crowdfunding projects that want to offer new customer experiences or build, grow and manage their communities.
+
+These can be businesses with existing communities who like to have more interaction with their fanbase to gain more (value) from their community and offer new customer experiences. Or startups who want to build, grow and manage their community/business. 
+
+Members buy tokens to become part of the digital community and enjoy the benefits. We are also targeting members who have never used blockchain before, which is why payment accessibility with fiat onramps is crucial for us. This makes our platform useful and interesting for a wide range of people.
 
 **3. What needs does your project meet for the community and what sets it apart from other similar projects?**
 
@@ -213,5 +228,11 @@ integration proton blockchain into application
 
 ### Future Plans
 
-We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies. In the coming years we will slowly move towards the adoption of digital economies. The roadmap can be found at: https://wefundle.com/roadmap
+We see many expansion options for the Fundle platform and we will stay commited to it. We really believe in full tokenization and digital economies. In the coming years we will move towards the adoption of digital economies. 
+
+**Roadmap**
+
+<img width="1434" alt="image" src="https://user-images.githubusercontent.com/54183058/230792696-aca42f4d-5726-4fb1-8222-16ce25e13c9a.png">
+
+
 
