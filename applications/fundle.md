@@ -215,7 +215,7 @@ This grant will be used to integrate our application with the Proton ecosystem (
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 1. | Application and API integration with Proton | We integrate the Proton blockchain into our application, this is implemented in the front and and our API so that we can easily connect it also to a mobile app. |  
+| 1. | Application and API integration with Proton | We will integrate the Proton blockchain into our application, this is implemented in the front and and our API so that we can easily connect it also to a mobile app. |  
 | 2. | Payment integration | We will make it as easy as possible for users to join communities. Therefore we need to integrate wallet and fiat checkouts. This part covers the necessary payment architecture of the system.  |
 | 3. | Documentation | We will provide extensive **tutorials** and **demos** that explains how a user can use our dApp. |
 
