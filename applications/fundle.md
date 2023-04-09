@@ -44,6 +44,8 @@ Role: CEO
 
 An ambitious and enthusiastic person with an entrepreneurial and problem-solving mindset. Strong affinity with innovation and IT. Likes to go the extra mile. Background in Industrial Engineering and Management at Eindhoven University of Technology. Within Fundle focusing on general tasks (strategy, product design/functionalities), Software Development (front-end, blockchain), Marketing and Financial.
 
+https://www.linkedin.com/in/wiebe-hendriks/ 
+
 **Niels Snakenborg**
 
 Role: Software Developer
@@ -54,12 +56,16 @@ A senior software developer that loves to work with people, new technologies and
 
 Role: Sales
 
+https://www.linkedin.com/in/niels-snakenborg-05a07661/ 
+
 
 **Leo Frehe**
 
 Role: Business Advisor
 
 Over 20 years proven track record in senior/executive roles within both IT and business consultancy. From Professional- and Software Services to Manages Services and IP Solutions. Leading Sales and Delivery teams. With a passion for driving demonstrable results through leadership and teamwork. I have high energy and passion for business, business technology & innovation.
+
+https://www.linkedin.com/in/leo-frehe-9433811/ 
 
 **Gerton Knipping**
 
@@ -73,18 +79,14 @@ Role: Business/Web3 Advisor
 
 CEO and founder of Zaisan, Europechain and previously Kahuna. A passionate entrepreneur, business leader, consultant, public speaker, and investor in Cyber Security & Web3 Companies. Always left of the chasm. Helping innovative companies and entrepreneurs create next- generation business models utilizing blockchain technology, to be part of the Internet of Value.
 
+https://www.linkedin.com/in/rhettoudkerkpool/
+
 **Zaisan**
 
 
 Role: Business and blockchain development support
 Zaisan has been around in EOSIO ecosystem for several years, formally known as Europechain BV. The company is founded by several European block producers, and is focusing on software projects and business consultancy. The company has previously taken the task of writing the EOSIO Core+ Blue Paper on request of ENF.
 
-**Team LinkedIn Profiles**
-
-https://www.linkedin.com/in/wiebe-hendriks/ 
-https://www.linkedin.com/in/niels-snakenborg-05a07661/ 
-https://www.linkedin.com/in/leo-frehe-9433811/ 
-https://www.linkedin.com/in/rhettoudkerkpool/
 
 ### Roadmap
 
