@@ -20,7 +20,7 @@
 
 ### Project Details
 
-This grant will be used to build the community token model, integrate with TrustEVM and launch the platform. The community can make use of and learn from the mechanism or build and manage their communities on the Fundle platform! We will customize and make the Balancer protocol compatible for TrustEVM.
+This grant will be used integrate our application and token bonding curve protocol with Proton and to launch the platform. 
 
 **Platform video**
 
@@ -79,8 +79,7 @@ CEO and founder of Zaisan, Europechain and previously Kahuna. A passionate entre
 Role: Business and blockchain development support
 Zaisan has been around in EOSIO ecosystem for several years, formally known as Europechain BV. The company is founded by several European block producers, and is focusing on software projects and business consultancy. The company has previously taken the task of writing the EOSIO Core+ Blue Paper on request of ENF.
 
-**Team LinkedIn Profiles
-**
+**Team LinkedIn Profiles**
 
 https://www.linkedin.com/in/wiebe-hendriks/ 
 https://www.linkedin.com/in/niels-snakenborg-05a07661/ 
