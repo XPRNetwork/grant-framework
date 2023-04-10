@@ -215,7 +215,7 @@ This grant will be used to integrate our application with the Proton ecosystem (
 - **FTE:**  2
 - **Costs:** 20,000 USD
 
-| ID | Deliverable | Specification |
+| Number | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 1. | Application and API integration with Proton | We will integrate the Proton blockchain into our application, this implies implementation in the front and our API so that we can easily connect it also to a mobile app. |  
 | 2. | Payment integration | We will make it as easy as possible for users to join communities. Therefore we need to integrate the webauth wallet and fiat checkouts. This part covers the necessary steps for a comprehensive payment architecture in the system.  |
@@ -229,7 +229,7 @@ This grant will be used to integrate our application with the Proton ecosystem (
 - **FTE:**  2
 - **Costs:** 15,000 USD
 
-| ID | Deliverable | Specification |
+| Number | Deliverable | Specification |
 | ----- | ----------- | ------------- |
 | 1. | Marketing/Sales | Costs for the promotion of the platform. Together with our advisors we made a marketing and sales strategy, we will start this marketing campaign to create brand awareness and generate sales. With a minimum of 5 starting communities we will launch the platform. |
 | 2. | Articles | We will publish multiple **articles** that explains our token model, platform and community management 2.0.   |
