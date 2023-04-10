@@ -22,9 +22,12 @@ Each business has its own token to build a digital community and economy. Holder
 
 Our token model introduces new ways of customer engagement, benefits, involvement and marketing. Allowing businesses to increase their brand to customer relationship and grow their customer and fan base!
 
-The exclusive digital economy can enable new revenue streams and can be used as an effective marketing tool for businesses. The token model unlocks new ways of customer engagement, benefits, involvement and marketing. Allowing businesses to increase their brand to customer relationship and grow their customer and fan base! The community is rewarded for the value they help creating the business. Members will have social & economic incentives to help the business succeed and the community will grow not only by its members but also in economic value. The tokens stimulate active participation and promotion of the business.
+The exclusive digital economy can enable new revenue streams and can be used as an effective marketing tool for businesses. The token model unlocks new ways of customer engagement, benefits, involvement and marketing. Allowing businesses to increase their brand to customer relationship and grow their customer and fan base! The community is rewarded for the value they help creating the business. Members will have social & economic incentives to help the business succeed and the community will grow not only by its members but also in economic value. The tokens stimulate active participation and promotion of the business. New innovations in the community can be crowdfunded by selling them as pre orders and multiple funding rounds are possible. This funding mechanism will be democratic and based on voting to release funds stepwise.
 
 Communities will play a vital role in improving user experience and brand to customer relationships. The future will be digital, social and community-driven and web3 will change how the world will interact with each other. We believe that the current concept of monthly membership fees can be upset by the community token model.
+
+Fundle and Proton's potential partnership presents an exciting opportunity to introduce new users to the world of crypto. Fundle can showcase what is possible to build on Proton, generates transactions, boosts liquidity and volume in the Proton ecosystem. Fundle's also attracts non-crypto users, expanding Proton’s customer base too. Fundle is ready to launch, set to make a significant impact in the world of crypto.
+
 
 ### Project Details
 
