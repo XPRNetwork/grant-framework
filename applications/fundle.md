@@ -1,9 +1,9 @@
 # Proton Blockchain Grant Proposal 
-### Fundle's new generation of community building #BuildOnProton
+### Fundle's new generation of community building #BuildonProton
 
 - **Project Name:** Fundle
 - **Team Name:** Fundle
-- **Payment Address:** Proton account
+- **Payment Address:** fundle
 - **Level:** Company
 - **Is Project Open-Source:** No
 - **Project has a token:** No
@@ -15,7 +15,7 @@
 - **Website:** https://wefundle.com
 
 ### Short Description
-Fundle is a community building platform to increase customer engagement, benefits and value for both business and members.
+Fundle is a web3 community building platform to increase customer engagement, benefits and value for both business and members.
 
 We allow businesses to build stronger long-term relationships, offer new customer experiences and gain more out of their community. Our mission is to increase customer engagement, benefits and deliver more value from the community for both business and members.
 Each business has its own token to build a digital community and economy. Holders of that token (members) can unlock specific products, NFTs, merchandise, events, experiences, discounts, tokens, access to content or involvement. Community tokens allow businesses to engage with their fans more closely than ever before.
