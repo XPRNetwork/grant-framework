@@ -6,7 +6,7 @@
 - **Payment Address:** fundle
 - **Level:** Company
 - **Is Project Open-Source:** No
-- **Project has a token:** No
+- **Project has a token:** No, but enables clients to create a (community) token
 
 ### Contact Information
 
