@@ -26,7 +26,7 @@ The exclusive digital economy can enable new revenue streams and can be used as 
 
 Communities will play a vital role in improving user experience and brand to customer relationships. The future will be digital, social and community-driven and web3 will change how the world will interact with each other. We believe that the current concept of monthly membership fees can be upset by the community token model.
 
-Fundle and Proton's potential partnership presents an exciting opportunity to introduce new users to the world of web3 and Proton. Fundle will generate transactions, boost liquidity and volume in the Proton ecosystem and showcase what is possible to build on Proton. We are ready to launch, set to make a significant impact in the world of crypto.
+Fundle and Proton's potential partnership presents an exciting opportunity to introduce new users to the world of web3 and Proton. Fundle will generate transactions, boost liquidity and volume in the Proton ecosystem and showcase what is possible to build on Proton. We are ready to launch, set to make a significant impact in the world of web3.
 
 
 ### Project Details
