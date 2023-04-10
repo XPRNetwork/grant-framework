@@ -47,7 +47,7 @@ These market trends and opportunities form the basis of the Fundle platform. We 
 
 **Technical description of protocol**
 
-Each community has its own token bonding curve and utility token acting as an automated market maker to facilitate the buy and sell process of tokens. The algorithm  calculates the token price based on the supply of a token. Users can buy the token by providing collateral for the curve the USDC/EUROC stablecoins. At purchase a new community token is mint/created which increases the supply. 
+Each community has its own token bonding curve and utility token acting as an automated market maker to facilitate the buy and sell process of tokens. The algorithm  calculates the token price based on the supply of a token. Users can buy the token by providing collateral for the curve with USDC/EUROC stablecoins. At purchase a new community token is mint/created which increases the supply. 
 
 Our innovative token bonding curve protocol provides a dynamic approach to calculate community value by taking ecosystem growth into consideration. The curve recognizes if an ecosystem grows, so does the amount of the tokens (supply) and subsequently so does its value and price. This differs from how digital token usually determine value, namely based on scarcity with supply and demand.
 
