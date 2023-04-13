@@ -50,6 +50,50 @@ Note: Fishtank will all be one platform DApp with modules, with a community base
 2. Job seekers/professionals (B2C) and businesses looking to source global talent (B2B)
 3. Nobody else is really trying to do this elsewhere in this way, and the potential is huge given the problems we're aiming to reduce/solve. We can help bring more people into the Proton ecosystem as a whole, and show that we can have a global talent network governed by the very people who build and make our world what it is. Additionally, we can onboard businesses in the space, and due to us wanting to take a configurable and modular approach, we could potentially extend this out later with an API where developers elsewhere in the community can come and build modules that compliment the overall mission (similar to what Shopify have done with commerce).
 
+### Target Audience
+
+Our target audience is not just those within the crypto industry, but the entire market as a whole with a particular focus on white collar occupations on the B2C side, and businesses of all sizes on the B2B size scaling up from SMBs and growth phased companies to Enterprise clients. 
+
+We have already conducted research here and there's clear demand from businesses of all sizes including Fortune 500 companies regarding the use of digital wallets to tackle problems such as recruitment and credential fraud, eliminating heavy manual processes through automation, and providing real-time analytics and reporting, and many other benefits that can be leveraged from using Web3 based solutions.
+
+
+### Market Size/Potential
+
+We have conducted in-depth research on this but a good case study of a similar venture that isn't blockchain based is Rippling. They started with a $120k seed check from Y Combinator and roughly 6 years later are now worth ~$11bn with solid YOY growth and revenue. Rippling are also heavily US focused and would not have the value add we'd have of talent pools, digital wallets to tackle recruitment and credential fraud, blockchain-based auditing, and many other use cases.
+
+https://sacra.com/c/rippling/#:~:text=Note%3A%20Revenue%20and%20growth%20rates,150%25%20from%20the%20year%20before.
+
+In the UK alone, which we do plan to move into the market at some point in the future, recruitment fraud as one problem alone is estimated to be a problem costing businesses $23bn annually.
+
+https://www.researchgate.net/publication/332380750_The_real_cost_of_recruitment_fraud
+
+
+Another good case study is HiBob: https://www.bvp.com/atlas/the-rise-of-hibob#:~:text=With%20more%20than%201%2C500%20customers,HRIS%20and%20people%20management%20platforms.
+
+TAM: https://www.spiceworks.com/hr/future-work/articles/total-addressable-market-for-work-tech-to-grow-to-970-billion/
+
+At $970bn for work-tech, even at 0.01% market capitalisation (SOM) that's roughly $100m. We believe due to our differentiators and value proposition which we've already validated, we can far exceed that in the next few years.
+
+https://www.bloomberg.com/press-releases/2022-09-15/mobile-wallet-market-to-value-usd-970-bn-by-2030-says-global-market-insights-inc
+
+Also, the mobile wallet market is poised to become almost a $1trn market by 2030. A huge part of this ties into use cases in the work-tech space. We believe WebAuth tied into the Metalpay API and payment processing services will put us in a position to make a lot of headway in this area. Nobody else is offering a combination of Web2/Web3 capabilities, and self custody of assets. Also, nobody else is building a talent ecosystem and workforce solutions tailored to business professionals and allows them to govern it.
+
+The only other player in the current crypto industry which has gained huge traction currently is BrainTrust which is proof there is huge demand for this type of venture. However, this is based on Ethereum, is more of a headhunting/talent scout solution, and doesn't really give users that much control over the features added, or their future. They also have nothing like WebAuth wallet.
+
+https://www.usebraintrust.com/
+https://coinmarketcap.com/currencies/braintrust/ 
+
+More sources:
+
+https://www.linkedin.com/pulse/digital-wallets-future-payments-maishainfotech/
+https://www.silamoney.com/ach/should-employees-be-given-digital-wallets
+
+
+Regarding recruitment fraud as a problem:
+
+https://www.peoplemanagement.co.uk/article/1741677/recruitment-fraud-major-hr-challenge
+
+
 ### Team
 
 CORE TEAM:
@@ -136,6 +180,38 @@ Other deliverables:
 
 Note: Due to the nature of our business, the above milestones/dates are target dates - we need to ensure what we are doing is compliant with labor law and other regulations, and this may increase time with releases. Due to this, as outlined further below, we commit to pushing changes to a staging environment link on a regular basis so progress is visible at all times.
 
+### Cost Breakdown
+
+Below is an overview of the cost breakdown to deliver incrementally on the scope outlined above. Our aim is to work in an agile manner with sprint goals, OKR based roadmaps, and a release roadmap.
+
+https://www.capco.com/en/Intelligence/Capco-Intelligence/Capacity-Based-Funding-And-Planning-In-An-Agile-Environment
+
+* Lead Engineer $7000*9-12 months = $63-84,000 (estimate)
+* UX Designer = $1000*12 = $12,000 (estimate)
+* Audits/Security Scan = $5-10,000 (estimate)
+* Compliance & Legal = $5-10,000 (estimate) / US expertise needed
+* Marketing = $2,500
+* Operations = $5,000
+* Infrastructure/Tech = $5,000
+* Events/Travel/Partnerships = $2,500
+
+Total Ballpark Estimate = $100-131k.
+
+Note: In addition to the above we will be self-funding to support the business/project.
+
+Ultimately, depending on market conditions, we anticipate the above providing adequate funding for 12-18 months due to us operating out of Central Europe - possibly even longer. We want to onboard a strong lead engineer who can grow with both Fishtank and the Proton community, and be in it for the long-term as an asset. We are not willing to outsource to cut corners as that introduces a huge amount of risk into the project.
+
+Funding only to be allocated elsewhere (e.g, providing liquidity for a DEX listing) should it make strategic sense, and there is sufficient capital to do so - and it's something the community supports from an expenditure standpoint. We are happy to put this to another vote.
+
+In the same manner as others in the market such as Gusto, HiBob, and Rippling, we believe initial funding would help us lay solid foundations for initial traction, revenue, and growth moving forward. All of these businesses are relatively new in a market that is constantly being disrupted, and none of them are blockchain-based or using Web3 technology. We have a real opportunity from a first mover advantage standpoint.
+
+
+### Profit Sharing
+
+* 5% initially to go back into the Proton ecosystem
+* 5% initially to go into a Fishtank Development Fund to support platform extension of the marketplace (can be a multisig wallet)
+* Open to this being reviewed on an annual basis in the form of a meeting and adjusted based on additional funding needs and success revenue/profit-wise
+
 ### Future Plans
 
 * We are already working on our new website which is content and community focused - aim is to use this in multiple ways:
@@ -189,3 +265,12 @@ Below is an overview of our longer term goals to support our vision and mission 
 * Molly $MLY - fun utility token - a separate token participants can have more fun with later on by voting without introducing risk to the Fishtank token and ecosystem - max supply: 1bn
 
 NOTE: None of the above tokens represent ownership in Fishtank Labs, Inc. (core developer).
+
+
+
+
+### If Funding Is Granted
+
+* Roadmap with quarterly OKRs will be set up and shared at the earliest opportunity (see example here: https://feedback.featurebase.app/roadmap)
+* We are open to providing access to Paul G. to JIRA to have transparency into sprint delivery/goals
+* Additionally, we have already committed to transparency elsewhere in terms of expenditure
