@@ -184,6 +184,8 @@ Note: Due to the nature of our business, the above milestones/dates are target d
 
 Below is an overview of the cost breakdown to deliver incrementally on the scope outlined above. Our aim is to work in an agile manner with sprint goals, OKR based roadmaps, and a release roadmap.
 
+https://www.capco.com/en/Intelligence/Capco-Intelligence/Capacity-Based-Funding-And-Planning-In-An-Agile-Environment
+
 * Lead Engineer $7000*9-12 months = $63-84,000 (estimate)
 * UX Designer = $1000*12 = $12,000 (estimate)
 * Audits/Security Scan = $5-10,000 (estimate)
