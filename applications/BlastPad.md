@@ -1,9 +1,5 @@
 # Proton Blockchain Grant Proposal
 
-> See the [Grant Framework Application Process](https://github.com/ProtonProtocol/grant-framework#application-process) on how to submit a proposal.
->
-> Fill out the following information about your team and project
-
 - **Project Name:** BlastPad
 - **Team Name:** HomeBloks  Registered corporation is Broker IDX Sites Inc. 
 - **Payment Address:** @homebloks or KYC’d wallet is @JimTacy
@@ -30,9 +26,9 @@ The Domains for this project:
 
 The token creation page will be https://tokencreate.io/ and the idea would be a front end, easy to use, platform where non-tech savvy creators can create a token on the Proton blockchain very simply by answering some questions and uploading a token design. 
 The next part of the platform is the airdropping portion. The page we will be using is https://airdropperpro.com/ and will be an easy to use, but highly functional, air dropping platform. We have created filters that can be used to qualify users for token air drops. An example of these filters would be “Air Drop to users that hold (At least 1000) (XPR) for at least (90) days”. The ( ) represents the filters that can be modified to limit the tokens of the air drop to a targeted group of users. Next, we have included 2 forms of Air Drop. 
-- 1.	Airdrop Push – In this instance, the airdrop is pushed out to all users that qualify for the drop. The token creator would filter for receivers, and then depending on the number that will be dropped to, pay for RAM, and send out the airdrop. 
-- 2.	Airdrop Claim – the token creator would filter for qualified receivers, and set a number of days (such as 90) that the claim would be open for these accounts to go to airdropperpro.com, log in, and claim the airdrop. This instance would not require the sender to pay for RAM. 
-- 3.	The fourth page with an independent URL will be https://dailystake.io/ which is a staking platform open to all token creators, to give them a central location to offer staking on their token. Our intention is to have multiple tokens on the page, all offering their desired interest rate. On this page we will also offer a “bonus pool” which will be an additional pool of every token being staked, and will be a bonus given daily to stakers of the BlastPad token. 
+- Airdrop Push – In this instance, the airdrop is pushed out to all users that qualify for the drop. The token creator would filter for receivers, and then depending on the number that will be dropped to, pay for RAM, and send out the airdrop. 
+- Airdrop Claim – the token creator would filter for qualified receivers, and set a number of days (such as 90) that the claim would be open for these accounts to go to airdropperpro.com, log in, and claim the airdrop. This instance would not require the sender to pay for RAM. 
+- The fourth page with an independent URL will be https://dailystake.io/ which is a staking platform open to all token creators, to give them a central location to offer staking on their token. Our intention is to have multiple tokens on the page, all offering their desired interest rate. On this page we will also offer a “bonus pool” which will be an additional pool of every token being staked, and will be a bonus given daily to stakers of the BlastPad token. 
 
 
 ### Ecosystem Fit
@@ -62,16 +58,26 @@ Linkedin https://www.linkedin.com/in/tropicshoresrealty/
 ### Milestones
 
 - **Milestone:** 1
-- **Estimated duration:** 1 month
-- **FTE:**  5
-- **Costs:** 36,000 USD
+- **Estimated duration:** 30 - 45 days
+- **FTE:**  1
+- **Costs:** 3200 USD
 
-to include $32,000 in development costs and $4,000 in advertising with emphasis on Proton Blockchain. This cost is inclusive of all past and prior website, coding, and smart contract work. 
-0a. License – We intend to release under the MIT
-0b: Documentation – we will include documentation on how to use the product and the tokenomics on the website for the closed end product. Api documentation delivered in the Repository ReadMe along with installation and use examples.
-0c: Front end – Interface delivery and login functionality will be delivered in the Repository 
-0d: Back end – The majority of the development work and smart contract work is complete and we are currently in the testing phase. 
-Milestone 1 to be considered complete with a fully functioning platform with the 5 escrow types. Independent operation of separate modules to be completed in MS2
+to include the BlastPad website and framework with a professional, modern, cutting-edge design
+•	Complete front end with BlastPad home page and the 3 other domains integrated and stand alone
+•	Log into Proton blockchain integrated 
+
+Milestone 1 to be considered complete when the website with menu and integrated pages complete with UI/UX reviews. 
+
+- **Milestone:** 1
+- **Estimated duration:** 30 - 45 days
+- **FTE:**  1
+- **Costs:** 3200 USD
+
+to include the BlastPad website and framework with a professional, modern, cutting-edge design
+•	Complete front end with BlastPad home page and the 3 other domains integrated and stand alone
+•	Log into Proton blockchain integrated 
+
+Milestone 1 to be considered complete when the website with menu and integrated pages complete with UI/UX reviews. 
 
 - **Milestone:** 2
 - **Estimated duration:** 1 month
@@ -86,11 +92,63 @@ to include $8,000 in development costs and $4,000 in advertising, with emphasis 
 Milestone 2 to be considered complete when all 5 escrow modules have been split and are running independently, and are open source, with full documentation, available to the public. 
 
 
+Milestone 1a:
+Estimated duration: 30-45 running concurrently with Milestone 1
+FTE: 2
+Costs: $10,000 to include $8000 development for AirDropper Pro and $2000 in advertising (4 weeks at $500 per week in sponsored Twitter ads with an emphasis to bring devs into the chain and use our airdropping platform) 
+•	AirDropper Pro Site is complete in Milestone 1a 
+•	Both AirDrop types to function
+•	All testing complete
+•	UI / UX complete
+•	Smart Contract integrations complete
+Milestone 1a to be considered complete when the domain https://airdropperpro.com/ is fully functional and tested. 
+
+
+Milestone 1b:
+Estimated duration: 30-45 days running concurrently with Milestone 1
+FTE: 1 
+Costs: $4,500 for development only (No advertisement) 
+•	Token Creation platform is complete in Milestone 1b
+•	All smart contracts complete
+•	UI/ UX complete
+•	Front end and back end complete and functioning as intended.
+Milestone 1b to be considered complete when the domain https://tokencreate.io/ is fully functional and tested. 
+
+Milestone 2:
+Estimated Duration: 60-90 days (30-60 days from Milestone 1 completion)
+FTE: 2
+Cost: $10,000 USD: to include $8,000 in development costs and $2,000 in advertising (4 weeks at $500 per week in sponsored Twitter ads with an emphasis to bring devs into the chain and use our staking platform for their tokens) Our advertisements will emphasize development on Proton Blockchain and the ease of use of the chain and the staking platform. 
+•	Staking platform is complete 
+•	Bonus pool is complete
+•	UI/UX work is complete
+•	Front end and back end work complete
+•	All smart contract work is complete
+Milestone 2 to be considered complete when the domain https://dailystake.io/ is fully functional and tested. 
+Milestone 3: 
+Milestone 3 is strictly an advertisement reimbursement. We would like to conduct paid advertising for the first 10 “Airdrop Claims” to benefit the Proton Blockchain and to bring users into the ecosystem to participate in the airdrops. 
+We are asking for $1000 per “Airdrop Claim” and this would be to cover 30 days of sponsored posts on Twitter for each of the first 10 projects that use our platform and the “Airdrop Claim” feature. 
+Cost: $10,000 and paid as a reimbursement for advertising expense 
+Total Costs for all Milestones and Breakdown:
+Development: 
+•	$3,200 design work
+•	$8,000 Air Dropper Pro
+•	$4,500 Token Creation
+•	$8,000 Staking platform
+Total development costs: $23,700
+Advertising Expense:
+•	$2,000 AirDropper Pro
+•	$2,000 Daily Stake (staking platform)
+•	$10,000 cumulative, which breaks down at $1,000 per air drop claim for the first 10 users. Must be an Air Drop “Claim” with at least a 30 day claim period. 
+Total advertising expense: $14,000
+Total project cost: Development + Advertising = $37,700
+
+
+
 
 ### Future Plans
 
-> How do you intend to enhance, promote and support your project in the future? Our team is full-time and growing. We are builders and we are constantly improving our platforms and adding more services and better functions. We plan to release our closed end platform and begin immediately advertising it through paid socials, with the goal of bringing thousands of users into the Proton ecosystem. 4 weeks later we will release our open source modules and promote those to developers. We plan to continue to build on Proton and support our products and services. 
+> How do you intend to enhance, promote and support your project in the future? Our team is full-time and growing. We are builders and we are constantly improving our platforms and adding more services and better functions. We plan to release the BlastPad platform and begin immediately advertising it through paid socials, with the goal of bringing thousands of users into the Proton ecosystem. 
 
 ### Additional Information
 
-> We have never received a grant from Proton in the past. We are actively involved in the Proton community and believe in their vision for mainstream adoption. We currently run 3 metal nodes, run 3 dedicated servers, and have built a loan liquidator bot. We are actively working on an airdrop platform, a staking platform, and a token creation platform. We have plans after that for a web3 photography site and a travel site, both on Proton blockchain. We will then use the smart contract knowledge from these platforms to integrate into our real estate search platform. 
+> We have never received a grant from Proton in the past. We are actively involved in the Proton community and believe in their vision for mainstream adoption. We currently run 3 metal nodes, run 3 dedicated servers, and have built a loan liquidator bot. We are actively working on an escrow platform, airdrop platform, a staking platform, and a token creation platform. We have plans after that for a web3 photography site and a travel site, both on Proton blockchain. We will then use the smart contract knowledge from these platforms to integrate into our real estate search platform. 
