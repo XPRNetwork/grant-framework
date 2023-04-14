@@ -69,10 +69,12 @@ to include $32,000 in development costs and $4,000 in advertising with emphasis 
 - 1d: Back end – The majority of the development work and smart contract work is complete and we are currently in the testing phase. 
 Milestone 1 to be considered complete with a fully functioning platform with the 5 escrow types. Independent operation of separate modules to be completed in MS2
 
+***
+
 - **Milestone:** 2
 - **Estimated duration:** 1 month
 - **FTE:**  2
-- **Costs:** 12,000 USD
+- **Costs:** 126,000 USD
 
 to include $8,000 in development costs and $4,000 in advertising, with emphasis on Proton Blockchain
 - 2a: Completion and full testing of the UX / UI with an example website online. 
