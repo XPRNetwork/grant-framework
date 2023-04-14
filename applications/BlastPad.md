@@ -16,8 +16,9 @@
 
 ### Project Details
 
-> BlastPad is a project-launching platform created exclusively for the Proton blockchain ecosystem. BlastPad will consist of 4 independent domains coming together on 1 consolidated platform, enabling the individual sites to be used separately or all together. 
+BlastPad is a project-launching platform created exclusively for the Proton blockchain ecosystem. BlastPad will consist of 4 independent domains coming together on 1 consolidated platform, enabling the individual sites to be used separately or all together. 
 The “home page” would be https://blastpad.io/ and the intent here would be to have a very modern design with video and a cutting-edge presentation detailing the process of creating a token, doing the airdrop, and then allowing holders to stake the token. The plan is to have all of these features on 1 easy to use platform. 
+
 The Domains for this project:
 + https://blastpad.io/
 + https://tokencreate.io/ 
@@ -39,7 +40,8 @@ The next part of the platform is the airdropping portion. The page we will be us
 
 ### Team
 
-> Here is a link to our team https://homebloks.com/about-us/
+Here is a link to our team https://homebloks.com/about-us/
+
 Everyone on our team is a full time 40+ hour per week contributor. With the exception of our newest additions (the smart contract devs) we have been working together full time for over 10 years and our biggest project is selling real estate brokerage management platforms www.BrokerIDXsites.com 
 •	Jim Tacy CEO – Roles and Responsibilities include business development, ideation, financing, and managing operations.
 Linkedin https://www.linkedin.com/in/tropicshoresrealty/
