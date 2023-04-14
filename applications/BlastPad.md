@@ -116,7 +116,7 @@ to include $8,000 in development costs and $2,000 in advertising (4 weeks at $50
 - **FTE:** 2
 - **Costs:** 37700 USD
 
-> Milestone 5 is strictly an advertisement reimbursement. We would like to conduct paid advertising for the first 10 “Airdrop Claims” to benefit the Proton Blockchain and to bring users into the ecosystem to participate in the airdrops. 
+Milestone 5 is strictly an advertisement reimbursement. We would like to conduct paid advertising for the first 10 “Airdrop Claims” to benefit the Proton Blockchain and to bring users into the ecosystem to participate in the airdrops. 
 We are asking for $1000 per “Airdrop Claim” and this would be to cover 30 days of sponsored posts on Twitter for each of the first 10 projects that use our platform and the “Airdrop Claim” feature. 
 Cost: $10,000 and paid as a reimbursement for advertising expense 
 Total Costs for all Milestones and Breakdown:
