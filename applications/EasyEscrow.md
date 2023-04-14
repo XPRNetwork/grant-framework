@@ -42,14 +42,14 @@ We believe escrow smart contracts will play a huge role in bringing blockchain t
 
 Here is a link to our team https://homebloks.com/about-us/
 Everyone on our team is a full time 40+ hour per week contributor. With the exception of our newest additions (the smart contract devs) we have been working together full time for over 10 years and our biggest project is selling real estate brokerage management platforms www.BrokerIDXsites.com 
-•	Jim Tacy CEO – Roles and Responsibilities include business development, ideation, financing, and managing operations.
++ Jim Tacy CEO – Roles and Responsibilities include business development, ideation, financing, and managing operations.
 Linkedin https://www.linkedin.com/in/tropicshoresrealty/
-•	Wade Berlin CTO – Roles and Responsibilities include managing the team of developers, as well as maintaining servers, implementing code, and transforming ideas into working products. 
-•	Alok Jain – primarily transforming designs into working products.
-•	Narinder Kumar – website development and coding
-•	Hardeep Kumar (no relationship) – website development and coding
-•	Tarun Mittal – blockchain and smart contracts
-•	Richa Vashisht – blockchain and smart contracts
++ Wade Berlin CTO – Roles and Responsibilities include managing the team of developers, as well as maintaining servers, implementing code, and transforming ideas into working products. 
++ Alok Jain – primarily transforming designs into working products.
++ Narinder Kumar – website development and coding
++ Hardeep Kumar (no relationship) – website development and coding
++ Tarun Mittal – blockchain and smart contracts
++ Richa Vashisht – blockchain and smart contracts
 
 
 ### Roadmap
@@ -58,10 +58,10 @@ Linkedin https://www.linkedin.com/in/tropicshoresrealty/
 
 ### Milestones
 
-- **Milestone:** 1
-- **Estimated duration:** 1 month
-- **FTE:**  5
-- **Costs:** 36,000 USD
+**Milestone:** 1
+**Estimated duration:** 1 month
+**FTE:**  5
+**Costs:** 36,000 USD
 
 to include $32,000 in development costs and $4,000 in advertising with emphasis on Proton Blockchain. This cost is inclusive of all past and prior website, coding, and smart contract work. 
 - 1a. License – We intend to release under the MIT
@@ -70,10 +70,10 @@ to include $32,000 in development costs and $4,000 in advertising with emphasis 
 - 1d: Back end – The majority of the development work and smart contract work is complete and we are currently in the testing phase. 
 Milestone 1 to be considered complete with a fully functioning platform with the 5 escrow types. Independent operation of separate modules to be completed in MS2
 
-- **Milestone:** 2
-- **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 12,000 USD
+**Milestone:** 2
+**Estimated duration:** 1 month
+**FTE:**  2
+**Costs:** 12,000 USD
 
 to include $8,000 in development costs and $4,000 in advertising, with emphasis on Proton Blockchain
 - 2a: Completion and full testing of the UX / UI with an example website online. 
