@@ -25,8 +25,8 @@ The Domains for this project:
 + https://airdropperpro.com/ 
 + https://dailystake.io/ 
 
-The token creation page will be https://tokencreate.io/ and the idea would be a front end, easy to use, platform where non-tech savvy creators can create a token on the Proton blockchain very simply by answering some questions and uploading a token design. 
-The next part of the platform is the airdropping portion. The page we will be using is https://airdropperpro.com/ and will be an easy to use, but highly functional, air dropping platform. We have created filters that can be used to qualify users for token air drops. An example of these filters would be “Air Drop to users that hold (At least 1000) (XPR) for at least (90) days”. The ( ) represents the filters that can be modified to limit the tokens of the air drop to a targeted group of users. Next, we have included 2 forms of Air Drop. 
+- The token creation page will be https://tokencreate.io/ and the idea would be a front end, easy to use, platform where non-tech savvy creators can create a token on the Proton blockchain very simply by answering some questions and uploading a token design. 
+- The next part of the platform is the airdropping portion. The page we will be using is https://airdropperpro.com/ and will be an easy to use, but highly functional, air dropping platform. We have created filters that can be used to qualify users for token air drops. An example of these filters would be “Air Drop to users that hold (At least 1000) (XPR) for at least (90) days”. The ( ) represents the filters that can be modified to limit the tokens of the air drop to a targeted group of users. Next, we have included 2 forms of Air Drop. 
 - Airdrop Push – In this instance, the airdrop is pushed out to all users that qualify for the drop. The token creator would filter for receivers, and then depending on the number that will be dropped to, pay for RAM, and send out the airdrop. 
 - Airdrop Claim – the token creator would filter for qualified receivers, and set a number of days (such as 90) that the claim would be open for these accounts to go to airdropperpro.com, log in, and claim the airdrop. This instance would not require the sender to pay for RAM. 
 - The fourth page with an independent URL will be https://dailystake.io/ which is a staking platform open to all token creators, to give them a central location to offer staking on their token. Our intention is to have multiple tokens on the page, all offering their desired interest rate. On this page we will also offer a “bonus pool” which will be an additional pool of every token being staked, and will be a bonus given daily to stakers of the BlastPad token. 
@@ -134,7 +134,7 @@ Advertising Expense:
 + $10,000 cumulative, which breaks down at $1,000 per air drop claim for the first 10 users. Must be an Air Drop “Claim” with at least a 30 day claim period. 
 Total advertising expense: $14,000
 
-Total project cost: Development + Advertising = $37,700
+> Total project cost: Development + Advertising = $37,700
 
 ### Future Plans
 
