@@ -62,7 +62,7 @@ Our roadmap for Blastpad consists of 4 Milestones over a 3 month period, which w
 - **Milestone:** 1
 - **Estimated duration:** 30 - 45 days
 - **FTE:**  1
-- **Costs:** 3200 USD
+- **Costs:** 3,200 USD
 
 to include the BlastPad website and framework with a professional, modern, cutting-edge design
 + Complete front end with BlastPad home page and the 3 other domains integrated and stand alone
@@ -88,8 +88,9 @@ to include $8000 development for AirDropper Pro and $2000 in advertising (4 week
 - **Milestone:** 3
 - **Estimated duration:** 30 - 45 days
 - **FTE:**  1
-- **Costs:** $4,500 for development only (No advertisement) 
+- **Costs:** 4,500 for development only (No advertisement) 
 
+The $4,500 is strictly for the development of the token creation platform, and we are not asking for advertising reimbursement since we feel we will be able to attract more users to the Proton Blockchain by advertising the Airdrops and the Staking Portion, and we will include the token creation in those advertisements.
 + Token Creation platform is complete
 + All smart contracts complete
 + UI/ UX complete
@@ -100,7 +101,7 @@ to include $8000 development for AirDropper Pro and $2000 in advertising (4 week
 - **Milestone:** 4
 - **Estimated duration:** 60 - 90 days
 - **FTE:**  2
-- **Costs:** 10000 USD
+- **Costs:** 10,000 USD
 
 to include $8,000 in development costs and $2,000 in advertising (4 weeks at $500 per week in sponsored Twitter ads with an emphasis to bring devs into the chain and use our staking platform for their tokens) Our advertisements will emphasize development on Proton Blockchain and the ease of use of the chain and the staking platform. 
 + Staking platform is complete 
@@ -114,7 +115,7 @@ to include $8,000 in development costs and $2,000 in advertising (4 weeks at $50
 - **Milestone:** 5
 - **Estimated duration:** 60 - 90 days
 - **FTE:** 2
-- **Costs:** 37700 USD
+- **Costs:** 37,700 USD
 
 Milestone 5 is strictly an advertisement reimbursement. We would like to conduct paid advertising for the first 10 “Airdrop Claims” to benefit the Proton Blockchain and to bring users into the ecosystem to participate in the airdrops. 
 We are asking for $1000 per “Airdrop Claim” and this would be to cover 30 days of sponsored posts on Twitter for each of the first 10 projects that use our platform and the “Airdrop Claim” feature. 
