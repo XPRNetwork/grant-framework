@@ -68,7 +68,7 @@ to include the BlastPad website and framework with a professional, modern, cutti
 + Complete front end with BlastPad home page and the 3 other domains integrated and stand alone
 + Log into Proton blockchain integrated 
 
-Milestone 1 to be considered complete when the website with menu and integrated pages complete with UI/UX reviews. 
+> Milestone 1 to be considered complete when the website with menu and integrated pages complete with UI/UX reviews. 
 
 ---
 - **Milestone:** 2
@@ -82,7 +82,7 @@ to include $8000 development for AirDropper Pro and $2000 in advertising (4 week
 + All testing complete
 + UI / UX complete
 + Smart Contract integrations complete
-Milestone 2 to be considered complete when the domain https://airdropperpro.com/ is fully functional and tested. 
+> Milestone 2 to be considered complete when the domain https://airdropperpro.com/ is fully functional and tested. 
 
 ---
 - **Milestone:** 3
@@ -94,7 +94,7 @@ Milestone 2 to be considered complete when the domain https://airdropperpro.com/
 + All smart contracts complete
 + UI/ UX complete
 + Front end and back end complete and functioning as intended.
-Milestone 3 to be considered complete when the domain https://tokencreate.io/ is fully functional and tested. 
+> Milestone 3 to be considered complete when the domain https://tokencreate.io/ is fully functional and tested. 
 
 ---
 - **Milestone:** 4
@@ -108,7 +108,7 @@ to include $8,000 in development costs and $2,000 in advertising (4 weeks at $50
 + UI/UX work is complete
 + Front end and back end work complete
 + All smart contract work is complete
-Milestone 2 to be considered complete when the domain https://dailystake.io/ is fully functional and tested. 
+> Milestone 4 to be considered complete when the domain https://dailystake.io/ is fully functional and tested. 
 
 ---
 - **Milestone:** 5
@@ -116,7 +116,7 @@ Milestone 2 to be considered complete when the domain https://dailystake.io/ is 
 - **FTE:** 2
 - **Costs:** 37700 USD
 
-Milestone 5 is strictly an advertisement reimbursement. We would like to conduct paid advertising for the first 10 “Airdrop Claims” to benefit the Proton Blockchain and to bring users into the ecosystem to participate in the airdrops. 
+> Milestone 5 is strictly an advertisement reimbursement. We would like to conduct paid advertising for the first 10 “Airdrop Claims” to benefit the Proton Blockchain and to bring users into the ecosystem to participate in the airdrops. 
 We are asking for $1000 per “Airdrop Claim” and this would be to cover 30 days of sponsored posts on Twitter for each of the first 10 projects that use our platform and the “Airdrop Claim” feature. 
 Cost: $10,000 and paid as a reimbursement for advertising expense 
 Total Costs for all Milestones and Breakdown:
