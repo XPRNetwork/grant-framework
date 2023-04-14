@@ -1,9 +1,5 @@
 # Proton Blockchain Grant Proposal
 
-> See the [Grant Framework Application Process](https://github.com/ProtonProtocol/grant-framework#application-process) on how to submit a proposal.
->
-> Fill out the following information about your team and project
-
 - **Project Name:** Easy Escrow EasyEscrow.io
 - **Team Name:** HomeBloks  Registered corporation is Broker IDX Sites Inc. 
 - **Payment Address:** @homebloks or KYC’d wallet is @JimTacy
@@ -20,8 +16,9 @@
 
 ### Project Details
 
-> EasyEscrow is a trustless smart contract escrow platform being built on the Proton Blockchain. 
+EasyEscrow is a trustless smart contract escrow platform being built on the Proton Blockchain. 
 We are developing a self-contained platform, and then we are breaking it out into 5 separate open source escrow modules that anyone can work into their existing project. 
+
 Our 5 types of escrow are as follows. 
 1)	Crypto Exchange – this is an interface with a smart contract where user1 selects a token and corresponding quantity in their webauth wallet, and then proposes an exchange with user2. If user2 accepts the exchange the agreed upon tokens will move from the smart contract to user2’s webauth wallet. 
 2)	Crypto Gift / Crypto Will – in the module user1 can select any token in their wallet and send it into a smart contract and select a future date and time for it to be delivered to user2. If the contract is not canceled prior, the smart contract will move the tokens into user2’s webauth wallet as the pre-designated date and time. 
@@ -43,7 +40,7 @@ We believe escrow smart contracts will play a huge role in bringing blockchain t
 
 ### Team
 
-> Here is a link to our team https://homebloks.com/about-us/
+Here is a link to our team https://homebloks.com/about-us/
 Everyone on our team is a full time 40+ hour per week contributor. With the exception of our newest additions (the smart contract devs) we have been working together full time for over 10 years and our biggest project is selling real estate brokerage management platforms www.BrokerIDXsites.com 
 •	Jim Tacy CEO – Roles and Responsibilities include business development, ideation, financing, and managing operations.
 Linkedin https://www.linkedin.com/in/tropicshoresrealty/
@@ -67,10 +64,10 @@ Linkedin https://www.linkedin.com/in/tropicshoresrealty/
 - **Costs:** 36,000 USD
 
 to include $32,000 in development costs and $4,000 in advertising with emphasis on Proton Blockchain. This cost is inclusive of all past and prior website, coding, and smart contract work. 
-0a. License – We intend to release under the MIT
-0b: Documentation – we will include documentation on how to use the product and the tokenomics on the website for the closed end product. Api documentation delivered in the Repository ReadMe along with installation and use examples.
-0c: Front end – Interface delivery and login functionality will be delivered in the Repository 
-0d: Back end – The majority of the development work and smart contract work is complete and we are currently in the testing phase. 
+- 1a. License – We intend to release under the MIT
+- 1b: Documentation – we will include documentation on how to use the product and the tokenomics on the website for the closed end product. Api documentation delivered in the Repository ReadMe along with installation and use examples.
+- 1c: Front end – Interface delivery and login functionality will be delivered in the Repository 
+- 1d: Back end – The majority of the development work and smart contract work is complete and we are currently in the testing phase. 
 Milestone 1 to be considered complete with a fully functioning platform with the 5 escrow types. Independent operation of separate modules to be completed in MS2
 
 - **Milestone:** 2
@@ -79,18 +76,18 @@ Milestone 1 to be considered complete with a fully functioning platform with the
 - **Costs:** 12,000 USD
 
 to include $8,000 in development costs and $4,000 in advertising, with emphasis on Proton Blockchain
-0a: Completion and full testing of the UX / UI with an example website online. 
-0b: Proton Webauth integration is complete and functionable with all 5 escrow types without requiring all to be installed. 
-0c: Complete the separation and independent operation of the 5 escrow types such that they are installable independently. 
-0d: Create installer script to lower the bar for installation by developers.
+- 2a: Completion and full testing of the UX / UI with an example website online. 
+- 2b: Proton Webauth integration is complete and functionable with all 5 escrow types without requiring all to be installed. 
+- 2c: Complete the separation and independent operation of the 5 escrow types such that they are installable independently. 
+- 2d: Create installer script to lower the bar for installation by developers.
 Milestone 2 to be considered complete when all 5 escrow modules have been split and are running independently, and are open source, with full documentation, available to the public. 
 
 
 
 ### Future Plans
 
-> How do you intend to enhance, promote and support your project in the future? Our team is full-time and growing. We are builders and we are constantly improving our platforms and adding more services and better functions. We plan to release our closed end platform and begin immediately advertising it through paid socials, with the goal of bringing thousands of users into the Proton ecosystem. 4 weeks later we will release our open source modules and promote those to developers. We plan to continue to build on Proton and support our products and services. 
+How do you intend to enhance, promote and support your project in the future? Our team is full-time and growing. We are builders and we are constantly improving our platforms and adding more services and better functions. We plan to release our closed end platform and begin immediately advertising it through paid socials, with the goal of bringing thousands of users into the Proton ecosystem. 4 weeks later we will release our open source modules and promote those to developers. We plan to continue to build on Proton and support our products and services. 
 
 ### Additional Information
 
-> We have never received a grant from Proton in the past. We are actively involved in the Proton community and believe in their vision for mainstream adoption. We currently run 3 metal nodes, run 3 dedicated servers, and have built a loan liquidator bot. We are actively working on an airdrop platform, a staking platform, and a token creation platform. We have plans after that for a web3 photography site and a travel site, both on Proton blockchain. We will then use the smart contract knowledge from these platforms to integrate into our real estate search platform. 
+We have never received a grant from Proton in the past. We are actively involved in the Proton community and believe in their vision for mainstream adoption. We currently run 3 metal nodes, run 3 dedicated servers, and have built a loan liquidator bot. We are actively working on an airdrop platform, a staking platform, and a token creation platform. We have plans after that for a web3 photography site and a travel site, both on Proton blockchain. We will then use the smart contract knowledge from these platforms to integrate into our real estate search platform. 
