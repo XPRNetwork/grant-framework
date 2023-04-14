@@ -33,9 +33,12 @@ The next part of the platform is the airdropping portion. The page we will be us
 
 ### Ecosystem Fit
 
-1. Where and how does your project fit into the Proton ecosystem? Our project fits nicely into the existing Proton ecosystem, as currently there is no easy way to create a token, airdrop it, and allow users to stake it. Our goal is to grow the Proton ecosystem and Proton users by allowing easy front-end options with no coding needed. 
-2. Who is your target audience? Our target audience is huge, and will include any new token project and any entrepreneur that wants to launch a project on Proton blockchain. There are massive existing hurdles that this platform will eliminate. 
-3. What needs does your project meet for the community and what sets it apart from other similar projects? There is a glaring need for a front-end easy-to-use project launch pad. There are no existing projects that are tackling these obstacles and we see many new users coming into the Proton ecosystem because of this project launch pad. 
+1. Where and how does your project fit into the Proton ecosystem?
+>Our project fits nicely into the existing Proton ecosystem, as currently there is no easy way to create a token, airdrop it, and allow users to stake it. Our goal is to grow the Proton ecosystem and Proton users by allowing easy front-end options with no coding needed. 
+2. Who is your target audience?
+>Our target audience is huge, and will include any new token project and any entrepreneur that wants to launch a project on Proton blockchain. There are massive existing hurdles that this platform will eliminate. 
+3. What needs does your project meet for the community and what sets it apart from other similar projects?
+>There is a glaring need for a front-end easy-to-use project launch pad. There are no existing projects that are tackling these obstacles and we see many new users coming into the Proton ecosystem because of this project launch pad. 
 
 ### Team
 
