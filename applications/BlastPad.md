@@ -31,7 +31,6 @@ The next part of the platform is the airdropping portion. The page we will be us
 - Airdrop Claim – the token creator would filter for qualified receivers, and set a number of days (such as 90) that the claim would be open for these accounts to go to airdropperpro.com, log in, and claim the airdrop. This instance would not require the sender to pay for RAM. 
 - The fourth page with an independent URL will be https://dailystake.io/ which is a staking platform open to all token creators, to give them a central location to offer staking on their token. Our intention is to have multiple tokens on the page, all offering their desired interest rate. On this page we will also offer a “bonus pool” which will be an additional pool of every token being staked, and will be a bonus given daily to stakers of the BlastPad token. 
 
-
 ### Ecosystem Fit
 
 - 1.	Where and how does your project fit into the Proton ecosystem? Our project fits nicely into the existing Proton ecosystem, as currently there is no easy way to create a token, airdrop it, and allow users to stake it. Our goal is to grow the Proton ecosystem and Proton users by allowing easy front-end options with no coding needed. 
@@ -41,21 +40,19 @@ The next part of the platform is the airdropping portion. The page we will be us
 ### Team
 
 Here is a link to our team https://homebloks.com/about-us/
-
 Everyone on our team is a full time 40+ hour per week contributor. With the exception of our newest additions (the smart contract devs) we have been working together full time for over 10 years and our biggest project is selling real estate brokerage management platforms www.BrokerIDXsites.com 
-•	Jim Tacy CEO – Roles and Responsibilities include business development, ideation, financing, and managing operations.
++ Jim Tacy CEO – Roles and Responsibilities include business development, ideation, financing, and managing operations.
 Linkedin https://www.linkedin.com/in/tropicshoresrealty/
-•	Wade Berlin CTO – Roles and Responsibilities include managing the team of developers, as well as maintaining servers, implementing code, and transforming ideas into working products. 
-•	Alok Jain – primarily transforming designs into working products.
-•	Narinder Kumar – website development and coding
-•	Hardeep Kumar (no relationship) – website development and coding
-•	Tarun Mittal – blockchain and smart contracts
-•	Richa Vashisht – blockchain and smart contracts
-
++ Wade Berlin CTO – Roles and Responsibilities include managing the team of developers, as well as maintaining servers, implementing code, and transforming ideas into working products. 
++ Alok Jain – primarily transforming designs into working products.
++ Narinder Kumar – website development and coding
++ Hardeep Kumar (no relationship) – website development and coding
++ Tarun Mittal – blockchain and smart contracts
++ Richa Vashisht – blockchain and smart contracts
 
 ### Roadmap
 
-> Our roadmap for Blastpad consists of 4 Milestones over a 3 month period, which will allow us to release the individual domains and advertise each one as the building continues 
+Our roadmap for Blastpad consists of 4 Milestones over a 3 month period, which will allow us to release the individual domains and advertise each one as the building continues 
 
 ### Milestones
 
@@ -70,7 +67,7 @@ to include the BlastPad website and framework with a professional, modern, cutti
 
 Milestone 1 to be considered complete when the website with menu and integrated pages complete with UI/UX reviews. 
 
-- **Milestone:** 1
+- **Milestone:** 1a
 - **Estimated duration:** 30 - 45 days
 - **FTE:**  1
 - **Costs:** 3200 USD
