@@ -77,7 +77,7 @@ Milestone 1 to be considered complete when the website with menu and integrated 
 - **Costs:** 10,000 USD
 
 to include $8000 development for AirDropper Pro and $2000 in advertising (4 weeks at $500 per week in sponsored Twitter ads with an emphasis to bring devs into the chain and use our airdropping platform) 
-+ AirDropper Pro Site is complete in Milestone 1a 
++ AirDropper Pro Site is complete
 + Both AirDrop types to function
 + All testing complete
 + UI / UX complete
@@ -90,7 +90,7 @@ Milestone 2 to be considered complete when the domain https://airdropperpro.com/
 - **FTE:**  1
 - **Costs:** $4,500 for development only (No advertisement) 
 
-+ Token Creation platform is complete in Milestone 1b
++ Token Creation platform is complete
 + All smart contracts complete
 + UI/ UX complete
 + Front end and back end complete and functioning as intended.
@@ -120,17 +120,20 @@ Milestone 5 is strictly an advertisement reimbursement. We would like to conduct
 We are asking for $1000 per “Airdrop Claim” and this would be to cover 30 days of sponsored posts on Twitter for each of the first 10 projects that use our platform and the “Airdrop Claim” feature. 
 Cost: $10,000 and paid as a reimbursement for advertising expense 
 Total Costs for all Milestones and Breakdown:
+
 Development: 
 + $3,200 design work
 + $8,000 Air Dropper Pro
 + $4,500 Token Creation
 + $8,000 Staking platform
 Total development costs: $23,700
+
 Advertising Expense:
 + $2,000 AirDropper Pro
 + $2,000 Daily Stake (staking platform)
 + $10,000 cumulative, which breaks down at $1,000 per air drop claim for the first 10 users. Must be an Air Drop “Claim” with at least a 30 day claim period. 
 Total advertising expense: $14,000
+
 Total project cost: Development + Advertising = $37,700
 
 ### Future Plans
