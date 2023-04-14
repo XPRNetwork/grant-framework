@@ -37,7 +37,6 @@ We believe escrow smart contracts will play a huge role in bringing blockchain t
 2.	Who is your target audience? The target for our closed platform would be current Proton users that wish to transact safely in a smart contract escrow environment with each other through OTC, product sales, gifts, or selling services. The target for our open source modules would be devs that wish to integrate escrow contracts into existing platforms for real estate, title agencies, or just to add an easy to use way to transfer money upon product or service approvals into an existing dapp. 
 3.	What needs does your project meet for the community and what sets it apart from other similar projects? There is a need to transact with one another in a peer to peer fashion without worrying about someone stealing or not performing an agreed upon task. These fears can be alleviated with the escrow smart contracts we have been developing. 
 
-
 ### Team
 
 Here is a link to our team https://homebloks.com/about-us/
@@ -58,10 +57,10 @@ Linkedin https://www.linkedin.com/in/tropicshoresrealty/
 
 ### Milestones
 
-**Milestone:** 1
-**Estimated duration:** 1 month
-**FTE:**  5
-**Costs:** 36,000 USD
+- **Milestone:** 1
+- **Estimated duration:** 1 month
+- **FTE:**  5
+- **Costs:** 36,000 USD
 
 to include $32,000 in development costs and $4,000 in advertising with emphasis on Proton Blockchain. This cost is inclusive of all past and prior website, coding, and smart contract work. 
 - 1a. License – We intend to release under the MIT
@@ -70,10 +69,10 @@ to include $32,000 in development costs and $4,000 in advertising with emphasis 
 - 1d: Back end – The majority of the development work and smart contract work is complete and we are currently in the testing phase. 
 Milestone 1 to be considered complete with a fully functioning platform with the 5 escrow types. Independent operation of separate modules to be completed in MS2
 
-**Milestone:** 2
-**Estimated duration:** 1 month
-**FTE:**  2
-**Costs:** 12,000 USD
+- **Milestone:** 2
+- **Estimated duration:** 1 month
+- **FTE:**  2
+- **Costs:** 12,000 USD
 
 to include $8,000 in development costs and $4,000 in advertising, with emphasis on Proton Blockchain
 - 2a: Completion and full testing of the UX / UI with an example website online. 
