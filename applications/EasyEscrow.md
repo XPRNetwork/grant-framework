@@ -53,7 +53,7 @@ Linkedin https://www.linkedin.com/in/tropicshoresrealty/
 
 ### Roadmap
 
-> Our roadmap for Easy Escrow consists of 2 Milestones over a 2 month period, which will allow us to complete the existing project, advertise, and move forward with the open source modules.  
+Our roadmap for Easy Escrow consists of 2 Milestones over a 2 month period, which will allow us to complete the existing project, advertise, and move forward with the open source modules.  
 
 ### Milestones
 
@@ -87,7 +87,8 @@ Milestone 2 to be considered complete when all 5 escrow modules have been split 
 
 ### Future Plans
 
-How do you intend to enhance, promote and support your project in the future? Our team is full-time and growing. We are builders and we are constantly improving our platforms and adding more services and better functions. We plan to release our closed end platform and begin immediately advertising it through paid socials, with the goal of bringing thousands of users into the Proton ecosystem. 4 weeks later we will release our open source modules and promote those to developers. We plan to continue to build on Proton and support our products and services. 
+How do you intend to enhance, promote and support your project in the future? 
+>Our team is full-time and growing. We are builders and we are constantly improving our platforms and adding more services and better functions. We plan to release our closed end platform and begin immediately advertising it through paid socials, with the goal of bringing thousands of users into the Proton ecosystem. 4 weeks later we will release our open source modules and promote those to developers. We plan to continue to build on Proton and support our products and services. 
 
 ### Additional Information
 
