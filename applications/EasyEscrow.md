@@ -33,9 +33,9 @@ We believe escrow smart contracts will play a huge role in bringing blockchain t
 
 ### Ecosystem Fit
 
-- 1.	Where and how does your project fit into the Proton ecosystem? Our project fills a needed hole in the ecosystem for users wanting to buy, sell, or trade safely and securely on the blockchain. 
-- 2.	Who is your target audience? The target for our closed platform would be current Proton users that wish to transact safely in a smart contract escrow environment with each other through OTC, product sales, gifts, or selling services. The target for our open source modules would be devs that wish to integrate escrow contracts into existing platforms for real estate, title agencies, or just to add an easy to use way to transfer money upon product or service approvals into an existing dapp. 
-- 3.	What needs does your project meet for the community and what sets it apart from other similar projects? There is a need to transact with one another in a peer to peer fashion without worrying about someone stealing or not performing an agreed upon task. These fears can be alleviated with the escrow smart contracts we have been developing. 
+1.	Where and how does your project fit into the Proton ecosystem? Our project fills a needed hole in the ecosystem for users wanting to buy, sell, or trade safely and securely on the blockchain. 
+2.	Who is your target audience? The target for our closed platform would be current Proton users that wish to transact safely in a smart contract escrow environment with each other through OTC, product sales, gifts, or selling services. The target for our open source modules would be devs that wish to integrate escrow contracts into existing platforms for real estate, title agencies, or just to add an easy to use way to transfer money upon product or service approvals into an existing dapp. 
+3.	What needs does your project meet for the community and what sets it apart from other similar projects? There is a need to transact with one another in a peer to peer fashion without worrying about someone stealing or not performing an agreed upon task. These fears can be alleviated with the escrow smart contracts we have been developing. 
 
 
 ### Team
