@@ -27,6 +27,7 @@ The Domains for this project:
 + https://tokencreate.io/ 
 + https://airdropperpro.com/ 
 + https://dailystake.io/ 
+
 The token creation page will be https://tokencreate.io/ and the idea would be a front end, easy to use, platform where non-tech savvy creators can create a token on the Proton blockchain very simply by answering some questions and uploading a token design. 
 The next part of the platform is the airdropping portion. The page we will be using is https://airdropperpro.com/ and will be an easy to use, but highly functional, air dropping platform. We have created filters that can be used to qualify users for token air drops. An example of these filters would be “Air Drop to users that hold (At least 1000) (XPR) for at least (90) days”. The ( ) represents the filters that can be modified to limit the tokens of the air drop to a targeted group of users. Next, we have included 2 forms of Air Drop. 
 - 1.	Airdrop Push – In this instance, the airdrop is pushed out to all users that qualify for the drop. The token creator would filter for receivers, and then depending on the number that will be dropped to, pay for RAM, and send out the airdrop. 
