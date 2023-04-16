@@ -1,30 +1,22 @@
 Soon.Market Reimagined
 ==========================================
 
-*   **Project Name:** SoonMarket    
-*   **Team Name:** kryptokrauts GmbH    
-*   **Payment Address:** soonfinance
-    
-*   **Level:** Company
-    
-*   **Is Project Open-Source:** Mixed
-    
-*   **Project has a token:** No
-    
-*   **Github Repos**
-    
-    *   Private for Milestones 1-3
-        
-    *   Public for Milestone 4: [https://github.com/kryptokrauts/proton-automation-contracts](https://github.com/kryptokrauts/proton-automation-contracts)
+*  **Project Name:** SoonMarket    
+*  **Team Name:** kryptokrauts GmbH    
+*  **Payment Address:** soonfinance
+*  **Level:** Company
+*  **Is Project Open-Source:** Mixed
+*  **Project has a token:** No
+*  **Github Repos**
+    *  Private for Milestones 1-3
+    *  Public for Milestone 4: [https://github.com/kryptokrauts/proton-automation-contracts](https://github.com/kryptokrauts/proton-automation-contracts)
         
 
 ## Contact Information
 
-*   **Contact Name:** Marco Walz, Michel Meier
-    
-*   **Contact Email:** [marco@kryptokrauts.com](mailto:marco@kryptokrauts.com), [mitch@kryptokrauts.com](mailto:mitch@kryptokrauts.com)
-    
-*   **Website:** [https://kryptokrauts.com](https://kryptokrauts.com/), [https://soon.market](https://soon.market/)
+*  **Contact Name:** Marco Walz, Michel Meier
+*  **Contact Email:** [marco@kryptokrauts.com](mailto:marco@kryptokrauts.com), [mitch@kryptokrauts.com](mailto:mitch@kryptokrauts.com)
+*  **Website:** [https://kryptokrauts.com](https://kryptokrauts.com), [https://soon.market](https://soon.market)
     
 
 ## Project Details
@@ -47,16 +39,12 @@ On top of our marketplace, we will build and enhance services, APIs and tools ar
 
 ## Core Team
 
-*   **Marco Walz**
+### Marco Walz
     
-    *   Responsibilities: Product, DevOps & Quality Assurance
-        
-    *   Proton: @marco
-        
-    *   GitHub: [https://github.com/marc0olo](https://github.com/marc0olo)
-        
-    *   LinkedIn: [https://www.linkedin.com/in/marco-walz-776844141](https://www.linkedin.com/in/marco-walz-776844141/)
-        
+*  Responsibilities: Product, DevOps & Quality Assurance
+*  Proton: [@marco](https://www.protonscan.io/account/marco)
+*  GitHub: [https://github.com/marc0olo](https://github.com/marc0olo)
+*  LinkedIn: [https://www.linkedin.com/in/marco-walz-776844141](https://www.linkedin.com/in/marco-walz-776844141/)
 
 After his studies in business informatics, Marco started his professional career as an IT consultant in 2015.
 
@@ -64,184 +52,148 @@ In 2018, he decided to professionalize in the field of blockchains and worked ag
 
 He is also an active contributor to the æternity Blockchain, organizing hackathons for the project and advising product development.
 
-*   **Michel Meier**
+### Michel Meier
     
-    *   Responsibilities: Technical specification & Development
-        
-    *   Proton: @mitchlbw
-        
-    *   GitHub: [https://github.com/mitch-lbw](https://github.com/mitch-lbw)
-        
-    *   LinkedIn: [https://www.linkedin.com/in/michel-meier-data-and-blockchain](https://www.linkedin.com/in/michel-meier-data-and-blockchain/)
-        
+*  Responsibilities: Technical specification & Development
+*  Proton: [@mitchlbw](https://www.protonscan.io/account/mitchlbw)
+*  GitHub: [https://github.com/mitch-lbw](https://github.com/mitch-lbw)
+*  LinkedIn: [https://www.linkedin.com/in/michel-meier-data-and-blockchain](https://www.linkedin.com/in/michel-meier-data-and-blockchain/)
 
 With a masters degree in applied computer science and 13+ years of experience as senior consultant and team lead, Mitch has delivered a wide variety of projects with customers of various branches, including roles as a technical project lead, architect and lead developer.
 
 Since the last 6 years, he has been engaged in the crypto space, including Blockchain APIs and Smart Contract development, actively contributing to the æternity Blockchain with developer tools. He Loves clean and simple solutions and is looking for ways to unite Blockchain and business software development in terms of added value.
 
-*   **Andreas Müller**
+### Andreas Müller
     
-    *   Responsibilities: Design & Frontend Development
-        
-    *   Proton: @pretent
-        
-    *   GitHub: [https://github.com/XoXs](https://github.com/XoXs)
-        
-    *   LinkedIn: [https://www.linkedin.com/in/andreas-müller-ltb](https://www.linkedin.com/in/andreas-m%C3%BCller-ltb/)
-        
+*  Responsibilities: Design & Frontend Development
+*  Proton: [@pretent](https://www.protonscan.io/account/pretent)
+*  GitHub: [https://github.com/XoXs](https://github.com/XoXs)
+*  LinkedIn: [https://www.linkedin.com/in/andreas-müller-ltb](https://www.linkedin.com/in/andreas-m%C3%BCller-ltb/)
 
 Andi is a digital designer that feels at home in many creative areas and aims to deliver the best possible experience to the user. He loves creating NFT stuff, but also all marketing tasks like image and video editing are part of his daily work.
 
 ## Advisors
 
-*   **Jan**
+### Jan
     
-    *   Responsibilities: Technical specification & Development
-        
-    *   Proton: @icarus
-        
-    *   GitHub: [https://github.com/the-icarus](https://github.com/the-icarus)
-        
+*  Responsibilities: Technical specification & Development
+*  Proton: [@icarus](https://www.protonscan.io/account/icarus)
+*  GitHub: [https://github.com/the-icarus](https://github.com/the-icarus)  
 
 Jan is a Senior Software Engineer with 11+ years of experience in Software Development, Architecture and Agile Coaching. Jan has been working in the blockchain space for more than 4 years creating dApps in various areas including Blockchain Explorers and Digital Identity.
 
-*   **Marvin Rottenberg**
+### Marvin Rottenberg
     
-    *   Responsibilities: Marketing Strategy & Execution
-        
-    *   Proton: @marv
-        
-    *   LinkedIn: [https://www.linkedin.com/in/rottenbergm](https://www.linkedin.com/in/rottenbergm/)
-        
+*  Responsibilities: Marketing Strategy & Execution
+*  Proton: [@marv](https://www.protonscan.io/account/marv)
+*  LinkedIn: [https://www.linkedin.com/in/rottenbergm](https://www.linkedin.com/in/rottenbergm/) 
 
 Marvin worked at Ada Health, Siemens, Axel Springer, and Google and specialized in performance and brand marketing. He is consulting companies on digital growth strategies, branding and monetization.
+
 
 ## Roadmap
 
 1.  **New UI design** with additional features (including feedback & involvement of community)
-    
 2.  **Architecture redesign** & new **infrastructure setup** using Terraform (efficiency, performance, scalability); setting up an additional **staging environment** on **Proton Testnet** & giving community the possibility actively engage in the further development of Soon.Market (i.e early access to new features)
-    
 3.  **Modular** **core services** and **API** \- building a complete new API that serves the new design; provided Pink API has severe limitations and hinders us from shipping advanced features
-    
 4.  **UI** implementation
-    
 5.  **Go-live** - Migration of prod environment to new infrastructure
-    
 6.  **Contract** based marketplace **automation**: automate SOON SPOT NFT logic (burning + listing), automate payouts of marketplace income
-    
+
 
 ## Milestones
 
 **Note:**
 
-*   Milestones 1 & 2 include work which can be parallelized that, if the grant is accepted, allows us to deliver the final results faster.
-    
-*   We plan to keep the community regularly updated on our channels and additionally via Twitter Spaces.
-    
-*   The clickable Adobe XD design prototype will be shared publicly with the Proton community, with the possibility to contribute.
-    
-*   During Milestone 2 the community will be able to keep track of the development progress by accessing the public staging environment on Proton Testnet.
-    
-*   The Open API 3.0 spec will be publicly shared.
-    
+*  Milestones 1 & 2 include work which can be parallelized that, if the grant is accepted, allows us to deliver the final results faster.
+*  We plan to keep the community regularly updated on our channels and additionally via Twitter Spaces.
+*  The clickable Adobe XD design prototype will be shared publicly with the Proton community, with the possibility to contribute.
+*  During Milestone 2 the community will be able to keep track of the development progress by accessing the public staging environment on Proton Testnet.
+*  The Open API 3.0 spec will be publicly shared.
+
 
 ### Milestone 1 - Building the foundation (2 months)
 
 #### a) New UI Design - Soon.Market Reimagined
 
-*   **Estimated duration:** 2 months
-    
-*   **FTE:** 1.5
-    
-*   **Costs:** 22,500 USD
+*  **Estimated duration:** 2 months 
+*  **FTE:** 1.5
+*  **Costs:** 22,500 USD
     
 |  ID  |  Deliverable  |  Specification  |
 | --- | --- | --- |
-|  1  |  Design prototype created in Adobe XD  |<ul><li>Provide a clickable UI design prototype</li><li>Publish the prototype & involve the community, their ideas and requirements into the design process</li></ul>|
-|  2  |  Core feature list  |<ul><li>Overview of new core features</li></ul>|
-    
+|  1  |  Design prototype created in Adobe XD  |  <ul><li>Provide a clickable UI design prototype</li><li>Publish the prototype & involve the community, their ideas and requirements into the design process</li></ul>  |
+|  2  |  Core feature list  |  <ul><li>Overview of new core features</li></ul>  |
+
 
 #### b) Foundation - Architecture & Infrastructure
 
-*   **Estimated duration:** 2 months
-    
-*   **FTE:** 1.5
-    
-*   **Costs:** 22,500 USD
+*  **Estimated duration:** 2 months
+*  **FTE:** 1.5
+*  **Costs:** 22,500 USD
 
 |  ID  |  Deliverable  |  Specification  |
 | --- | --- | --- |
-|  1  |  Architecture & infrastructure diagrams  |<ul><li>Incl. migration path from existing architecture & infrastructure to the desired target environment</li></ul>|
-|  2  |  Terraform scripts  |<ul><li>Migrate the existing infrastructure to a fully automated scalable solution via Terraform</li><li>Deployment pipeline in a k3s environment</li><li>Setup a staging environment on Proton Testnet for existing infrastructure via Terraform to prepare migration to new services (see Milestone 2)</li></ul>|
-|  3  |  Accessible staging environment  |<ul><li>Providing public access to a Soon.Market staging environment on Proton Testnet</li></ul>|
+|  1  |  Architecture & infrastructure diagrams  |  <ul><li>Incl. migration path from existing architecture & infrastructure to the desired target environment</li></ul>  |
+|  2  |  Provisioning & deployment automation  |  <ul><li>Migrate the existing infrastructure to a fully automated & scalable solution via Terraform</li><li>Introducing GitOps for deployments</li><li>Setup a staging environment on Proton Testnet for existing infrastructure via Terraform to prepare migration to new services (see Milestone 2)</li></ul>  |
+|  3  |  Accessible staging environment  |  <ul><li>Providing public access to a Soon.Market staging environment on Proton Testnet</li></ul>  |
 
 
 ### Milestone 2 - BUIDL (2.5 months)
 
 **Note:**
 
-*   API specification will be defined in cooperation by Backend & UI developers.
-    
+*  API specification will be defined in cooperation by Backend & UI developers.
 
 #### a) Modular Core Services & API
 
-*   **Estimated duration:** 2 months
-    
-*   **FTE:** 1.5
-    
-*   **Costs:** 22,500 USD
+*  **Estimated duration:** 2 months
+*  **FTE:** 1.5
+*  **Costs:** 22,500 USD
     
 |  ID  |  Deliverable  |  Specification  |
 | --- | --- | --- |
-|  0a  |  API Documentation  |<ul><li>Open API 3.0 Spec</li><li>WebSocket API Spec</li></ul>|
-|  0b  |  Unit tests  |<ul><li>Test coverage where it is useful</li></ul>|
-|  1  |  Core services  |<ul><li>On-chain data extraction via state history plugin (AtomicAssets, AtomicMarket, OTC, …)</li><li>Fetch & aggregate historical exchange rates</li><li>Data provisioning (statistics, reportings, …)</li><li>Refactoring of Soony</li><li>Migration of old services & deployment on Staging (targeting Proton Testnet)</li></ul>|
-|  2  |  API  |<ul><li>According to the Open API 3.0 Spec</li><li>Delivers the data required to display in the new designs</li><li>HTTP + WebSockets and/or WebHooks (to allow services to subscribe to any kind of meaningful NFT activity, e.g. auction bids)</li><li>Migration of old services & deployment on Staging (targeting Proton Testnet)</li></ul>|
+|  0a  |  Documentation  |  <ul><li>Open API 3.0 Spec</li><li>Guide how to receive real-time updates</li></ul>  |
+|  0b  |  Unit tests  |  <ul><li>Test coverage where it is useful</li></ul>  |
+|  1  |  Core services  |  <ul><li>On-chain data extraction via state history plugin (AtomicAssets, AtomicMarket, OTC, …)</li><li>Fetch & aggregate historical exchange rates</li><li>Data provisioning (statistics, reportings, …)</li><li>Refactoring of Soony</li><li>Migration of old services & deployment on Staging (targeting Proton Testnet)</li></ul>  |
+|  2  |  HTTP API  |  <ul><li>According to the Open API 3.0 Spec</li><li>Delivers the data required to display in the new designs</li><li>Migration of old services & deployment on Staging (targeting Proton Testnet)</li></ul>  |
+|  3  |  Real-time update services  |  <ul><li>WebSockets, WebHooks and/or Server-sent events </li><li>Allow other services or frontends to subscribe to any kind of meaningful NFT activity, e.g. auction bids.</li><li>Migration of old services & deployment on Staging (targeting Proton Testnet)</li></ul>  |
 
-    
 
 #### b) UI implementation
 
-*   **Estimated duration:** 2.5 months
-    
-*   **FTE:** 1.5
-    
-*   **Costs:** 26,250 USD
+*  **Estimated duration:** 2.5 months
+*  **FTE:** 1.5
+*  **Costs:** 26,250 USD
     
 |  ID  |  Deliverable  |  Specification  |
 | --- | --- | --- |
-|  1  |  New UI  |<ul><li>According to new design</li><li>Deployment on Staging (targeting Proton Testnet)</li></ul>|
-    
+|  1  |  New UI  |  <ul><li>According to new design</li><li>Deployment on Staging (targeting Proton Testnet)</li></ul>  |
+
 
 ### Milestone 3 - Go-Live of Soon.Market Reimagined (2 weeks)
 
-*   **Estimated duration:** 2 weeks
-    
-*   **FTE:** 1
-    
-*   **Costs:** 3500 USD
-    
+*  **Estimated duration:** 2 weeks
+*  **FTE:** 1
+*  **Costs:** 3500 USD
 
 |  ID  |  Deliverable  |  Specification  |
 | --- | --- | --- |
-|  1  |  New UI  |<ul><li>Migration of old production services & deployment on Production</li></ul>|
-    
+|  1  |  New UI  |  <ul><li>Migration of old production services & deployment on Production</li></ul>  |
+
 
 ### Milestone 4 - Contract based automation (1 month)
 
-*   **Estimated duration:** 1 month
-    
-*   **FTE:** 2
-    
-*   **Costs:** 15,000 USD
+*  **Estimated duration:** 1 month
+*  **FTE:** 2
+*  **Costs:** 15,000 USD
     
 |  ID  |  Deliverable  |  Specification  |
 | --- | --- | --- |
-|  0a  |  License  |<ul><li>[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)</li></ul>|
-|  0b  |  Documentation  |<ul><li>Code is documented</li></ul>|
-|  0c  |  Unit tests  |<ul><li>Full test coverage for all crucial services & functions</li></ul>|
-|  1  |  Contracts for service automation  |<ul><li>Automated burning of SOON SPOT Silver NFTs</li><li>Automated auctioning of SOON SPOTs based of USD price determined via (available) oracles</li><li>Automated claim & transfer of funds from atomicmarket income to a specified account</li><li>Deployment on Staging (targeting Proton Testnet) & Production (targeting Proton Mainnet)</li></ul>|
+|  0a  |  License  |  <ul><li>[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0)</li></ul>  |
+|  0b  |  Documentation  |  <ul><li>Code is documented</li></ul>  |
+|  0c  |  Unit tests  |  <ul><li>Full test coverage for all crucial services & functions</li></ul>  |
+|  1  |  Contracts for service automation  |  <ul><li>Automate burning of SOON SPOT Silver NFTs</li><li>Automate auctioning of SOON SPOTs based of USD price determined via (available) oracles</li><li>Automate claim & transfer of funds from atomicmarket income to a specified account</li><li>Deployment on Staging (targeting Proton Testnet) & Production (targeting Proton Mainnet)</li></ul>  |
 
 ## Future Plans
 
@@ -249,18 +201,12 @@ We are driven by a well-defined vision and an internal roadmap that outlines our
 
 Areas(\*) we will take in consideration:
 
-*   NFT Launchpad & Creator Tools (depending on the ecosystem state of these)
-    
-*   NFT Bridge
-    
-*   Soony
-    
-*   Whitelabeling of Soon.Market
-    
-*   Mobile App
-    
-*   Establish a DAO to govern AtomicAssets / AtomicMarket contracts
-    
+*  NFT Launchpad & Creator Tools (depending on the ecosystem state of these)
+*  NFT Bridge integration
+*  Soony
+*  Whitelabeling of Soon.Market
+*  Mobile App
+*  Establish a DAO to govern AtomicAssets / AtomicMarket contracts
 
 Of course we will expand marketing activities once we have taken Soon.Market to the next level.
 
