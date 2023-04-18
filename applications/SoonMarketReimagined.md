@@ -105,6 +105,7 @@ Marvin worked at Ada Health, Siemens, Axel Springer, and Google and specialized 
 
 **Note:**
 
+* Planned start: Mid June 2023
 *  Milestones 1 & 2 include work which can be parallelized that, if the grant is accepted, allows us to deliver the final results faster.
 *  We plan to keep the community regularly updated on our channels and additionally via Twitter Spaces.
 *  The clickable Adobe XD design prototype will be shared publicly with the Proton community, with the possibility to contribute.
