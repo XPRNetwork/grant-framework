@@ -33,7 +33,7 @@ Here you can find a link to the DApp designs in Figma: [Click Here - 4 prototype
 
 We have currently made very good progress with the designs and are now in a position where we're looking to onboard a full-time developer initially to start building, before adding another developer later to support them.
 
-In addition, the new fishtank.ai website is due to go live end of April 2023 with a focus on content and community to support adoption of Fishtank and the entire ecosystem - this will help drive awareness of what we're looking to achieve.
+Our new fishtank.ai website is already live and promoting the Proton ecosystem.
 
 User --> website (fishtank.ai) --> DApp (app.fishtank.ai)
 
@@ -205,12 +205,30 @@ Funding only to be allocated elsewhere (e.g, providing liquidity for a DEX listi
 
 In the same manner as others in the market such as Gusto, HiBob, and Rippling, we believe initial funding would help us lay solid foundations for initial traction, revenue, and growth moving forward. All of these businesses are relatively new in a market that is constantly being disrupted, and none of them are blockchain-based or using Web3 technology. We have a real opportunity from a first mover advantage standpoint.
 
+We have validated our idea/proposed solution with several Fortune 500 businesses, and will look to involve them as well as Metallicus in the development process to build a solution that delivers.
 
-### Profit Sharing
 
-* 5% initially to go back into the Proton ecosystem
-* 5% initially to go into a Fishtank Development Fund to support platform extension of the marketplace (can be a multisig wallet)
-* Open to this being reviewed on an annual basis in the form of a meeting and adjusted based on additional funding needs and success revenue/profit-wise
+### Incentives & Proton Ecosystem Support
+
+We are open to giving back to Proton in the future but Proton also needs serious projects to be built on the blockchain. This needs to be handled in the right way to the benefit of all parties - especially the community.
+
+Non-conditional:
+
+* 5% to go into a Fishtank Development Fund annually to support extension of platform/marketing - also brings value to Proton
+* 50% of Metal and Proton validator rewards to be donated to the fishtanktr to derisk the project for token holders
+* 8,000,000 tokens to go into 'fishtankdevfund' wallet to support development of initiatives across whole Proton ecosystem (the current valuation at 0.05 would be $400k - with a launch on protonswap we expect this to drop but its still a considerable commitment to the community from our side at $0.01 its $80k - realistic price given 128m max supply of FSHs)
+
+Conditional contributions to Proton warchest:
+
+* We will make an annual lump sum donation to the Proton warchest based on the following being met:
+ * There are elections held to vote in a 7 member Consortium, and these are made up to be advisory roles
+ * Fixed term limits are implemented every 1-2 years so the community gets to decide who represents them in the Consortium
+ * Consortium pay is reduced to zero - we believe this should be an advisory role and a position of privilege within the ecosystem
+ * There's a code of conduct released for Consortium members and BPs to reduce brand/reputational risk for businesses on Proton
+
+The community does not currently have enough of a voice in affairs on how this level of the governance is run. As it stands, the Consortium membership is unelected and we believe this shouldn't be the case. These should be people elected by the community.
+
+It is very difficult for us to agree to profit-sharing or donations when the current Consortium is unelected, and the community's voice is incredibly limited in matters of conduct and governance.
 
 ### Future Plans
 
@@ -235,6 +253,7 @@ Below is an overview of our longer term goals to support our vision and mission 
 * Set up small coworking hubs that professionals can access and pay for with their WebAuth wallets
 * More integrated financial capabilities for work - compensation, payroll, benefits, etc.
 * Multi-year blueprint can be seen here: https://drive.google.com/file/d/1CaCLR7zQlxgAnA9IOzsAYdNVxXLm4lNI/view?usp=sharing
+
 
 ### Additional Information
 
@@ -267,10 +286,19 @@ Below is an overview of our longer term goals to support our vision and mission 
 NOTE: None of the above tokens represent ownership in Fishtank Labs, Inc. (core developer).
 
 
-
-
 ### If Funding Is Granted
 
 * Roadmap with quarterly OKRs will be set up and shared at the earliest opportunity (see example here: https://feedback.featurebase.app/roadmap)
 * We are open to providing access to Paul G. to JIRA to have transparency into sprint delivery/goals
 * Additionally, we have already committed to transparency elsewhere in terms of expenditure
+
+
+
+### Additional Comments
+
+We believe this proposal should go to community vote via the DAO dashboard. The community should ultimately decide which projects they want to see built on Proton. We believe this is the right thing to do in a democratic setup such as a DAO which is intended to give participants in an ecosystem more of a voice, and more transparency in affairs.
+
+
+### Cost of Not Being Backed By Community
+
+We want to be incredibly clear and honest in terms of what it means if we're not backed by the Consortium and/or community. Ultimately, our relationship with the Proton ecosystem will become one of a strictly business nature and focused around leveraging the technology. We will not make any contributions of any kind to the Proton ecosystem, and will for the most part operate as a private venture due to other obligations. Additionally, we will likely take more of a generic cross-chain perspective as opposed to a 'Proton first' perspective as this will increase our chances of success tenfold as we move forward with Fishtank.
