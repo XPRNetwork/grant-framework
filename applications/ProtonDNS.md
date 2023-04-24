@@ -2,7 +2,7 @@
 
 - **Project Name:** ProtonDNS
 - **Team Name:** Alvosec
-- **Payment Address:** alvosec
+- **Payment Address:** alvosec or KYC’d wallet is @mirsad11
 - **Level:** Small Team
 - **Is Project Open-Source:** Mixed
 - **Project has a token:** No
