@@ -62,7 +62,7 @@ The setup section provides users with a step-by-step guide on how to use ProtonD
 Setting up the service only requires a few simple steps and is entirely software-free, eliminating the need for any additional installations.
 We acknowledge that if security measures are overly complex, people may be deterred from using them. Therefore, we prioritize making our service user-friendly and straightforward to use.
 
-"Security at the expense of usability, comes at the expense of security."
+*"Security at the expense of usability, comes at the expense of security."*
 
 We also provide digitally signed profile for iOS users which ensures that the profile has not been altered or tampered with. When the profile is installed on an iOS device, the device will verify the digital signature to confirm that the profile is authentic and has not been modified in any way. This helps to prevent unauthorized changes to the profile, which could potentially compromise the security of the device and its data.
 
