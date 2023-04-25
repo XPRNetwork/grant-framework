@@ -38,6 +38,8 @@ ProtonDNS provides real-time security information to stop malicious activity on 
 - fake crypto exchanges
 - fake antivirus domains
 - cryptojacking domains
+- newly registered domains
+- wallet drainers
 - and many more...
 
 Each list is regularly updated and reviewed to avoid false alarms. ProtonDNS supports DNSSEC technology which allows you to verify the authenticity of the stored DNS records with a digital signature. We also implemented DNS over HTTPS (DoH) protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol.
