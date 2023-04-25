@@ -121,3 +121,11 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 ### Future Plans
 
 We plan to integrate machine learning (ML) technology into our security measures even more extensively in our upcoming initiatives.
+
+### Additional Information
+
+It is apparent that services of this nature cannot function without expenses. As a result, we are seeking this grant to cover server costs, expand future development, support marketing efforts, and many more that will come.
+
+As a dedicated team, we always begin a project with a clear understanding of our responsibility to deliver a completed product that satisfies the needs of our users.
+
+Thank you for considering our application for financial support. We appreciate your time and attention to this matter.
