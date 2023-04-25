@@ -84,7 +84,7 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 
 - Responsibilities: Developer & Sysadmin
 - LinkedIn: https://si.linkedin.com/in/mirsademrovic
-- Security StackExchange: https://security.stackexchange.com/users/46520/mirsad
+- Security StackExchange: [https://security.stackexchange.com/users/46520/mirsad](https://security.stackexchange.com/users/46520/mirsad?tab=profile)
 
 **Ermin Mulalic**
 
