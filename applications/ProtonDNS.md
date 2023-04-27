@@ -2,7 +2,7 @@
 
 - **Project Name:** ProtonDNS
 - **Team Name:** Alvosec
-- **Payment Address:** alvosec or KYC’d wallet is @mirsad11
+- **Payment Address:** alvosec or KYC’d wallet is @mirsad1
 - **Level:** Small Team
 - **Is Project Open-Source:** Mixed
 - **Project has a token:** No
@@ -40,6 +40,7 @@ ProtonDNS provides real-time security information to stop malicious activity on 
 - cryptojacking domains
 - newly registered domains
 - wallet drainers
+- adult content
 - and many more...
 
 Each list is regularly updated and reviewed to avoid false alarms. ProtonDNS supports DNSSEC technology which allows you to verify the authenticity of the stored DNS records with a digital signature. We also implemented DNS over HTTPS (DoH) protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol.
