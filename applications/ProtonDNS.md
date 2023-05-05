@@ -111,19 +111,21 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 ### Milestone Domain Threat Intelligence
 
 - **Milestone:** 1
-- **Estimated duration:** 6 month
+- **Estimated duration:** 3-6 month
 - **FTE:**  3+
 - **Costs:** 20,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 1 | Domain Threat Intelligence | Start developing a Domain Threat Intelligence web application that will utilize machine learning (ML) technology to scan websites across the internet and identify any potential risk factors. |
-| 2 | Testing | Before being released to the public, our new Domain Threat Intelligence system will undergo a testing phase for a certain period of time. |
-| 3 | Completion | First AI scanner will be published. |
+| 1 | Data Analysis and Model Creation | In this stage, we will gather and analyze approximately 50k phishing domains to identify common patterns that these malicious domains contain. Using this analysis, we will create a model that can identify potential phishing domains based on these patterns. This model will serve as the foundation for our Domain Threat Intelligence system. |
+| 2 | Development of Domain Threat Intelligence Web Application | Using the model created in the first stage, we will develop a Domain Threat Intelligence web application that uses machine learning technology to scan any domain across the internet and identify any potential risk factors. The web application will be focused on identifying risky domains that are promoted in Web3. Any user can report a potentially risky domain on blockchain via smart contract and receive a reward in $XPR. |
+| 3 | Testing Phase | Before releasing our Domain Threat Intelligence system to the public, we will conduct a thorough testing phase for a certain period of time. This phase will ensure that the system is accurate and reliable, and that any potential issues are identified and addressed before public release. |
+| 4 | Public Release | Once the testing phase is complete and any necessary adjustments have been made, we will release our advanced Domain Threat Intelligence solution to the public. This solution will be built on the Proton blockchain and will provide a powerful tool for identifying and reporting potential malicious domains. |
+| 5 | Partnership and Marketing | Following the public release of our Domain Threat Intelligence system, we will seek out partnerships and focus on marketing efforts to bring more attention to our solution. Through strategic partnerships with relevant companies and organizations, we can broaden the scope and effectiveness of our solution, ultimately contributing to a safer and more secure experience for Web3 users. |
 
 ### Future Plans
 
-We plan to integrate machine learning (ML) technology into our security measures even more extensively in our upcoming initiatives.
+Our aim is to enhance all of our services by staying updated at all times and adopting novel approaches to detect websites that may pose a risk.
 
 ### Additional Information
 
