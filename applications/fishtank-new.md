@@ -17,9 +17,9 @@
 
 ### Project Details
 
-Fishtank DAO is an ecosystem built by Fishtank Labs, Inc. targeted towards startups and scaling businesses. It will consist of both decentralised and non-decentralised solutions, as well as providing a set of digital services around that to help support businesses throughout their lifecycle - particularly in the early phase and growth phase.
+Fishtank DAO is a decentralised ecosystem built by Fishtank Labs, Inc. targeted towards startups and scaling businesses. It will consist of decentralised solutions. It will be supported by proprietary solutions as well as a set of digital services around that to help support businesses throughout their lifecycle - particularly in the early phase and growth phase. These will be provided by Fishtank Labs, Inc. (core developer).
 
-The decentralised ecosystem is to consist of a project launchpad, dashboard with referrals and staking mechanism, an NFT minting launchpad for campaigns, pool-based fundraising for startups so that rewards are used for capital raising (similar to that seen on Cardano), a discovery tool to find investors and contractors to help with the work, and other solutions in the future to support businesses.
+The decentralised ecosystem is to consist of a project launchpad, dashboard with referrals and staking mechanism, an NFT minting launchpad for campaigns, pool-based fundraising for startups so that rewards are used for capital raising (similar to the ISPO model seen on Cardano), a discovery tool to find investors and contractors to help with the work, and other solutions in the future to support businesses and the problems they're facing throughout their lifecycle.
 
 What is the current status?
 
@@ -32,7 +32,7 @@ Additional:
 
 * Fishtank Labs Website - designs almost complete with go-live expected in Q3 2023 (design in progress here: https://www.figma.com/proto/9xWUmdCyI0PKGfa6qqZnGl/Fishtank-DAO-Web-App?page-id=4144%3A378985&node-id=4256-383584&viewport=737%2C-200%2C0.33&scaling=min-zoom&starting-point-node-id=4256%3A383584)
 * Fishtank Website - almost ready to go live with updated format and content targeting startups (https://www.fishtank.ai)
-* Fishtank Nodes - going live officially from June 1st with a ~600k bond of METAL
+* Fishtank Nodes - going live officially from June 1st with a ~600k bond of METAL until end of year (to then move to annual cycle in line with tax season)
 
 
 ### Ecosystem Fit
