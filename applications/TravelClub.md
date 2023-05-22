@@ -52,8 +52,7 @@ Linkedin https://www.linkedin.com/in/tropicshoresrealty/
 
 ### Roadmap
 
-Our roadmap for Blastpad consists of 4 Milestones over a 3 month period, which will allow us to release the individual domains and advertise each one as the building continues Our roadmap for The Travel Club consists of 5 Milestones over a 5-month period. Our target is to complete the site and be live by the end of September (end of milestone 4) and then advertise for the month of October (milestone 5)
-
+Our roadmap for The Travel Club consists of 5 Milestones over a 5-month period. Our target is to complete the site and be live by the end of September (end of milestone 4) and then advertise for the month of October (milestone 5)
 ### Milestones
 
 - **Milestone:** 1
