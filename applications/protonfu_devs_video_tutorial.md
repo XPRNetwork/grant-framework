@@ -6,7 +6,7 @@
 
 - **Project Name:** Mastering ProtonFu
 - **Team Name:** ProtonFu
-- **Payment Address:** ProtonFu
+- **Payment Address:** protonfu
 - **Level:** Individual
 - **Is Project Open-Source:** Yes
 - **Project has a token:** No
@@ -29,6 +29,8 @@ Through ProtonFu, the idea is to build a platform that cover the entire proton t
 "Mastering ProtonFu" is a learning journey into the incredible ecosystem that Proton offers. From installation and tool basics to advanced techniques and tips and tricks, this "Zero to Hero" videos package willl cover each topic in depth to help newcomers master proton dev through typescript.
 This course is the sum of all the research and development, trial/error, hair pulling, shouting and enlightenment that I deliver through byte sized videos.
 
+Code base for the dapp front end, and smart contract will be available on github
+
 
 ### Ecosystem Fit
 
@@ -37,7 +39,7 @@ Mastering ProtonFu will help to increase protonchain developer base and help new
 > 2. Who is your target audience?
 New developer and experienced developer who want to dives in the Proton eco system.
 > 3. What needs does your project meet for the community and what sets it apart from other similar projects?
-Currently their is no similar project on the proton chain. 
+Currently their is no similar project on the proton chain. The idea is to offer a learning platform to the community.
 
 ### Team
 
@@ -95,9 +97,6 @@ The list of produced videos could be found on [this notion file](https://www.not
 | 3a. | Front end | Create a dedicated platform to organize video in super topic (CLI, frontend, backend, smart contract) |
 | 3b. | Smart contract | Create a dedicated smart contract to keep track of progression of users (Will serve for future plan) |
 
-
-
-> Add more milestones as needed.
 
 ### Future Plans
 
