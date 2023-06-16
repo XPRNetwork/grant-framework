@@ -49,6 +49,7 @@ Payment Processing: The project will leverage Proton's ability to facilitate tra
 - Crypto Enthusiast
 - Sport bettors
 - Gamblers
+- Gamers
 - Sport fans
 
 > 3. What needs does your project meet for the community and what sets it apart from other similar projects?
@@ -64,12 +65,14 @@ Sports-Based Investment Opportunities: Scorefam goes beyond traditional betting 
 
 Simisoluwa Adeyemo (CEO) - An experienced software developer and product manager with over 6 years of experience building scalable products and managing a team of technology experts with strong leadership skills.
 https://www.linkedin.com/in/simisoluwa-a-7a051a124/ 
+https://github.com/simisoluwa
 
 Sofowora Babasola (COO) - A seasoned product operation Manager with vast experience in business and growth management, a good team player who is strong in effective communication with the aim of achieving set goals. 
 https://www.linkedin.com/in/babasola-sofowora-9572a7219/
 
 Chinaza Okpara (CTO) - A Blockchain Developer with over 7 years experience in software development and over 4 years experience in blockchain smart contract development on EOS Blockchain, EVM compatible blockchains and Solana blockchain.
- https://www.linkedin.com/in/naza-henry-bb81bb97/
+https://www.linkedin.com/in/naza-henry-bb81bb97/
+https://github.com/nvzvhenry
 
 ### Roadmap
 
@@ -107,7 +110,6 @@ Q1 - Q3 2024:
 
 New Features: Introduce new features and services, also including a mobile app, etc.
 
-Global Expansion: If the platform is successful and regulations permit, consider expanding to additional markets.
 
 
 ### Milestones
@@ -125,7 +127,7 @@ Global Expansion: If the platform is successful and regulations permit, consider
 - **Milestone:** 1
 - **Estimated duration:** 2 month
 - **FTE:**  4
-- **Costs:** 30,000 USD
+- **Costs:** 35,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -138,7 +140,7 @@ Global Expansion: If the platform is successful and regulations permit, consider
 - **Milestone:** 2
 - **Estimated duration:** 3 month
 - **FTE:**  6
-- **Costs:** 40,000 USD
+- **Costs:** 50,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
