@@ -44,8 +44,15 @@ Snipverse.com beta version is currently live and functioning, users can already 
 ### Ecosystem Fit
 
 > 1. Where and how does your project fit into the Proton ecosystem?
-> 2. Who is your target audience?
-> 3. What needs does your project meet for the community and what sets it apart from other similar projects?
+>    
+Snipverse is closely intertwined with the Proton ecosystem, leveraging its technology and infrastructure to create a secure and decentralized social media platform.
+
+Snipverse utilizes the Proton blockchain as its underlying technology which provides a scalable and secure environment for storing user data, ensuring the integrity and privacy of the platform. Snipverse leverages the blockchain's immutability to prevent data tampering and establish a transparent system for user authentication and verification.
+
+Snipverse integrates WebAuth wallet as the primary authentication mechanism for its users and  leverages Proton's KYC protocols to ensure that its user base consists of legitimate individuals, enhancing the overall security and trustworthiness of the platform.
+
+> 3. Who is your target audience?
+> 4. What needs does your project meet for the community and what sets it apart from other similar projects?
 
 ### Team
 
