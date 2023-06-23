@@ -1,9 +1,5 @@
 # Proton Blockchain Grant Proposal
 
-> See the [Grant Framework Application Process](https://github.com/ProtonProtocol/grant-framework#application-process) on how to submit a proposal.
->
-> Fill out the following information about your team and project
-
 - **Project Name:** Snipverse
 - **Team Name:** Frostic, LLC
 - **Payment Address:** frostic
@@ -24,7 +20,8 @@ Snipverse is an innovative web3 social media platform designed specifically for 
 
 Snipverse provides a decentralized and rewarding ecosystem that fosters knowledge-sharing, collaboration, and growth within the crypto space.
 
-Snipverse aims to solve several problems associated with traditional social media platforms, including lack of transparency, centralized control, and limited monetization opportunities for content creators.
+Problems we aim to solve:
+Crypto enthusiasts and projects face challenges in finding a dedicated platform that caters to their specific needs. Existing social media platforms lack specialized features, overrun by bots, have limited engagement opportunities, and fail to provide adequate rewards for valuable contributions. Snipverse addresses these pain points by offering a tailored solution that rewards users, encourages collaboration, and ensures a vibrant and supportive community.
 
 Snipverse utilizes Proton's on-chain verification system to help prevent impersonation on the platform by ensuring that each user's account is linked to their unique wallet @name. This provides a more secure and decentralized way for users to verify their identity and prevent fraudulent activity on the platform.
 
