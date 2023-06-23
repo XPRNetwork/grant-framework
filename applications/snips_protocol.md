@@ -4,13 +4,13 @@
 >
 > Fill out the following information about your team and project
 
-- **Project Name:** Snipcoins Protocol
+- **Project Name:** Snipverse
 - **Team Name:** Frostic, LLC
 - **Payment Address:** frostic
 - **Level:** Company
-- **Is Project Open-Source:** Yes
+- **Is Project Open-Source:** Mix
 - **Project has a token:** Yes
-- **Github Repo:** https://github.com/snipcoins/SnipcoinsProtocol)
+- **Github Repo:** https://github.com/snipcoins/SnipsProtocol)
 
 ### Contact Information
 
@@ -22,11 +22,11 @@
 
 > Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project?
 > 
-> Snipcoins Protocol is a blockchain-based social media project that aims to provide a decentralized platform for crypto enthusiasts, content creators, and Web3 
+> Snipverse is a blockchain-based social media project that aims to provide a decentralized platform for crypto enthusiasts, content creators, and Web3 
 > projects to connect, share and engage with each other while earning rewards for their contributions.
 
-> Snipcoins Protocol aims to solve several problems associated with traditional social media platforms, including lack of transparency, centralized control, and limited monetization opportunities for content creators.
-> The Snipcoins Protocol uses on-chain verification to help prevent impersonation on the platform by ensuring that each user's account is linked to their unique wallet @name. 
+> Snipverse aims to solve several problems associated with traditional social media platforms, including lack of transparency, centralized control, and limited monetization opportunities for content creators.
+> Snipverse utilizes Proton's on-chain verification system to help prevent impersonation on the platform by ensuring that each user's account is linked to their unique wallet @name. 
 > This provides a more secure and decentralized way for users to verify their identity and prevent fraudulent activity on the platform.
 
 
