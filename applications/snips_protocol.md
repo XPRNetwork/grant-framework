@@ -21,6 +21,8 @@ Snipverse is an innovative web3 social media platform designed specifically for 
 What problems Snipverse aims to solve?
 Crypto enthusiasts and projects face challenges in finding a dedicated platform that caters to their specific needs. Existing social media platforms lack specialized features, overrun by bots, have limited engagement opportunities, and fail to provide adequate rewards for valuable contributions. Snipverse addresses these pain points by offering a tailored solution that rewards users, encourages collaboration, and ensures a vibrant and supportive community.
 
+Snipverse.com beta version is currently live and functioning, users can already access and use the platform at https://snipverse.com
+
 ### Ecosystem Fit
 
 > 1. Where and how does your project fit into the Proton ecosystem?
