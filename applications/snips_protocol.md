@@ -69,8 +69,11 @@ d) Project Promotion: Snipverse allows users to promote their work and projects 
 Snipverse sets itself apart from other similar projects by leveraging the integration with the broader Proton ecosystem. It taps into Proton's fee-less transaction, WebAuth wallet technology, kyc and secure infrastructure, providing users with enhanced security, trust, and seamless integration with other Proton services. This deep integration strengthens the value of Snipverse within the community.
 
 ### Team
+Jervis Dent
+Role: Founder / Lead Developer
+https://www.linkedin.com/in/jervis-dent-87137a36
 
-> List the members of your team, including their roles and responsibilities. Include links to their LinkedIn profiles, Github repos, and any other relevant information.
+
 
 ### Roadmap
 
