@@ -21,6 +21,24 @@ Snipverse is an innovative web3 social media platform designed specifically for 
 What problems Snipverse aims to solve?
 Crypto enthusiasts and projects face challenges in finding a dedicated platform that caters to their specific needs. Existing social media platforms lack specialized features, overrun by bots, have limited engagement opportunities, and fail to provide adequate rewards for valuable contributions. Snipverse addresses these pain points by offering a tailored solution that rewards users, encourages collaboration, and ensures a vibrant and supportive community.
 
+Key Features and Solutions:
+
+a) Crypto-Centric Community: Snipverse.com focuses on catering to the needs of crypto enthusiasts and projects. The platform provides dedicated spaces for discussions, news updates, project launches, and collaboration opportunities, fostering a community that is highly engaged and knowledgeable.
+
+b) User authentication and verification: 
+At the heart of Snipverse's authentication and verification system lies Proton's WebAuth wallet technology. This revolutionary authentication method eliminates the need for traditional usernames and passwords, significantly reducing the risk of hacking, impersonation and ensuring a bot-free environment. 
+
+c) Rewards for Contributions: Snipverse.com rewards users for their contributions to the crypto community. By utilizing SnipCoins, users can earn rewards for sharing valuable insights, participating in discussions, promoting projects, and providing meaningful feedback. This incentivizes active engagement and encourages the sharing of quality content.
+
+d) Collaboration and Networking: Snipverse.com facilitates collaboration and networking within the crypto space. Users can connect with like-minded individuals, explore partnership opportunities, and build relationships with projects and influencers. This encourages collaboration and strengthens the overall ecosystem.
+
+e) Project Promotion and Exposure: Snipverse.com provides a platform for crypto projects to showcase their offerings and gain exposure to a targeted audience. Project teams can create project pages, share updates, announcements, and events, attracting the attention of potential investors, partners, and community members.
+
+f) Community Governance: Snipverse.com implements a community-driven governance model. Token holders with ADV membership status can vote and actively participate in shaping the platform's future. This ensures that decisions align with the community's interests and values, creating a platform that evolves based on consensus.
+
+g) Snipcoins (SNIPS) - The Utility Token: Snipcoins serve as the native utility token within Snipverse.com. They are used for various purposes, including rewarding contributions, accessing premium features, purchasing advertisement credit and facilitating transactions within the platform. Snipcoins incentivize active participation and drive the platform's economy.
+
+
 Snipverse.com beta version is currently live and functioning, users can already access and use the platform at https://snipverse.com
 
 ### Ecosystem Fit
