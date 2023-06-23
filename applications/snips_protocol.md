@@ -52,6 +52,7 @@ Snipverse utilizes the Proton blockchain as its underlying technology which prov
 Snipverse integrates WebAuth wallet as the primary authentication mechanism for its users and  leverages Proton's KYC protocols to ensure that its user base consists of legitimate individuals, enhancing the overall security and trustworthiness of the platform.
 
 > 2. Who is your target audience?
+>
 Snipverse target audience includes crypto enthusiasts, businesses bockchain projects, NFT projects, influencers, and content creators within the crypto space.
 
 > 3. What needs does your project meet for the community and what sets it apart from other similar projects?
