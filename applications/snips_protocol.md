@@ -73,6 +73,7 @@ Jervis Dent
 Role: Founder / Lead Developer
 https://www.linkedin.com/in/jervis-dent-87137a36
 
+Assisted by other developers within and outside of the Proton community on a contract basis. 
 
 
 ### Roadmap
