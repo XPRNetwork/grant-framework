@@ -20,14 +20,13 @@
 
 ### Project Details
 
-> Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project?
-> 
-> Snipverse is a blockchain-based social media project that aims to provide a decentralized platform for crypto enthusiasts, content creators, and Web3 
-> projects to connect, share and engage with each other while earning rewards for their contributions.
+Snipverse is an innovative web3 social media platform designed specifically for crypto enthusiasts and projects. It aims to create a vibrant and engaged community by leveraging Proton blockchain technology and Snipcoins, its native utility token. 
 
-> Snipverse aims to solve several problems associated with traditional social media platforms, including lack of transparency, centralized control, and limited monetization opportunities for content creators.
-> Snipverse utilizes Proton's on-chain verification system to help prevent impersonation on the platform by ensuring that each user's account is linked to their unique wallet @name. 
-> This provides a more secure and decentralized way for users to verify their identity and prevent fraudulent activity on the platform.
+Snipverse provides a decentralized and rewarding ecosystem that fosters knowledge-sharing, collaboration, and growth within the crypto space.
+
+Snipverse aims to solve several problems associated with traditional social media platforms, including lack of transparency, centralized control, and limited monetization opportunities for content creators.
+
+Snipverse utilizes Proton's on-chain verification system to help prevent impersonation on the platform by ensuring that each user's account is linked to their unique wallet @name. This provides a more secure and decentralized way for users to verify their identity and prevent fraudulent activity on the platform.
 
 
 
