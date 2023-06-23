@@ -56,8 +56,17 @@ Snipverse integrates WebAuth wallet as the primary authentication mechanism for 
 Snipverse target audience includes crypto enthusiasts, businesses bockchain projects, NFT projects, influencers, and content creators within the crypto space.
 
 > 3. What needs does your project meet for the community and what sets it apart from other similar projects?
+>
+a) Networking and Collaboration:
+Snipverse fulfills the need for networking and collaboration within the Proton community. It provides a platform where users can connect with like-minded individuals, exchange ideas, and collaborate on projects. This facilitates the growth of professional networks and fosters meaningful interactions among Proton community members.
 
+b) Knowledge Sharing: Snipverse caters to the need for knowledge sharing within the Proton community. It enables users to share their expertise, insights, and experiences with others, creating a valuable hub of information. Users can engage in discussions, ask questions, and learn from each other, fostering a culture of continuous learning and knowledge dissemination.
 
+c) Community Engagement: Snipverse encourages active community engagement within the Proton ecosystem. It provides features such as tipping, commenting, liking, and sharing, allowing users to interact and engage with each other's posts. This fosters a sense of community and encourages participation, making Snipverse a vibrant platform for Proton community members.
+
+d) Project Promotion: Snipverse allows users to promote their work and projects within the Proton community. It provides a dedicated space where users can showcase their achievements, share updates about ongoing initiatives, and seek support or feedback from the community. This promotes visibility, collaboration, and recognition for users' projects.
+
+Snipverse sets itself apart from other similar projects by leveraging the integration with the broader Proton ecosystem. It taps into Proton's fee-less transaction, WebAuth wallet technology, kyc and secure infrastructure, providing users with enhanced security, trust, and seamless integration with other Proton services. This deep integration strengthens the value of Snipverse within the community.
 
 ### Team
 
