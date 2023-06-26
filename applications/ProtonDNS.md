@@ -104,7 +104,7 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 ### Milestone Domain Threat Intelligence
 
 - **Milestone:** 1
-- **Estimated duration:** 3 months
+- **Estimated duration:** 2,5 months
 - **FTE:**  3+
 - **Costs:** 15M $XPR
 
