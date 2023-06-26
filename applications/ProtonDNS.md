@@ -16,34 +16,21 @@
 
 ### Project Details
 
-The cryptocurrency world has seen an enormous number of scams and hacks, and it is likely that the years 2021 and 2022 will be remembered for the significant amount of money lost as a result of smart contract exploits, hacks or frauds in general. As cybersecurity professionals, we realized that
-we could not remain passive and had to take action by raising an awareness. This led us to develop a DNS service that can provide security for all crypto communities.
+The cryptocurrency world has seen an enormous number of scams and hacks, and it is likely that the years 2021 and 2022 will be remembered for the significant amount of money lost as a result of smart contract exploits, hacks or frauds in general. As cybersecurity professionals, we realized that we could not remain passive and had to take action by raising an awareness. This led us to develop a DNS service that can provide security for all crypto communities.
+
+The ProtonDNS project will offer two main services:
+
+1. ProtonDNS functions as a set of **DNS servers**, ensuring uninterrupted access, fast responses, and secure queries on all devices.
+
+2. ProtonDNS will offer an **advanced domain intelligence** specifically designed for Web3, allowing users to scan any provided domain and identify potential suspicious activities.
+
+Video presentaion of ProtonDNS application: https://www.youtube.com/watch?v=PDmpURWnowI
 
 **What is DNS?**
 
-The Domain Name System (DNS) plays a crucial role in connecting domain names to IP addresses, which are used to load internet pages. DNS servers make it possible for people to use normal words in their browsers instead of IP addresses. Our ProtonDNS service is entirely free, and it shields users
-from known threats by blocking domains and attacks on their infrastructure. The service is continuously updated by Alvosec Threat Intelligence team using our global insight and observation of the threat landscape.
+The Domain Name System (DNS) plays a crucial role in connecting domain names to IP addresses, which are used to load internet pages. DNS servers make it possible for people to use normal words in their browsers instead of IP addresses. Our ProtonDNS service is entirely free, and it shields users from known threats by blocking domains and attacks on their infrastructure. The service is continuously updated by Alvosec Threat Intelligence team using our global insight and observation of the threat landscape.
 
-**Features**
-
-ProtonDNS provides real-time security information to stop malicious activity on the network across all devices. Our threat intelligence system offers various forms of protection for all users and includes features where access is restricted, such as:
-
-- malicouse websites
-- phishing websites
-- domains that host ransomware
-- annoying ads
-- typosquatting domains
-- websites that are deceptive or fraudulent
-- most abused TLDs (*.tk, *.ml)
-- fake crypto exchanges
-- fake antivirus domains
-- cryptojacking domains
-- newly registered domains
-- wallet drainers
-- adult content
-- and many more...
-
-Each list is regularly updated and reviewed to avoid false alarms. ProtonDNS supports DNSSEC technology which allows you to verify the authenticity of the stored DNS records with a digital signature. We also implemented DNS over HTTPS (DoH) protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol.
+ProtonDNS provides real-time security information to stop malicious activity on the network across all devices. Our threat intelligence system offers various forms of protection. For more details about features you can visit website: https://protondns.org under the section [Built-In Features of DNS].
 
 **ProtonDNS web application and current features**
 
@@ -71,11 +58,15 @@ We also provide digitally signed profile for iOS users which ensures that the pr
 
 **Links**
 
-- Website: https://protondns.org
+- Website: https://protondns.org/
 
 **Screenshot**
 
 ![Alt text](/img/preview.jpg)
+
+![Alt text](/img/protondns-scanner.png)
+
+![Alt text](/img/protondns-scanner-inner.png)
 
 ### Ecosystem Fit
 
@@ -111,9 +102,9 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 ### Milestone Domain Threat Intelligence
 
 - **Milestone:** 1
-- **Estimated duration:** 3-6 month
+
 - **FTE:**  3+
-- **Costs:** 20,000 USD
+- **Costs:** 15M $XPR
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
