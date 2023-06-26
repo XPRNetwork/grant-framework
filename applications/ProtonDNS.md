@@ -2,7 +2,7 @@
 
 - **Project Name:** ProtonDNS
 - **Team Name:** Alvosec
-- **Payment Address:** alvosec or KYC’d wallet is @mirsad11
+- **Payment Address:** alvosec or KYC’d wallet is @mirsad1
 - **Level:** Small Team
 - **Is Project Open-Source:** Mixed
 - **Project has a token:** No
@@ -16,33 +16,23 @@
 
 ### Project Details
 
-The cryptocurrency world has seen an enormous number of scams and hacks, and it is likely that the years 2021 and 2022 will be remembered for the significant amount of money lost as a result of smart contract exploits, hacks or frauds in general. As cybersecurity professionals, we realized that
-we could not remain passive and had to take action by raising an awareness. This led us to develop a DNS service that can provide security for all crypto communities.
+The cryptocurrency world has seen an enormous number of scams and hacks, and it is likely that the years 2021 and 2022 will be remembered for the significant amount of money lost as a result of smart contract exploits, hacks or frauds in general. As cybersecurity professionals, we realized that we could not remain passive and had to take action by raising an awareness. This led us to develop a DNS service that can provide security for all crypto communities.
+
+The ProtonDNS project encompasses two primary services:
+
+1. ProtonDNS functions as a set of **DNS servers**, ensuring uninterrupted access, fast responses, and secure queries in various environments.
+
+2. ProtonDNS will offer an **advanced domain intelligence** specifically designed for Web3, allowing users to scan any provided domain and identify potential suspicious activities.
+
+Video presentaion of ProtonDNS application: https://www.youtube.com/watch?v=PDmpURWnowI
 
 **What is DNS?**
 
-The Domain Name System (DNS) plays a crucial role in connecting domain names to IP addresses, which are used to load internet pages. DNS servers make it possible for people to use normal words in their browsers instead of IP addresses. Our ProtonDNS service is entirely free, and it shields users
-from known threats by blocking domains and attacks on their infrastructure. The service is continuously updated by Alvosec Threat Intelligence team using our global insight and observation of the threat landscape.
+The Domain Name System (DNS) plays a crucial role in connecting domain names to IP addresses, which are used to load internet pages. DNS servers make it possible for people to use normal words in their browsers instead of IP addresses. Our ProtonDNS service is entirely free, and it shields users from known threats by blocking domains and attacks on their infrastructure. The service is continuously updated by Alvosec Threat Intelligence team using our global insight and observation of the threat landscape.
 
 **Features**
 
-ProtonDNS provides real-time security information to stop malicious activity on the network across all devices. Our threat intelligence system offers various forms of protection for all users and includes features where access is restricted, such as:
-
-- malicouse websites
-- phishing websites
-- domains that host ransomware
-- annoying ads
-- typosquatting domains
-- websites that are deceptive or fraudulent
-- most abused TLDs (*.tk, *.ml)
-- fake crypto exchanges
-- fake antivirus domains
-- cryptojacking domains
-- newly registered domains
-- wallet drainers
-- and many more...
-
-Each list is regularly updated and reviewed to avoid false alarms. ProtonDNS supports DNSSEC technology which allows you to verify the authenticity of the stored DNS records with a digital signature. We also implemented DNS over HTTPS (DoH) protocol for performing remote Domain Name System (DNS) resolution via the HTTPS protocol.
+ProtonDNS provides real-time security information to stop malicious activity on the network across all devices. Our threat intelligence system offers various forms of protection. For more details about features you can visit website: https://protondns.org under the section [Built-In Features of DNS].
 
 **ProtonDNS web application and current features**
 
@@ -70,11 +60,15 @@ We also provide digitally signed profile for iOS users which ensures that the pr
 
 **Links**
 
-- Website: https://protondns.org
+- Website: https://protondns.org/
 
 **Screenshot**
 
 ![Alt text](/img/preview.jpg)
+
+![Alt text](/img/protondns-scanner.png)
+
+![Alt text](/img/protondns-scanner-inner.png)
 
 ### Ecosystem Fit
 
@@ -110,19 +104,30 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 ### Milestone Domain Threat Intelligence
 
 - **Milestone:** 1
-- **Estimated duration:** 6 month
+- **Estimated duration:** 3 months
 - **FTE:**  3+
-- **Costs:** 20,000 USD
+- **Costs:** 15M $XPR
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 1 | Domain Threat Intelligence | Start developing a Domain Threat Intelligence web application that will utilize machine learning (ML) technology to scan websites across the internet and identify any potential risk factors. |
-| 2 | Testing | Before being released to the public, our new Domain Threat Intelligence system will undergo a testing phase for a certain period of time. |
-| 3 | Completion | First AI scanner will be published. |
+| 1 | Data Analysis and Model Creation | In this stage, we will gather and analyze approximately 50k phishing domains to identify common patterns that these malicious domains contain. Using this analysis, we will create a model that can identify potential phishing domains based on these patterns. This model will serve as the foundation for our Domain Threat Intelligence system. |
+| 2 | Development of Domain Threat Intelligence Web Application | Using the model created in the first stage, we will develop a Domain Threat Intelligence web application that uses machine learning technology to scan any domain across the internet and identify any potential risk factors. The web application will be focused on identifying risky domains that are promoted in Web3. Any user can report a potentially risky domain on blockchain via smart contract and receive a reward in $XPR. |
+| 3 | Testing Phase | Before releasing our Domain Threat Intelligence system to the public, we will conduct a thorough testing phase for a certain period of time. This phase will ensure that the system is accurate and reliable, and that any potential issues are identified and addressed before public release. |
+| 4 | Public Release | Once the testing phase is complete and any necessary adjustments have been made, we will release our advanced Domain Threat Intelligence solution to the public. This solution will be built on the Proton blockchain and will provide a powerful tool for identifying and reporting potential malicious domains. |
+| 5 | Partnership and Marketing | Following the public release of our Domain Threat Intelligence system, we will seek out partnerships and focus on marketing efforts to bring more attention to our solution. Through strategic partnerships with relevant companies and organizations, we can broaden the scope and effectiveness of our solution, ultimately contributing to a safer and more secure experience for Web3 users. |
+
+### Project Cost Breakdown
+
+| ID | Percentage | Specification |
+| ----- | ----------- | ------------- |
+| 1 | 35% | The development of the entire application will account for 35% of the total grant, which is equivalent to $5,250 based on the current price of XPR. |
+| 2 | 40% | Our budget will cover the funding for two servers, while an additional two servers will be included in the cost, representing 40% of the grant. This amounts to $6,000 based on the current price of XPR. |
+| 3 | 10% | 10% of the grant will be allocated to cover the expenses of additional services required for the project, such as APIs, certificates, and domains. |
+| 4 | 15% | A portion of the grant, specifically 15% which equals $2,250 based on the current price of XPR, will be dedicated to funding marketing advertisements on platforms like Twitter, Facebook, and Google. |
 
 ### Future Plans
 
-We plan to integrate machine learning (ML) technology into our security measures even more extensively in our upcoming initiatives.
+Our aim is to enhance all of our services by staying updated at all times and adopting novel approaches to detect websites that may pose a risk.
 
 ### Additional Information
 
