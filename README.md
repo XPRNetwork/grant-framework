@@ -3,7 +3,10 @@
 
 The Proton Grant Program is funded by the Community Warchest from the Proton Development Fund.
 
-In order to apply for a grant you must meet certain criteria and make your submission. Then the Proton Consortium will create a DAO Dash Proposal where the community will vote. Depending on the results of the DAO Dash, the proposal will be approved by the Proton Consortium.
+In order to apply for a grant you must meet certain criteria and make your submission. Then you may create a DAO Dash Proposal where the community will vote. Depending on the results of the DAO Dash, the proposal will be approved by the Proton Consortium.
+
+When you create your proposal using [Proton GOV Dashboard](https://www.protongov.com)
+ProtonGOV.com make sure to link to your grant application and be clear to the community about how much USD / XPR you are asking for and be clear how many milestones the proposal is for.
 
 There are also Recognition Grants that may be awarded to proven projects at the discretion of the Proton Consortium.
 

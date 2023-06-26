@@ -30,8 +30,6 @@ Video presentaion of ProtonDNS application: https://www.youtube.com/watch?v=PDmp
 
 The Domain Name System (DNS) plays a crucial role in connecting domain names to IP addresses, which are used to load internet pages. DNS servers make it possible for people to use normal words in their browsers instead of IP addresses. Our ProtonDNS service is entirely free, and it shields users from known threats by blocking domains and attacks on their infrastructure. The service is continuously updated by Alvosec Threat Intelligence team using our global insight and observation of the threat landscape.
 
-**Features**
-
 ProtonDNS provides real-time security information to stop malicious activity on the network across all devices. Our threat intelligence system offers various forms of protection. For more details about features you can visit website: https://protondns.org under the section [Built-In Features of DNS].
 
 **ProtonDNS web application and current features**
@@ -104,7 +102,7 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 ### Milestone Domain Threat Intelligence
 
 - **Milestone:** 1
-- **Estimated duration:** 2,5 months
+
 - **FTE:**  3+
 - **Costs:** 15M $XPR
 
@@ -115,15 +113,6 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 | 3 | Testing Phase | Before releasing our Domain Threat Intelligence system to the public, we will conduct a thorough testing phase for a certain period of time. This phase will ensure that the system is accurate and reliable, and that any potential issues are identified and addressed before public release. |
 | 4 | Public Release | Once the testing phase is complete and any necessary adjustments have been made, we will release our advanced Domain Threat Intelligence solution to the public. This solution will be built on the Proton blockchain and will provide a powerful tool for identifying and reporting potential malicious domains. |
 | 5 | Partnership and Marketing | Following the public release of our Domain Threat Intelligence system, we will seek out partnerships and focus on marketing efforts to bring more attention to our solution. Through strategic partnerships with relevant companies and organizations, we can broaden the scope and effectiveness of our solution, ultimately contributing to a safer and more secure experience for Web3 users. |
-
-### Project Cost Breakdown
-
-| ID | Percentage | Specification |
-| ----- | ----------- | ------------- |
-| 1 | 35% | The development of the entire application will account for 35% of the total grant, which is equivalent to $5,250 based on the current price of XPR. |
-| 2 | 40% | Our budget will cover the funding for two servers, while an additional two servers will be included in the cost, representing 40% of the grant. This amounts to $6,000 based on the current price of XPR. |
-| 3 | 10% | 10% of the grant will be allocated to cover the expenses of additional services required for the project, such as APIs, certificates, and domain. |
-| 4 | 15% | A portion of the grant, specifically 15% which equals $2,250 based on the current price of XPR, will be dedicated to funding marketing advertisements on platforms like Twitter, Facebook, and Google. |
 
 ### Future Plans
 
