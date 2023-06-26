@@ -18,9 +18,9 @@
 
 The cryptocurrency world has seen an enormous number of scams and hacks, and it is likely that the years 2021 and 2022 will be remembered for the significant amount of money lost as a result of smart contract exploits, hacks or frauds in general. As cybersecurity professionals, we realized that we could not remain passive and had to take action by raising an awareness. This led us to develop a DNS service that can provide security for all crypto communities.
 
-The ProtonDNS project encompasses two primary services:
+The ProtonDNS project will offer two main services:
 
-1. ProtonDNS functions as a set of **DNS servers**, ensuring uninterrupted access, fast responses, and secure queries in various environments.
+1. ProtonDNS functions as a set of **DNS servers**, ensuring uninterrupted access, fast responses, and secure queries on all devices.
 
 2. ProtonDNS will offer an **advanced domain intelligence** specifically designed for Web3, allowing users to scan any provided domain and identify potential suspicious activities.
 
