@@ -114,6 +114,15 @@ Our primary goal is to provide a first DNS security solution for the Web3 ecosys
 | 4 | Public Release | Once the testing phase is complete and any necessary adjustments have been made, we will release our advanced Domain Threat Intelligence solution to the public. This solution will be built on the Proton blockchain and will provide a powerful tool for identifying and reporting potential malicious domains. |
 | 5 | Partnership and Marketing | Following the public release of our Domain Threat Intelligence system, we will seek out partnerships and focus on marketing efforts to bring more attention to our solution. Through strategic partnerships with relevant companies and organizations, we can broaden the scope and effectiveness of our solution, ultimately contributing to a safer and more secure experience for Web3 users. |
 
+### Project Cost Breakdown
+
+| ID | Percentage | Specification |
+| ----- | ----------- | ------------- |
+| 1 | 35% | The development of the entire application will account for 35% of the total grant, which is equivalent to $5,250 based on the current price of XPR. |
+| 2 | 40% | Our budget will cover the funding for two servers, while an additional two servers will be included in the cost, representing 40% of the grant. This amounts to $6,000 based on the current price of XPR. |
+| 3 | 10% | 10% of the grant will be allocated to cover the expenses of additional services required for the project, such as APIs, certificates, and domain. |
+| 4 | 15% | A portion of the grant, specifically 15% which equals $2,250 based on the current price of XPR, will be dedicated to funding marketing advertisements on platforms like Twitter, Facebook, and Google. |
+
 ### Future Plans
 
 Our aim is to enhance all of our services by staying updated at all times and adopting novel approaches to detect websites that may pose a risk.
