@@ -129,7 +129,6 @@ Forge strategic partnerships with leading blockchain projects, crypto exchanges,
 
 
 Note: The roadmap timeline and priorities is subject to adjustments based on market conditions, user feedback, and emerging trends in the crypto and the Web3 space.
-![image](https://github.com/snipcoins/grant-framework/assets/96706883/9210290d-680a-47a1-bafb-8b0a2ae66f45)
 
 
 ### Milestones
