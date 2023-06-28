@@ -162,7 +162,3 @@ Note: The roadmap timeline and priorities is subject to adjustments based on mar
 ### Future Plans
 
 > How do you intend to enhance, promote and support your project in the future?
-
-### Additional Information
-
-> Include work you have already done on Proton Blockchain, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
