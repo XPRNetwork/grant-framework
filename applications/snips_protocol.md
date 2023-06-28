@@ -78,7 +78,59 @@ Assisted by other developers within and outside of the Proton community on a con
 
 ### Roadmap
 
-> Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
+Snipverse 2023 - 2024 Development Roadmap: 
+
+Q1:
+
+1. User Interface Enhancements: Improve the user experience by revamping the platform's user interface, making it more intuitive, visually appealing, and responsive across different devices.
+
+2. Tipping System: Introduce a new tipping system that allows users to reward valuable content creators within the communities using their favorite cryptocurrencies, fostering a culture of appreciation and incentivizing quality contributions.
+
+Q2:
+
+1. Staking for Membership: Implement a staking mechanism where users can stake platform tokens to unlock premium membership features, providing additional benefits and privileges.
+
+2. DAO Dashboard: Launch a dashboard for advanced users to participate in the platform's decentralized autonomous organization (DAO), allowing them to vote on key decisions and shape the direction of the platform.
+
+
+Q3:
+
+1. NFT Integration for Profile Pics and Backgrounds: Integrate NFT functionality, enabling users to set NFTs as their profile pictures and backgrounds, allowing for enhanced personalization and self-expression.
+
+2. Advanced Analytics and Insights Tools: Implement comprehensive analytics and insights tools, enabling users to track their community engagement, token performance, and other relevant metrics.
+
+
+Q4:
+
+1. Crypto Portfolio Tracking and Watch List: Introduce portfolio tracking features that allow users to monitor their crypto holdings and create custom watchlists to stay informed about market trends and price movements.
+
+2. Collaboration Tools: Launch collaboration features, including shared workspaces, project management tools, and real-time collaboration functionalities, to foster teamwork and coordination among community members.
+
+
+Throughout the year:
+
+1. Snipverse Live Streaming: 
+Introduce live streaming capabilities for podcasts, AMAs and interviews, allowing community members to engage with industry experts, thought leaders, and project teams in real-time.
+
+2. Continuous Security Enhancements: 
+Regularly conduct security audits and implement necessary upgrades to ensure the platform remains secure and resilient against emerging threats.
+
+3. Continuous User Interface Enhancements:
+- Conduct user research and gather feedback to identify pain points and areas of improvement in the current user interface.
+
+- Prioritize user-requested features and improvements based on feedback and align them with the development roadmap.
+
+- Conduct thorough testing to identify and fix any existing bugs, glitches, or inconsistencies in the platform.
+
+- Regularly deploy updates and bug fixes to address user-reported issues and ensure a smooth user experience.
+
+4. Partnerships and Integrations: 
+Forge strategic partnerships with leading blockchain projects, crypto exchanges, and other relevant platforms to expand Snipverse.com's ecosystem and offer additional value to its users.
+
+
+Note: The roadmap timeline and priorities is subject to adjustments based on market conditions, user feedback, and emerging trends in the crypto and the Web3 space.
+![image](https://github.com/snipcoins/grant-framework/assets/96706883/9210290d-680a-47a1-bafb-8b0a2ae66f45)
+
 
 ### Milestones
 
