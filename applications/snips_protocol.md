@@ -162,3 +162,5 @@ Note: The roadmap timeline and priorities is subject to adjustments based on mar
 ### Future Plans
 
 > How do you intend to enhance, promote and support your project in the future?
+> 
+We are committed to continuous improvement, widespread adoption, and providing ongoing support to ensure the success and growth of Snipverse. Here are some strategies and initiatives we intend to undertake:
