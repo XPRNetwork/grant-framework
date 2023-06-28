@@ -164,3 +164,11 @@ Note: The roadmap timeline and priorities is subject to adjustments based on mar
 > How do you intend to enhance, promote and support your project in the future?
 > 
 We are committed to continuous improvement, widespread adoption, and providing ongoing support to ensure the success and growth of Snipverse. Here are some strategies and initiatives we intend to undertake:
+
+1. User Support and Education:
+We are committed to providing ongoing support to our users. We will establish a dedicated community support system to address user inquiries, troubleshoot issues, and provide guidance. Additionally, educational materials, tutorials, and documentation will be developed to empower users with the knowledge and skills needed to make the most
+of the platform.
+
+2. Marketing and Awareness Campaigns: To promote Snipverse.com and attract a wider audience, we plan to implement comprehensive marketing and awareness campaigns. 
+
+3. Developer Outreach and Collaboration: We recognizes the importance of engaging with developers within the Proton community and beyond. We will actively seek collaborations and partnerships with developers to enhance the platform's capabilities, expand its ecosystem, and encourage the development of third-party integrations and applications that complement Snipverse. Developer documentation, support resources, and incentives will be provided to facilitate these collaborations.
