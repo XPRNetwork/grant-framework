@@ -6,7 +6,7 @@
 - **Level:** Small Team
 - **Is Project Open-Source:** No
 - **Project has a token:** No
-- **Github Repo:** github.com/LiquidityApe/BandBindex
+- **Github Repo:** N/A
 
 ### Contact Information
 
@@ -16,11 +16,11 @@
 
 ### Project Details
 
-Abstract. Social insight can help ascertain future market conditions for crypto, making it possible to simplify trading and invest smarter. Social metrics provide part of the solution, but the main benefits are lost if the average crypto user is unable to distil these metrics into bitesize, digestible data.
+**Abstract.** Social insight can help ascertain future market conditions for crypto, making it possible to simplify trading and invest smarter. Social metrics provide part of the solution, but the main benefits are lost if the average crypto user is unable to distil these metrics into bitesize, digestible data.
 
 We propose a solution powered by AI-driven real-time data, backed by social insights and metrics to determine when to buy (opt-in) or sell (opt-out) in the crypto market with ease.
 
-[View Image](https://drive.google.com/file/d/1qTIhuYhc0iNv443ldTdW6Z7qksf-w1O0/view?usp=drive_link)
+[View Prototype](https://drive.google.com/file/d/1qTIhuYhc0iNv443ldTdW6Z7qksf-w1O0/view?usp=drive_link)
 
 #### Problem and Solution
 
@@ -77,9 +77,20 @@ The Proton Crypto Index unleashes the massive potential of AI-driven Social Insi
 ### Roadmap (1 - 4) 
 
 1. Platform Development and new UI design.
+
+| Proton Crypto Index 1.0 |
+
 2. Scale platform to support coins in the digital currency market.
+
+| Extended Features |
+
 3. Marketing campaign to attract new users to the Proton Ecosystem.
+
+| Marketing |
+
 4. Proton Crypto Index Prediction Game Launch.
+
+| Prediction Game Launch |
 
 ### Milestones
 
@@ -88,10 +99,11 @@ The Proton Crypto Index unleashes the massive potential of AI-driven Social Insi
 - **FTE:**  3
 - **Costs:** 10,000 USD
 
-The platform will be developed, and a new UI design will be launched for a better user experience.
+Proton Crypto Index 1.0 will be launched with, a new UI design for a better user experience.
 
-- New UI Design:** $8000
-- API Data Collection and Verification:** $2000
+**New UI Design:** $8000
+
+**API Data Collection and Verification:** $2000
 
 - **Milestone:** 2
 - **Estimated duration:** 1 month
@@ -100,6 +112,9 @@ The platform will be developed, and a new UI design will be launched for a bette
 
 Extra features will be added to the platform, to support coins in the digital currency market.
 
+**Listing of Coins and Indexing**
+**Partnerships**
+
 - **Milestone:** 3
 - **Estimated duration:** 1 month
 - **FTE:**  3
@@ -107,13 +122,15 @@ Extra features will be added to the platform, to support coins in the digital cu
 
 We will launch a marketing campaign to attract new users and other communities to the proton ecosystem.
 
-Platforms we intend to utilize: Zealy, Twitter, Telegram. 
+**Platforms we intend to utilize for the marketing campaign:** Zealy, Twitter, Telegram
 
 - **Milestone:** 4 (Major Milestone)
 - **Estimated duration:** 2 months
 - **FTE:**  3
 - **Costs:** 12,000 USD
 
-We intend to build and launch the Proton Crypto Index Prediction Game to crowd-source proton community intelligence and complement the Proton Crypto Index with community insight.
+We will launch Proton Crypto Index Prediction Game to crowd-source proton community intelligence and complement the Proton Crypto Index with community insight.
+
+**Proton Crypto Index Prediction Game will be launched**
 
 #### The total Grant Amount we are applying for is $25,000
