@@ -16,11 +16,11 @@
 
 ### Project Details
 
-Abstract. Social insight can help ascertain future market conditions for crypto, making it possible to simplify trading and invest smarter. Social metrics provide part of the solution, but the main benefits are lost if the average crypto user is unable to distil these metrics into bitesize, digestible data.
+**Abstract.** Social insight can help ascertain future market conditions for crypto, making it possible to simplify trading and invest smarter. Social metrics provide part of the solution, but the main benefits are lost if the average crypto user is unable to distil these metrics into bitesize, digestible data.
 
 We propose a solution powered by AI-driven real-time data, backed by social insights and metrics to determine when to buy (opt-in) or sell (opt-out) in the crypto market with ease.
 
-[View Image](https://drive.google.com/file/d/1qTIhuYhc0iNv443ldTdW6Z7qksf-w1O0/view?usp=drive_link)
+[View Prototype](https://drive.google.com/file/d/1qTIhuYhc0iNv443ldTdW6Z7qksf-w1O0/view?usp=drive_link)
 
 #### Problem and Solution
 
@@ -90,8 +90,8 @@ The Proton Crypto Index unleashes the massive potential of AI-driven Social Insi
 
 The platform will be developed, and a new UI design will be launched for a better user experience.
 
-- New UI Design:** $8000
-- API Data Collection and Verification:** $2000
+New UI Design: $8000
+API Data Collection and Verification: $2000
 
 - **Milestone:** 2
 - **Estimated duration:** 1 month
