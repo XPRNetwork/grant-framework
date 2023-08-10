@@ -18,8 +18,8 @@ Individuals and companies are allowed to apply for grants. The purpose of these 
 
 <table width="100%">
   <tr><th>&nbsp;</th><th>Individual</th><th>Small Team</th><th>Company</th></tr>
-  <tr><td><b>Amount</b></td><td align="center">Up to $5,000</td><td align="center">Up to $25,000</td><td align="center">Up to $100,000</td></tr>
-  <tr><td><b>Open Source</b></td><td align="center">Up to $10,000</td><td align="center">Up to $50,000</td><td align="center">Up to $200,000</td></tr>
+  <tr><td><b>Amount</b></td><td align="center">Up to $1,000</td><td align="center">Up to $5,000</td><td align="center">Up to $10,000</td></tr>
+  <tr><td><b>Open Source</b></td><td align="center">Up to $5,000</td><td align="center">Up to $25,000</td><td align="center">Up to $50,000</td></tr>
   <tr>
     <td valign="top"><b>Requirements</b></td>
     <td valign="top"><ul><li>Must have a Proton account</li><li>Proton account must have KYC verification</li><li>Must have proven experience</li></ul></td>
