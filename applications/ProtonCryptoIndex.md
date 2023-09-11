@@ -18,7 +18,7 @@
 
 The Bear and Bull Index provides a comprehensive solution to the challenges faced in the cryptocurrency market. Through LunarCrush’s AI-driven social insights, simplified analysis, and community engagement, it empowers investors to make informed decisions, navigate market volatility, and stay ahead in the ever-evolving world of cryptocurrencies.
 
-[View WhitePaper]([https://drive.google.com/file/d/1qTIhuYhc0iNv443ldTdW6Z7qksf-w1O0/view?usp=drive_link](https://bandbindex.gitbook.io/bandbindex-2.0-whitepaper/)https://bandbindex.gitbook.io/bandbindex-2.0-whitepaper/)
+[View WhitePaper](https://drive.google.com/file/d/1qTIhuYhc0iNv443ldTdW6Z7qksf-w1O0/view?usp=drive_link](https://bandbindex.gitbook.io/bandbindex-2.0-whitepaper/)https://bandbindex.gitbook.io/bandbindex-2.0-whitepaper/)
 
 ### Airdrop Proposal: Bear and Bull Index ($Index) Airdrop to XPR Holders
 
