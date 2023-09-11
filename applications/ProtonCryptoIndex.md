@@ -25,9 +25,9 @@ We are excited to announce an airdrop of 100,000 $Index tokens to the Proton ($X
 
 **Airdrop Details:**
 
-**Token Allocation:** 100,000 $Index tokens
-**Eligibility:** All Proton ($XPR) holders are eligible for this airdrop.
-**Airdrop Method:** Snapshot Airdrop
+- **Token Allocation:** 100,000 $Index tokens
+- **Eligibility:** All Proton ($XPR) holders are eligible for this airdrop.
+- **Airdrop Method:** Snapshot Airdrop
 
 **Objective:**
 
