@@ -2,7 +2,6 @@
 
 - **Project Name:** Bear and Bull Index (formerly Proton Crypto Index)
 - **Team Name:** Neroitech Inventions
-- **Payment Address:** liquidityape
 - **Level:** Small Team
 - **Is Project Open-Source:** Yes
 - **Project has a token:** Yes (Bear and Bull Index token, $Index)
