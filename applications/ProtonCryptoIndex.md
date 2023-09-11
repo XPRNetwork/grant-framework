@@ -1,4 +1,4 @@
-# Proton Crypto Index: AI-driven Social Insight of Bearish and Bullish Trends powered by [LunarCrush](https://lunarcrush.com/)
+# Bear and Bull Index: AI-driven Social Insight of Bearish and Bullish Trends powered by [LunarCrush](https://lunarcrush.com/)
 
 - **Project Name:** Bear and Bull Index (formerly Proton Crypto Index)
 - **Team Name:** Neroitech Inventions
