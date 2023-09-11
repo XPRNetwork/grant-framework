@@ -15,7 +15,7 @@
 
 ### Video Introduction
 
-Got 2 minutes? Check out a video introduction of the Bear and Bull Index for Crypto:
+Got 2 minutes? Check out a video introduction of the Bear and Bull Index for Crypto.
 
 [Watch Video](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Foa9jgybdEKsfdL8UhZNe%2Fuploads%2FDeapW9vpf5E5PDSavGDU%2FBear%20and%20Bull%20Index%20Launch%20Video.mp4?alt=media&token=fdb9dc13-b7dd-4a90-a19f-1350434c61e3)
 
