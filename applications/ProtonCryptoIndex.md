@@ -5,13 +5,19 @@
 - **Level:** Small Team
 - **Is Project Open-Source:** Yes
 - **Project has a token:** Yes (Bear and Bull Index token, $Index)
-- **Github Repo:** [Yes](https://github.com/LiquidityApe/BandBindex)
+- **Github Repo:** [Yes](https://github.com/LiquidityApe/BandBindex
 
 ### Contact Information
 
 - **Contact Name:** [LiquidityApe](https://twitter.com/LiquidityApe)
 - **Contact Email:** liquidityape@gmail.com
 - **Website:** http://bandbindex.com/
+
+### Video Introduction
+
+Got 2 minutes? Check out a video introduction of the Bear and Bull Index for Crypto:
+
+[Watch Video](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Foa9jgybdEKsfdL8UhZNe%2Fuploads%2FDeapW9vpf5E5PDSavGDU%2FBear%20and%20Bull%20Index%20Launch%20Video.mp4?alt=media&token=fdb9dc13-b7dd-4a90-a19f-1350434c61e3)
 
 ### Project Details
 
