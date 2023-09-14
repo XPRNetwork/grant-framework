@@ -51,7 +51,7 @@
 - **Milestone:** 1
 - **Estimated duration:** 1 month
 - **FTE:**  2
-- **Costs:** 8,000 USD
+- **Costs:** 2,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
