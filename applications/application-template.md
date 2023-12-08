@@ -1,73 +1,101 @@
 # XPR Network Grant Proposal
 
-> See the [Grant Framework Application Process](https://github.com/XPRNetwork/grant-framework#application-process) on how to submit a proposal.
->
-> Fill out the following information about your team and project
 
-- **Project Name:** Name of your project (e.g. Atomic Assets)
-- **Team Name:** Legal name of your team (e.g. PinkNetwork, Inc)
-- **Payment Address:** XPR Network account
-- **Level:** Individual, Small Team, Company
-- **Is Project Open-Source:** Yes/No
-- **Project has a token:** Yes/No
-- **Github Repo:** github.com/<your_org>/<project_repo>
+- **Project Name:** XPR Governance Tracker
+- **Team Name:** Build3rs Labs
+- **Payment Address:** build3rslabs
+- **Level:** Small Team
+- **Is Project Open-Source:** Yes
+- **Project has a token:** No
 
 ### Contact Information
 
-- **Contact Name:** Full name of contact person
-- **Contact Email:** example@example.com
-- **Website:** https://example.com
+- **Contact Name:** Zachari Mandin
+- **Contact Email:** zac@thebuild3rs.com
+- **Website:** (https://www.build3rslabs.com/)
 
 ### Project Details
 
-> Describe your project in detail, include any screenshots or designs. What problem does it solve? What is the current state of the project? 
+> Build3rs Labs presents the XPR Governance Tracker, an analytics system deployed on Twitter (@XPRGovernance) and Telegram. We are a team of developers who have noticed a recent decline in decentralized governance participation and we believe that the XPR Governance system that we are building can help to reverse this trend.
+ 
+The XPR Governance system is an analytics bot that can increase engagement and participation in the governance process. It tracks and summarizes governance proposals and discussions and displays this information on Twitter (@XPRGovernance), making it easy for community members to stay informed.
+ 
+The account also provides a platform for community members to share their thoughts and ideas, which can lead to more informed decisions that benefit all network users.
+
 
 ### Ecosystem Fit
 
-> 1. Where and how does your project fit into the XPR Network ecosystem?
-> 2. Who is your target audience?
-> 3. What needs does your project meet for the community and what sets it apart from other similar projects?
+> The XPR Governance Tracker aligns with the XPR Network ecosystem by providing transparency in governance processes. It supports the decentralized nature of XPR by helping community members with information and encouraging their active involvement in shaping the network's future. The target audience includes XPR community members, developers, technology enthusiasts, investors and the general public.
 
 ### Team
 
-> List the members of your team, including their roles and responsibilities. Include links to their LinkedIn profiles, Github repos, and any other relevant information.
+> Build3rs Labs help networks and protocols building meaningful web3 features by challenging the status quo. We are fine with doxxing on a call with the Team.
 
 ### Roadmap
 
-> Include a roadmap for your project and timeline. This section should be detailed (will vary on project scope).
+> Regular updates and maintenance routines will be scheduled to adapt the bot to changes in the governance system or Twitter APIs and to introduce new features based on ongoing user feedback.
+
+We plan to complete the project within five weeks. Our main deliverables are V1 of the bot on Telegram and V2 of the system on Twitter. During the development, the team and community will be invited to test and provide feedbacks of the analytics system to make changes and add more data if needed.
+
+> Features & Functionality:
+
+Proposal data: The bot will systematically track new proposals, encompassing details such as proposal title, description, creator address, submission timestamp and any associated metadata relevant to the proposal's nature or context.
+
+Proposal status: Regular tracking guarantees that the bot stays updated with proposals that are in progress, quickly adjusting to any modifications or updates in proposal specifics as they arise.
+
+Vote tracking: The proposed vote tracking system involves the bot posting updates when a delegate with over X votes casts a new vote on a proposal. This could be done by retweeting the original proposal tweet with the updated data to bring more visibility. The information displayed would ideally include the voting address and later, the Twitter handle. The system would also present the amount voted and the voting stance.
+
+Voting results: Once a proposal concludes, the bot will extract and disseminate a thorough report on the results, divulging the number of votes in favor, against and whether any quorum requirements were met.
+
+Activity alert : If there is a significant amount of activity on a proposal, the bot will post an alert on Twitter to inform users.
+
+Tweeting Mechanism:
+The bot's tweeting mechanism is engineered to distill complex governance data into succinct and informative tweets, providing the community with accessible summaries.
+
+Proposal tweets: For new proposals, the bot's tweets will be comprehensive, featuring the proposal title, detailed description, creator identity and a direct link to the governance page for a deeper exploration.
+
+Live voting updates: During the voting phase, the bot will issue timely tweets offering updates on voter turnout, any noteworthy developments and encouraging community members to participate actively.
+
+Outcome announcements: For concluded proposals, the bot's tweets will spotlight the final results, underlining whether the proposal passed or failed and elucidating any pertinent consequences or implementations.
+
 
 ### Milestones
 
-> Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the XPR Network ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
 
-> For each milestone make sure to include detailed specification of your software. Include the amount of funding requested per milestone, as well as the number of full-time employees working on each milestone. This information should be included in the milestone deliverables.
+> FTE: 5
 
-> FTE: Full-Time Equivalent (Number of people working on the project on a full-time basis)
+> Total Costs: 9500 USD
 
-> Total Costs: This should be the requested amount in USD for the whole project milestone. If the grant is paid out in XPR the amount will be calculated based on the XPR/USD exchange rate on the time of payment.
-
-### Milestone Example
 
 - **Milestone:** 1
 - **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 2,000 USD
+- **FTE:**  5
+- **Costs:** 4,750 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can use our dApp. |
-| 0c. | Article | We will publish an **article** that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to XPR Network | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | API interface to our app | We will create an API that ... |  
+| 0a. | License | MIT |
+| 0b. | Article | We will publish a Medium article that explains the data that we are tracking and why.
+| 0c. | Documentation | We will provide a documentation on the XPR governance system and how to participate.
+| 1. | V1 on Telegram | We will provide a first version of the System deployed on Telegram. The team and community will be invited to test and provide feedbacks of the analytics system to make changes and add more data if needed.
 
-> Add more milestones as needed.
+- **Milestone:** 2
+- **Estimated duration:** 1 month
+- **FTE:**  5
+- **Costs:** 4,750 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 0a. | License | MIT |
+| 0b. | Article | We will publish a Medium article introducing our official launch and how to use and helping users to understand the System.
+| 1. | Final Version on Twitter | We will provide a final version of the System with the changes asked by the team and community, on Twitter. 
+
 
 ### Future Plans
 
-> How do you intend to enhance, promote and support your project in the future?
+> Beyond the immediate project scope, the @XPRGovernance Twitter system is seeking long-term contribution by continuously evolving to meet the changing needs of the community, adapting to new governance structures within the XPR ecosystem and eploring additional features and integrations. We will provide data and analytics on the system's impact and governance changes.
+
 
 ### Additional Information
 
-> Include work you have already done on XPR Network, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
+> Together, we have been granted by Velas Blockchain and Redlight Chain to build name service providers on their network. We have been granted by Aptos and Aleph Zero to build games and we have also been granted by many protocols to build social-media alert bots.
