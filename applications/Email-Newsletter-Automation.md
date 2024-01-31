@@ -42,17 +42,17 @@ There are so many interrelated projects between the Metal Blockchain, XPR Networ
 
 ### Team
 
-####Caelan Huntress
+#### Caelan Huntress
 - Creative Director, Marketing Automation Strategist
 - LinkedIn: https://www.linkedin.com/in/caelanhuntress/ 
 - Twitter: https://twitter.com/caelanhuntress/
 - Website: https://caelanhuntress.com/
 
-####Kathleen Cortes-Mañus
+#### Kathleen Cortes-Mañus
 - Digital Marketing Project Manager
 - LinkedIn: https://www.linkedin.com/in/kathleen-cortes-ma%C3%B1us-17225b4a/
 
-####Kathleen Celmins
+#### Kathleen Celmins
 - Direct Response Copywriter
 - LinkedIn: https://www.linkedin.com/in/kathleencelmins
 
