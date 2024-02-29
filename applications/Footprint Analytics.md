@@ -6,7 +6,7 @@
 
 - **Project Name:** Footprint Analytics
 - **Team Name:** VANTASTONE TECHNOLOGY PTE. LTD.
-- **Payment Address:** XPR Network account
+- **Payment Address:** footprint1
 - **Level:** Company
 - **Is Project Open-Source:** Yes
 - **Project has a token:** No
