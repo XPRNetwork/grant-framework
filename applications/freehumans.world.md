@@ -140,7 +140,7 @@ These Web 2 platforms have become too cluttered and they lack mechanisms for gen
 ### Roadmap
 
 
-A considerable amount of effort was already invested, delivering the initial phase of the Front-end UI/UX
+A considerable amount of effort was already invested, delivering the initial phase of the Front-end UI/UX and the user management system Blockchain / ScyllaDB / FaceID enrollment.
 > - **DONE:** Front-end (UI/UX)
 > - **DONE:** Integration with XPR - Quantum Resistant Blockchain Account creation (using SSS - Shamir's Secret Sharing scheme)
 > - **DONE:** Registration and Authentication
