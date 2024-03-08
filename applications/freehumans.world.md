@@ -42,7 +42,7 @@
 >
 > Once I found the perfect blockchain solution (XPR), I still had one huge problem to solve. I knew there was no useful data or tools available to model and predict the evolution of tokenomics models. Over the years I learned that everyone had used what I now call "pizza tokenomics" - which means: "We have no idea what tokenomics is, we're still pioneering this stuff, but we saw other people do it like this and it worked, so copy-paste a pie chart from google images and LFG".
 > 
-> So after a lot of analysis, trial and error, I managed to create some fascinating life-like visuaisation tools to simulate the evolution of value distribution among different networks of users over time, from Web 2 to Web 3 models or systems with different tokenomics parameters: https://w3x.info/simulation.html (visit and click Web 3 button)
+> So after a lot of analysis, trial and error, I managed to create some fascinating life-like visuaisation tools to simulate the evolution of value distribution among different networks of users over time, from Web 2 to Web 3 models or systems with different tokenomics parameters: https://w3x.info/simulation.html (visit and click Web 3 button, then Simulate btn)
 > 
 **What is FreeHumans.World again?**
 > It's an open-source dApp, a gamified and decentralized social network that runs a tokenomics model similar to what a UBI (Universal Basic Income) system would be, but much more awesome than that.
