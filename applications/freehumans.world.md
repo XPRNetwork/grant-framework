@@ -22,7 +22,7 @@
 - **Lite paper:**  https://docs.gratitudetoken.world/freehumans.world (to be expanded - ongoing)
 - **Business Plan:** https://docs.google.com/document/d/1Tp6KzgWxRjBKnu59NG1gs4KAEjqCGZtT4VAY2MWLbMw/edit?usp=sharing
 
-<img src="https://freehumans.world/fhw.png" width="333" alt="Free Humans World"> <img src="https://freehumans.world/break-free.jpg" width="333" alt="Free Humans World"> <img src="https://freehumans.world/strangled.png" width="333" alt="Free Humans World">
+<img src="https://freehumans.world/fhw.png" width="333" alt="Free Humans World"> <img src="https://freehumans.world/break-free2.png" width="333" alt="Free Humans World"> <img src="https://freehumans.world/strangled2.png" width="333" alt="Free Humans World">
 
 
 > **FreeHumans.World** is an open source network created by the people for the people, with a sustainable tokenomics long term, based on multiple real utilities.
