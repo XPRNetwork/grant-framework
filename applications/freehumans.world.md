@@ -99,39 +99,38 @@ These Web 2 platforms have become too cluttered and they lack mechanisms for gen
 ### Team
 
 <table>
-<tr>
-<td>
-<img src="https://gratitudetoken.world/img/lucian.jpg" width="170" alt="Free Humans World - Lucian" align="left">
-<img src="https://i.stack.imgur.com/gVE0j.png" width="16" alt="LinkedIn" style="vertical-align: middle"> <a href="https://www.linkedin.com/in/apetreilucian" target="_blank"><b>LUCIAN APETREI | FOUNDER, MAIN ENGINEER</b></a>
-  
+<tr><td>
+<img src="https://gratitudetoken.world/img/lucian.jpg" width="111" alt="Free Humans World - Lucian" align="left">
+<be><img src="https://i.stack.imgur.com/gVE0j.png" width="16" alt="LinkedIn" style="vertical-align: middle"> <a href="https://www.linkedin.com/in/apetreilucian" target="_blank"><b>LUCIAN APETREI | FOUNDER, MAIN ENGINEER</b></a>
+
 > Driven by an insatiable curiosity and a deep passion for technology. From childhood, I dismantled toys, delving into their inner workings, sparking a desire to understand and fix things. Inspired by my artist father, I fused art and tech, exploring creative projects and engineering endeavors. As a culmination to 15 years of Full Stack web development, I founded GratitudeToken.world where I push boundaries, inspire others, and shape a brighter technological future.
 </td></tr>
 <tr><td>
-<img src="https://gratitudetoken.world/img/catalina.jpg" width="170" alt="Free Humans World - Catalina" align="left">
+<img src="https://gratitudetoken.world/img/catalina.jpg" width="111" alt="Free Humans World - Catalina" align="left">
 <img src="https://i.stack.imgur.com/gVE0j.png" width="16" alt="LinkedIn" style="vertical-align: middle"> <a href="https://www.linkedin.com/in/c%C4%83t%C4%83lina-ben%C8%9Ba-8617b1197/" target="_blank"><b>CATALINA BENTA | CO-FOUNDER, BUSINESS DEVELOPER​</b></a>
 
 > Excelling in business development, strategic partnerships, and organizing. With experience in project management, PR, and finance, I drive growth, foster effective communication, and deliver remarkable outcomes. Passionate about fueling business growth, I'm ready to contribute expertise and leadership to a forward-thinking organization.
 </td></tr>
 <tr><td>
-<img src="https://gratitudetoken.world/img/flaviu.jpg" width="170" alt="Free Humans World - Flaviu" align="left">
+<img src="https://gratitudetoken.world/img/flaviu.jpg" width="111" alt="Free Humans World - Flaviu" align="left">
 <img src="https://i.stack.imgur.com/gVE0j.png" width="16" alt="LinkedIn" style="vertical-align: middle"> <a href="https://www.linkedin.com/in/flaviubenta/" target="_blank"><b>FLAVIU CRISTIAN | SOCIAL MEDIA MANAGER, COMMUNITY MANAGER​​​​</b></a>
 
 > Passionate about blockchain, crypto, and Web3. Expertise in social media, content creation, customer service, sales, agile project development, data analytics, and logistics coordination. Skilled in engaging audiences, driving brand awareness, overseeing project lifecycles, and delivering exceptional customer service.
 </td></tr>
 <tr><td>
-<img src="https://gratitudetoken.world/img/michael.jpg" width="170" alt="Free Humans World - Michael" align="left">
+<img src="https://gratitudetoken.world/img/michael.jpg" width="111" alt="Free Humans World - Michael" align="left">
 <img src="https://i.stack.imgur.com/gVE0j.png" width="16" alt="LinkedIn" style="vertical-align: middle"> <a href="https://www.linkedin.com/in/michael-boevink-232210" target="_blank"><b>MICHAEL BOEVINK | BUSINESS ADVISOR, STRATEGIST​</b></a>
 
 > Michael Boevink: Seasoned professional with 15+ years in media, telecom, and banking. Specializes in innovative marketing, business development, and scaling organizations for growth. Helps fintech companies become market leaders. Passionate about client success and has a proven track record of achieving remarkable results.
 </td></tr>
 <tr><td>
-<img src="https://gratitudetoken.world/img/cade.jpg" width="170" alt="Free Humans World - Cade" align="left">
+<img src="https://gratitudetoken.world/img/cade.jpg" width="111" alt="Free Humans World - Cade" align="left">
 <img src="https://i.stack.imgur.com/gVE0j.png" width="16" alt="LinkedIn" style="vertical-align: middle"> <a href="https://www.linkedin.com/in/cade-robinson-156b26235" target="_blank"><b>CADE ROBINSON | FULL-STACK DEVELOPER</b></a>
 
 > Experienced full-stack software engineer specializing in developing dynamic web applications. Skilled in utilizing various technologies to build feature-rich solutions. Committed to delivering high-performance and scalable software. Passionate about staying updated with the latest industry trends and best practices.
 </td></tr>
 <tr><td>
-<img src="https://gratitudetoken.world/img/mert.jpg" width="170" alt="Free Humans World - Mert" align="left">
+<img src="https://gratitudetoken.world/img/mert.jpg" width="111" alt="Free Humans World - Mert" align="left">
 <img src="https://i.stack.imgur.com/gVE0j.png" width="16" alt="LinkedIn" style="vertical-align: middle"> <a href="https://www.linkedin.com/in/mehmet-mert-gunduz-base64/" target="_blank"><b>MERT GUNDUZ | SOFTWARE ENGINEER, WHITE HACKER</b></a>
 
 > Experienced C/C++ Developer specializing in embedded engineering and Linux. Skilled in application development and known as a white hacker and security expert. Passionate about opera, classical music, hiking, and traveling. Thrives in challenging situations with high motivation.
@@ -142,75 +141,128 @@ These Web 2 platforms have become too cluttered and they lack mechanisms for gen
 
 
 A considerable amount of effort was already invested, delivering the initial phase of the Front-end UI/UX
-- **DONE:** Front-end (UI/UX)
-- **DONE:** Integration with XPR - Quantum Resistant Blockchain Account creation (using SSS - Shamir's Secret Sharing scheme)
-- **DONE:** Registration and Authentication
-- **DONE:** FaceID enrollment and authentication for testnet MVP.
+> - **DONE:** Front-end (UI/UX)
+> - **DONE:** Integration with XPR - Quantum Resistant Blockchain Account creation (using SSS - Shamir's Secret Sharing scheme)
+> - **DONE:** Registration and Authentication
+> - **DONE:** FaceID enrollment and authentication for testnet MVP.
 
-### Milestones
+### Milestones:
 
 TO DO (mostly backend work):
 
-- UI/UX personalization architecture through using NFTs owned by the user
-- Inventory system for NFTs
-- Tiered NFT creation system of different qualities: $${\color{#9D9D9D}Poor \space\space\space \color{white}Common \space\space\space \color{green}Uncommon \space\space\space \color{#0070DD}Rare \space\space\space \color{#A335EE}Epic \space\space\space \color{#FF8000}Legendary \space\space\space \color{#E6CC80}Artifact \space\space\space \color{#db463e}{Heirloom}}$$
-- Loot system for NFT items
-- Geographic NFTs (NFTs available only in certain countries or within a certain distance from the created place)
-- NFT authenticity guardian system
-- Leveling system with experience points and real benefits for reaching each higher level, enabling the use of higher quality NFTs.
-- Achievements System
-- User titles system
-- Tiered NFT marketplace system priced in GRAT and XPR
-- Regular marketplace (ebay like) priced in GRAT and XPR
-- Sound system improvement
-- Advanced Timeline Scroll (smooth like Google Photos)
-- Notifications (that help inform you, not designed to keep you glued to the smartphone like Facebook)
-- Bank system
-- Auto-Reshare
-- Better commenting system than the mess that Web 2 is now.
-- Banning, Penalty and Prison system for users
-- Dynamic and Real-time user Curation and Reporting system that affect visibility and distribution of posts in real time
-- UI/UX personalization architecture
-- Queue system for Share2Earn and Like2Give
-- ShareBoard
-- Using AI to help users with any action
-- Leveraging Collective user device/machine resources for decentralized content distribution using WebRTC like technology.
+> 1. UI/UX personalization architecture through using NFTs owned by the user
+> 2. Posting system for: **Images | Videos | Sounds | Text**
+> 3. NFT item posting/creation system with tiered NFT item qualities: $${\color{#9D9D9D}Poor \space\space\space \color{white}Common \space\space\space \color{green}Uncommon \space\space\space \color{#0070DD}Rare \space\space\space \color{#A335EE}Epic \space\space\space \color{#FF8000}Legendary \space\space\space \color{#E6CC80}Artifact \space\space\space \color{#db463e}{Heirloom}}$$
+> 4. Inventory system for NFT items
+> 5. Loot system for NFT items
+> 6. Geographic NFTs (NFTs available only in certain countries or within a certain distance from the created place)
+> 7. NFT authenticity guardian system
+> 8. Leveling system with experience points and real benefits, higher levels enabling the use of new abilities and higher quality NFTs.
+> 9. Achievements System
+> 10. User titles system
+> 11. NFT marketplace system priced in GRAT and XPR
+> 12. Regular marketplace (ebay like) priced in GRAT and XPR
+> 13. Sound system improvement
+> 14. Advanced Timeline Scroll (smooth like Google Photos)
+> 15. Notifications (that help inform you, not designed to keep you glued to the smartphone like Facebook)
+> 16. Bank system
+> 17. Auto-Reshare and Queue system for Share2Earn and Like2Give
+> 18. Better commenting system than the mess that Web 2 is now.
+> 19. Banning, Penalty and Prison system for users
+> 20. Dynamic and Real-time user Curation and Reporting system that affect visibility and distribution of posts in real time
+> 21. UI/UX personalization architecture
+> 22. Using AI to help users with any action
+> 23. Leveraging Collective user device/machine resources for decentralized content distribution using WebRTC like technology.
+> 24. Create and optimize iOS and Android apps for multiple mobile device types
 
 
+### **Total Cost:** 50,000 USD
 
+### DEVELOPMENT MILESTONES:
 
-> Below is an **example roadmap**. In the descriptions, it should be clear how your project is related to the XPR Network ecosystem. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
-
-> For each milestone make sure to include detailed specification of your software. Include the amount of funding requested per milestone, as well as the number of full-time employees working on each milestone. This information should be included in the milestone deliverables.
-
-> FTE: Full-Time Equivalent (Number of people working on the project on a full-time basis)
-
-> Total Costs: This should be the requested amount in USD for the whole project milestone. If the grant is paid out in XPR the amount will be calculated based on the XPR/USD exchange rate on the time of payment.
-
-### Milestone Example
-
-- **Milestone:** 1
+- **Milestones:** 1 & 2
 - **Estimated duration:** 1 month
 - **FTE:**  2
 - **Costs:** 2,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
-| 0a. | License | MIT / Apache 2.0 / GPLv3 / Unlicense |
-| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can use our dApp. |
-| 0c. | Article | We will publish an **article** that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Application interface to XPR Network | We will create an integration layer ... (Please list the functionality that will be implemented for the first milestone) |  
-| 2. | Front-End / User Interface | We will create a UI that connects to ... |  
-| 3. | API interface to our app | We will create an API that ... |  
+| 0a. | License | GPLv3 |
+| 0b. | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how to use these features. |
+| 1. | Article | We will publish an **article** that explains what was done/achieved in the context of the XPR grant program. |
+| 2. | Video | The front-end will be demoed as part of the video to show the features of these milestones working. |
 
-> Add more milestones as needed.
+...
+
+**There are 24 milestones total**
+
+> To make things simpler, we are distributing 2000 USD evenly for every 2 milestones picked from the backlog to average out a budget over a period of 12 months.
+If more developers will contribute to the code the delivery time will decrease dramatically, but the cost will not.
+
+12 months with 2 milestones each * 2000 totals: **24,000 USD**
+
+### MARKETING MILESTONES:
+
+- **Milestone:** 1
+- **Estimated duration:** 1 month
+- **FTE:**  2
+- **Costs:** 6,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 1b. | Power of 100 | We are starting the invite only onboarding with the first 100 early adopters through our: Power of 100 - Exponential marketing strategy |
+| 1. | Monitoring | Anyone will be able to monitor the progress on the FreeHumans.world homepage |
+| 2. | Videos | We will make professional studio quality animated videos to use in our marketing campaigns |
+
+
+- **Milestone:** 2
+- **Estimated duration:** 1 month
+- **FTE:**  2
+- **Costs:** 10,000 USD
+
+| ID | Deliverable | Specification |
+| ----- | ----------- | ------------- |
+| 1b. | Cryptovirally.com | We are going to work with a top agency to publish press releases and articles on all top blockchain and crypto publications |
+| 1. | Results | The company promises up to 500M unique visitors and then constant traffic from the permanent backlinks |
+| 2. | Content | We will use the created professional animated videos and write articles for this campaign to attract users to our site |
+
+
+### **5,000 USD worth of XPR we are saving for XPR smart contract operations.**
 
 ### Future Plans
 
-> How do you intend to enhance, promote and support your project in the future?
-> business plan copy paste?
+How do you intend to enhance, promote and support your project in the future?
+
+> We will always strive to decentralize and optimize the dApp as much as possible. The goal is to deliver a 100% decentralized application that offers it's service autonomously without depending on cloud services, each user hosting a piece of the network on the client side through technologies like libp2p.io that uses WebRTC and Web Containers.
+> Email and/or SMS marketing
+> Radio
+> Television
+> Event and team sponsorships
+> Influencers on Web 2 platforms links to their content on our dApp
+> Publishing of news and articles on dozens of top blockchain and crypto publications creating essential backlinks
+
 
 ### Additional Information
 
-> Include work you have already done on XPR Network, are there any other teams or people that have contributed to your project financially, any previous grants you have applied for.
-> - hassle, shield, rugpull.today (meme coin) and a dozen or so of tokens and dApps that I have created for different clients.
+Some other MVPs and projects that we worked on:
+
+> [SHIELD](https://gratitudetoken.world/shield) (DAO voting tool for any community)
+> 
+> [hassle.app](https://hassle.app?user=lucianape3) (Web 3 crowdfunded shopping list manager)
+> 
+> [Rug Pull](https://rugpull.today) (meme coin project)
+> 
+> Created over a dozen tokens and dApps for different clients.
+
+
+### Our Mission
+
+> In essence, we are not just creating a platform; we are fostering a movement towards freedom and equitable wealth distribution.
+> 
+As the [Gratitude Token World](https://gratitudetoken.world) team, we are relentlessly aiming to accelerate the advent of true Web 3 dApps with real utility.
+> 
+> This is our mission, our passion, and our commitment, with or without external support. We invite you to be part of this transformative journey.
+>
+> **Join us! We can't do this alone.**
+
+> *P.S. Today it's my birthday and I am staying at home instead of going out with my friends. I have nothing to celebrate until this project is launched and available for all humans everywhere.*
