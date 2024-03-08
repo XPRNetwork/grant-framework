@@ -260,12 +260,10 @@ Some other MVPs and projects that we worked on:
 
 ### Our Mission
 
-> In essence, we are not just creating a platform; we are fostering a movement towards freedom and equitable wealth and knowledge distribution.
-> 
-The [Gratitude Token World](https://gratitudetoken.world) team is relentlessly aiming to accelerate the advent of true Web 3 dApps with real utility and we have chosen the XPR network and community to be our foundation and our ally.
+> In essence, we are not just creating a platform; we are fostering a movement towards freedom and equitable wealth and knowledge distribution. The [Gratitude Token World](https://gratitudetoken.world) team is relentlessly aiming to accelerate the advent of true Web 3 dApps with real utility and we have chosen the XPR network and community to be our foundation and our ally.
 > 
 > This is our mission, our passion, and our commitment, with or without external support. We invite you to be part of this transformative journey.
 >
-> **Join us! We can go further than any one individual can imagine, together.**
+> **Join us! We need the XPR team to collaborate with us on this gamified adventure. Web 2 is boring and deprecated, let's be the first to make it better. Together, we can go further than any one individual can imagine.**
 
 > *P.S. Today it's my birthday and I am staying at home instead of going out with my friends. I have nothing to celebrate until this project is launched and available for all humans everywhere.*
