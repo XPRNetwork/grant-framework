@@ -233,7 +233,7 @@ If more developers will contribute to the code the delivery time will decrease d
 
 How do you intend to enhance, promote and support your project in the future?
 
-> We will always strive to decentralize and optimize the dApp as much as possible. The goal is to deliver a 100% decentralized application that offers it's service autonomously without depending on cloud services, each user hosting a piece of the network on the client side through technologies like libp2p.io that uses WebRTC and Web Containers.
+> We will always strive to decentralize and optimize the dApp as much as possible. The goal is to deliver a 100% decentralized application that offers it's service autonomously without depending on cloud services, each user hosting a piece of the network on the client side through technologies like libp2p.io that uses WebRTC or through technology like Web Containers.
 > Email and/or SMS marketing
 > Radio
 > Television
