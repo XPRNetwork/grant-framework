@@ -234,30 +234,32 @@ If more developers will contribute to the code the delivery time will decrease d
 How do you intend to enhance, promote and support your project in the future?
 
 > We will always strive to decentralize and optimize the dApp as much as possible. The goal is to deliver a 100% decentralized application that offers it's service autonomously without depending on cloud services, each user hosting a piece of the network on the client side through technologies like libp2p.io that uses WebRTC or through technology like Web Containers.
-> Email and/or SMS marketing
-> Radio
-> Television
-> Event and team sponsorships
-> Influencers on Web 2 platforms links to their content on our dApp
-> Publishing of news and articles on dozens of top blockchain and crypto publications creating essential backlinks
+>
+> **We will create additional awareness campaigns through channels like:**
+> - Email and/or SMS marketing
+> - Radio
+> - Television
+> - Event and team sponsorships
+> - Influencers on Web 2 platforms links to their content on our dApp
+> - Publishing of news and articles on dozens of top blockchain and crypto publications creating essential backlinks
 
 
 ### Additional Information
 
 Some other MVPs and projects that we worked on:
 
-> [SHIELD](https://gratitudetoken.world/shield) (DAO voting tool for any community)
+> [Rug Pull](https://rugpull.today) (meme coin project)
 > 
 > [hassle.app](https://hassle.app?user=lucianape3) (Web 3 crowdfunded shopping list manager)
-> 
-> [Rug Pull](https://rugpull.today) (meme coin project)
+>
+> [SHIELD](https://gratitudetoken.world/shield) (DAO voting tool for any community)
 > 
 > Created over a dozen tokens and dApps for different clients.
 
 
 ### Our Mission
 
-> In essence, we are not just creating a platform; we are fostering a movement towards freedom and equitable wealth distribution.
+> In essence, we are not just creating a platform; we are fostering a movement towards freedom and equitable wealth and knowledge distribution.
 > 
 As the [Gratitude Token World](https://gratitudetoken.world) team, we are relentlessly aiming to accelerate the advent of true Web 3 dApps with real utility.
 > 
