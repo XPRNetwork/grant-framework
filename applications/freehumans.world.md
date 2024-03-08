@@ -266,6 +266,6 @@ The [Gratitude Token World](https://gratitudetoken.world) team is relentlessly a
 > 
 > This is our mission, our passion, and our commitment, with or without external support. We invite you to be part of this transformative journey.
 >
-> **Join us! We can't do this alone.**
+> **Join us! We can go further than any one individual can imagine, together.**
 
 > *P.S. Today it's my birthday and I am staying at home instead of going out with my friends. I have nothing to celebrate until this project is launched and available for all humans everywhere.*
