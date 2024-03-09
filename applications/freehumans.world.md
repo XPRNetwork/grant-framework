@@ -97,7 +97,7 @@
 > - *Quantum Resistant Security*
 > - *Community Governance*
 > - *Quality Organic Engagement*
-> - *Gamified experience with rewards that give real benefits*
+> - *Gamified experience with multiple reward types that give real benefits like new abilities, achievements, titles, NFT items with real benefits or decorative NFT items*
 
 ### Team
 
