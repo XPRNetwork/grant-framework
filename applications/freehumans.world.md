@@ -144,7 +144,7 @@ TODO (mostly backend work):
 
 > 1. UI/UX personalization architecture through using NFTs owned by the user
 > 2. Posting system for: **Images | Videos | Sounds | Text**
-> 3. NFT item posting/creation system with tiered NFT item qualities: $${\color{#9D9D9D}Poor \space\space\space \color{white}Common \space\space\space \color{green}Uncommon \space\space\space \color{#0070DD}Rare \space\space\space \color{#A335EE}Epic \space\space\space \color{#FF8000}Legendary \space\space\space \color{#E6CC80}Artifact \space\space\space \color{#db463e}{Heirloom}}$$
+> 3. NFT item posting/creation system with 8 tiered NFT quality: $${\color{#9D9D9D}Poor \space\space\space \color{white}Common \space\space\space \color{green}Uncommon \space\space\space \color{#0070DD}Rare \space\space\space \color{#A335EE}Epic \space\space\space \color{#FF8000}Legendary \space\space\space \color{#E6CC80}Artifact \space\space\space \color{#db463e}{Heirloom}}$$
 > 4. Inventory system for NFT items
 > 5. Loot system for NFT items
 > 6. Geographic NFTs (NFTs available only in certain countries or within a certain distance from the created place)
@@ -162,9 +162,9 @@ TODO (mostly backend work):
 > 18. Better commenting system than the mess that Web 2 is now.
 > 19. Banning, Penalty and Prison system for users (again managed democratically by the users)
 > 20. Dynamic and Real-time content Curation and Reporting system that affects visibility and distribution of posts in real-time
-> 21. UI/UX personalization architecture
-> 22. Using AI to help users with any action
-> 23. Leveraging Collective user device/machine resources for decentralized content distribution using WebRTC-like technology.
+> 21. Auction House system in the markets
+> 22. Using AI to help users with different actions
+> 23. Leveraging Collective client device/machine resources for decentralized content / user data distribution using WebRTC-like technology.
 > 24. Create and optimize iOS and Android apps for multiple mobile device types
 
 
