@@ -98,6 +98,8 @@
 > - *Community Governance*
 > - *Quality Organic Engagement*
 > - *Gamified experience with multiple reward types that give real benefits like new abilities, achievements, titles, NFT items with real benefits or decorative NFT items*
+> - *All NFT items are created by users as easy as posting an image*
+> - *Markets for NFT items and regular items (eBay like but priced in GRAT and XPR)*
 
 ### Team
 
