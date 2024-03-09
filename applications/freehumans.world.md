@@ -161,7 +161,7 @@ TODO (mostly backend work):
 > 17. Auto-Reshare and Queue system for Share2Earn and Like2Give
 > 18. Better commenting system than the mess that Web 2 is now.
 > 19. Banning, Penalty and Prison system for users (again managed democratically by the users)
-> 20. Dynamic and Real-time user Curation and Reporting system that affects visibility and distribution of posts in real-time
+> 20. Dynamic and Real-time content Curation and Reporting system that affects visibility and distribution of posts in real-time
 > 21. UI/UX personalization architecture
 > 22. Using AI to help users with any action
 > 23. Leveraging Collective user device/machine resources for decentralized content distribution using WebRTC-like technology.
