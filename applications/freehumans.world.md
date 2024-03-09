@@ -160,7 +160,7 @@ TODO (mostly backend work):
 > 16. Bank system
 > 17. Auto-Reshare and Queue system for Share2Earn and Like2Give
 > 18. Better commenting system than the mess that Web 2 is now.
-> 19. Banning, Penalty and Prison system for users
+> 19. Banning, Penalty and Prison system for users (again managed democratically by the users)
 > 20. Dynamic and Real-time user Curation and Reporting system that affects visibility and distribution of posts in real-time
 > 21. UI/UX personalization architecture
 > 22. Using AI to help users with any action
