@@ -92,8 +92,8 @@
 > - *Autonomy*
 > - *Individual and Collective Ownership*
 > - *Free active shares in the project through receiving GRAT tokens on signup or through multiple gamified mechanisms later*
-> - *Trade tokens for Exposure or viceversa (Share2Earn algo)*
-> - *Free Instant Crowd-funding for posts (Like2Give algo)*
+> - *Trade tokens for Exposure or viceversa (Share2Earn algo means you instantly earn tokens from sharing the boosted posts of others; no other social app does it like this)*
+> - *Free Instant Crowd-funding for posts (Like2Give algo means you instantly earn tokens when anyone likes your content, Likes are not just for vanity)*
 > - *Quantum Resistant Security*
 > - *Community Governance*
 > - *Quality Organic Engagement*
