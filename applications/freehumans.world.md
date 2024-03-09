@@ -63,7 +63,7 @@
 **The Solution:**
 > FreeHumans.World introduces an alternative, a new Web 3 social network (dApp) that integrates gamification, blockchain, and AI technologies to redefine digital socio-cultural ecosystems and exposure markets (NFTs with real utility and regular markets similar to ebay.com - priced in XPR coin and GRAT token).
 >
-> Up to 99% of the GRAT token will be distributed for free to 1-3 billion users on signup. The dApp aims to democratize digital engagement and ownership through decentralized governance and non-discriminating instant participatory economics.
+> Up to 99% of the GRAT token will be distributed for free to users on signup. The dApp aims to democratize digital engagement and ownership through decentralized governance and non-discriminating instant participatory economics.
 >
 > The platform employs new algorithms backed by Gratitude Tokens ($GRAT) to innovate economic exchange, enabling users to earn through various forms of digital engagement and to use tokes for more exposure to the network. It emphasizes authenticity and security with Quantum Resistant Encryption (SSS) and a unique, invite-only membership model. This approach seeks to shift from centralized control to a decentralized, equitable, and participatory model, fostering a digital environment where community, creativity, and democratic values thrive.
 
@@ -72,15 +72,17 @@
 ### Ecosystem Fit
 
 1. Where and how does your project fit into the XPR Network ecosystem?
-> **FreeHumans.World** aims to increase the number of accounts on XPR network by up to 3 billion eventually and since it will accept XPR alongside the GRAT token in its markets it will be hard to calculate the huge impact that it will potentially have on the blockchain adoption, XPR price and awareness of the XPR network. One thing is for certain, it will not be a small impact.
+> **FreeHumans.World** aims to increase the number of accounts on XPR network dramatically. The market size for our target audience is around 3 billion people. We will accept XPR as the only other currency alongside the GRAT token in the 2 markets of the dApp. It is hard to calculate the huge impact that it will potentially have on the blockchain adoption, XPR price and awareness of the XPR network. One thing is for certain, it will not be a small impact.
 
 3. Who is your target audience?
 > Our main audience in the first phase of marketing and adoption is Generation Z and younger (people up to 26 years old), but also Millenials and others. They total about 3 billion real human beings that can potentially be empowered by becoming a FreeHumans.world user (that's also the same number of gamers in the world). The scalability for this project is huge and our marketing strategy ensures we will get a lot of users fast. This is because each new user must recruit 2 other unique humans in order to get the reward and you cannot trick the system with fake accounts. Read the Business Plan linked at the top for more details about our "Power of 100 - exponential marketing strategy" and how we are using advanced face identification technology to prevent bots or fake accounts.
 > 
 3. What needs does your project meet for the community and what sets it apart from other similar projects?
+> First, there is no other project that is like this in the XPR community. There are some basic similarities with snipverse in the social app category, but our decentralized user-driven and user-centric features and business models are very different.
+>
 > We will not sabotage the project by selling most of the supply to investors like most “pizza tokenomics” projects did.
 >
-> Up to 99% of the total supply will be distributed to hopefully 3 Billion users or more, starting with our exponential marketing strategy that you can read in our Web 3 business plan linked at the top.
+> Up to 99% of the total supply will be distributed exponentially to 1.67 Billion users initially, hopefully we can double this over the years. It starts with 100K GRAT tokens distributed to 100 very serious and involved early adopters (the first 100 users). The reward halves for the next wave of users just like in mining. The condition for these users to get the reward is to recruit 2 new others users each and you cannot trick the system with multiple accounts. Our exponential marketing strategy theoretically can multiply this to 1.67 Billion users in 24 days, each new wave of invites will be doubling the number of users the next day (next wave). Read about "The power of 100 - Exponential marketing strategy" in our Web 3 business plan linked at the top.
 > 
 > We are not asking for money from investors first and promising to deliver utility and services later, we believe in value first, monetization later.
 >
