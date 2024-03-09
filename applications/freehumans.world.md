@@ -89,17 +89,17 @@
 > So the listing of our GRAT token will only happen once we have enough users to sustain a balanced demand and supply on the exchanges and the users will be the ones to sell, but also the ones to buy it back as they will continuously need it to participate in all the utilities the dApp will provide for users, all paid with GRAT token, while the Markets will also accept XPR coin.
 > 
 > The main value propositions are:
-> - *Autonomy*
-> - *Individual and Collective Ownership*
-> - *Free active shares in the project through receiving GRAT tokens on signup or through multiple gamified mechanisms later*
-> - *Trade tokens for Exposure or viceversa (Share2Earn algo means you instantly earn tokens from sharing the boosted posts of others; no other social app does it like this)*
-> - *Free Instant Crowd-funding for posts (Like2Give algo means you instantly earn tokens when anyone likes your content, Likes are not just for vanity)*
-> - *Quantum Resistant Security*
-> - *Community Governance*
-> - *Quality Organic Engagement*
-> - *Gamified experience with multiple reward types that give real benefits like new abilities, achievements, titles, NFT items with real benefits or decorative NFT items*
-> - *All NFT items are created by users as easy as posting an image*
-> - *Markets for NFT items and regular items (eBay like but priced in GRAT and XPR)*
+> - **Autonomy** *(we do not control or regulate any important aspect for access to content, content visibility or recommendation, the users do, live up-voting or down-voting in a democratic manner)*
+> - **Individual and Collective Ownership** *(individual rights to the content created by each user with the option to make the IP available to everyone in the spirit of open-source)*
+> - **Free active shares** *in the project through receiving GRAT tokens on signup or through multiple gamified mechanisms later*
+> - **Trade tokens for Exposure or vice versa** *(Share2Earn algo means you instantly earn tokens from sharing the boosted posts of others; no other social app does it like this)*
+> - **Free Instant Crowd-funding** *for posts (Like2Give algo means you instantly earn tokens when anyone likes your content, Likes are not just for vanity)*
+> - **Quantum Resistant Security** *(through SSS - Shamir Secret Sharing scheme)*
+> - **Community Governance** *(the community has a say in the direction of the dApp, unlike Facebook or others where the "Community Guidelines" are a lie)*
+> - **Quality Organic Engagement** *(since all users are real and unique human beings)*
+> - **Gamified experience** *with multiple reward types that give real benefits like new abilities, achievements, titles, NFT items with real benefits or decorative NFT items*
+> - **User created NFT items** *- Any user can create NFT items as easy as posting an image*
+> - **Markets** *for NFT items and regular items (eBay like but priced in GRAT and XPR)*
 
 ### Team
 
