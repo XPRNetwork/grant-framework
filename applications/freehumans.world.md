@@ -79,7 +79,7 @@
 > - **Autonomy** *(we do not control or regulate any important aspect for access to content, content visibility or recommendation, the users do, live up-voting or down-voting in a democratic manner)*
 > - **Individual and Collective Ownership** *(individual rights to the content created by each user with the option to make the IP available to everyone in the spirit of open-source)*
 > - **Free active shares** *in the project through receiving GRAT tokens on signup or through multiple gamified mechanisms later*
-> - **Trade GRAT tokens for Exposure or vice versa** *(Share2Earn algo enables organic post boosting; people earn tokens by distributing your boosted post to their connections, no other social app does Sharing like this)*
+> - **Trade GRAT tokens for Exposure or vice versa** *(Share2Earn algo enables organic post boosting; people earn a dynamic and fair amount of those tokens by distributing your boosted post to their connections, no other social app does Sharing like this)*
 > - **Free Instant Crowd-funding** *for posts (Like2Give algo means you instantly earn tokens when anyone likes your content, Likes are not just for vanity)*
 > - **Quantum Resistant Security** *(through SSS - Shamir Secret Sharing scheme)*
 > - **Community Governance** *(the community has a say in the direction of the dApp, unlike Facebook or others where the "Community Guidelines" are a lie)*
