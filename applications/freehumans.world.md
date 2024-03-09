@@ -92,7 +92,7 @@
 > - *Autonomy*
 > - *Individual and Collective Ownership*
 > - *Free active shares in the project through receiving GRAT tokens on signup or through multiple gamified mechanisms later*
-> - *Exposure vs Value trading for posts (Share2Earn algo)*
+> - *Trade tokens for Exposure or viceversa (Share2Earn algo)*
 > - *Free Instant Crowd-funding for posts (Like2Give algo)*
 > - *Quantum Resistant Security*
 > - *Community Governance*
