@@ -47,7 +47,7 @@
 > The current social platforms (Web 2 "social" media) operate within centralized, hierarchical models that concentrate power and wealth, limiting democratic participation and equitable wealth distribution among users.
 > In other words, they are exploiting us, censoring us, keeping us in echo chambers, and controlling the narrative while shoving ads that we don't care about in our face. The Netflix documentary "The Social Dilemma" is a must-watch on this topic.
 > 
-> Gen Z and younger are not creating Facebook and other Web 2 accounts anymore. Unfortunately this produces socio-economic effects in the global economy akin to a cardiac arrest in a sanguine system and there is no viable alternative or safety-net.
+> Gen Z and younger are not creating Facebook and other Web 2 accounts anymore. Unfortunately, because the world economy relies on their advertising service, this produces socio-economic effects in the global economy akin to a cardiac arrest in a sanguine system and there is no viable alternative or safety-net.
 > 
 > These Web 2 platforms have become too cluttered and they lack mechanisms for genuine user engagement, ownership, and value creation, leading to a digital ecosystem dominated by a few entities and algorithms, where user contributions are undervalued and users are treated as products for an end result (conversion) that today has become very expensive due to saturation (according to the Metcalfe’s law problem). In other words, with the exception of TikTok, almost all Web 2 platforms have a very poor conversion rate (offering very expensive exposure to users through traditional saturated web 2 advertising systems).
 > 
