@@ -204,7 +204,7 @@ If more developers will contribute to the code the delivery time will decrease d
 | ----- | ----------- | ------------- |
 | 1b. | Power of 100 | We are starting the invite-only onboarding with the first 100 early adopters through our: Power of 100 - Exponential marketing strategy |
 | 1. | Monitoring | Anyone will be able to monitor the progress on the FreeHumans.world homepage |
-| 2. | Videos | We will make professional studio-quality animated videos to use in our marketing campaigns |
+| 2. | Videos | We will work with a professional animation studio to create animated videos to use in our marketing campaigns |
 
 
 - **Milestone:** 2
