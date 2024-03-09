@@ -219,7 +219,7 @@ If more developers will contribute to the code the delivery time will decrease d
 | 2. | Content | We will use the created professional animated videos and write articles for this campaign to attract users to our site |
 
 
-### **5,000 USD worth of XPR we are saving for XPR smart contract operations.**
+### **10,000 USD worth of XPR we are saving for XPR smart contract operations.**
 
 ### Future Plans
 
