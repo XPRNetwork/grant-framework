@@ -32,7 +32,7 @@
 > My name is Lucian Apetrei, I have been doing web and marketing R&D for more than 16 years. I've been quietly solving multi-million dollar problems for IT companies for the past decade and a half as an innovation obsessed employee or as a consultant (B2B). I've worked for companies like IBM, 888 Holdings, Ipsos, Svea Finans, Humans.ai, and others.
 > Currently, I am involved in multiple projects, but I started doing R&D in sustainable tokenomics since 2017.
 > 
-> Spent around 200K euros over the years from my own pocket, building different projects, and learning about blockchain, crypto, efficient markets, and economics. Mind you as a Romanian, this is a lot of money for me personally.
+> Spent way over 200K euros over the years from my own pocket, building different projects, and learning about blockchain, crypto, efficient markets, and economics. Mind you as a Romanian, this is a lot of money for me personally.
 > Deployed and managed one of the top mining pools for Electroneum coin a few years ago with a Discord community of 1800 members at its peak. Built a mining farm by myself with 108 graphic cards + 13 asics to learn about PoW algorithms, and modified their bios to mine more efficiently. Sold it as I don't believe in PoW anymore.
 > 
 > Two years ago I quit my cozy corporate job and founded GratitudeToken.world, put together a team, and used FFF money (Founders, Family, Friends) to try and develop a true Web 3 protocol or platform where decentralization of value and knowledge was done right.
