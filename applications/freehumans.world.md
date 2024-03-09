@@ -255,6 +255,6 @@ Some other MVPs and projects that we worked on:
 > 
 > This is our mission, our passion, and our commitment, with or without external support. We invite you to be part of this transformative journey.
 >
-> **Join us! We need the XPR team to collaborate with us on this gamified adventure. Web 2 is boring and deprecated, let's be the first to make it better. Together, we can go further than any one individual can imagine.**
+> **Join us! We would love for the XPR team to collaborate with us on this gamified adventure. Web 2 is boring and deprecated, let's be the first to make it better. Together, we can go further than any one individual can imagine.**
 
 > *P.S. Today it's my birthday and I am staying at home instead of going out with my friends. I have nothing to celebrate until this project is launched and available for all humans everywhere.*
