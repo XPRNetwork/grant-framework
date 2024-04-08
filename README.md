@@ -72,7 +72,7 @@ This document is subject to change please check the latest version here on Githu
 
 ## Grant Evaluators
 
-- [XPR Consortium Members](https://xprnetwork.org/governance)
+- [XPR Consortium Members](https://xprnetwork.org/blog/the-xpr-network-consortium)
 - [Metallicus Core Developers](https://github.com/metallicusdev)
 
 ## Grant Operator
