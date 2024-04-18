@@ -1,7 +1,7 @@
 # XPR Network Grant Proposal
 ![FreeHumans.World](https://freehumans.world/FHW-logo.png)
 - **Project Name:** FreeHumans.World
-- **Team Name:** GratitudeToken.world Team
+- **Team Name:** GratitudeToken.world
 - **Payment Address:** grat
 - **Level:** Small Team
 - **Is Project Open-Source:** Yes
@@ -168,14 +168,14 @@ TODO (mostly backend work):
 > 24. Create and optimize iOS and Android apps for multiple mobile device types
 
 
-### **Total Cost:** 50,000 USD
+### **Total Cost:** 29,000 USD
 
 ### DEVELOPMENT MILESTONES:
 
 - **Milestones:** 1 & 2
 - **Estimated duration:** 1 month
-- **FTE:**  2
-- **Costs:** 2,000 USD
+- **FTE:**  1
+- **Costs:** 1,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -188,17 +188,17 @@ TODO (mostly backend work):
 
 **There are 24 milestones total**
 
-> To make things simpler, we are distributing 2000 USD evenly for every 2 milestones picked from the backlog to average out a budget over a period of 12 months.
+> To make things simpler, we are distributing 1000 USD evenly for every 2 milestones picked from the backlog to average out a budget over a period of 12 months.
 If more developers will contribute to the code the delivery time will decrease dramatically, but the cost will not.
 
-12 months with 2 milestones each * 2000 totals: **24,000 USD**
+12 months with 2 milestones each * 1000 totals: **12,000 USD**
 
 ### MARKETING MILESTONES:
 
 - **Milestone:** 1
 - **Estimated duration:** 1 month
 - **FTE:**  2
-- **Costs:** 6,000 USD
+- **Costs:** 5,000 USD
 
 | ID | Deliverable | Specification |
 | ----- | ----------- | ------------- |
@@ -219,7 +219,7 @@ If more developers will contribute to the code the delivery time will decrease d
 | 2. | Content | We will use the created professional animated videos and write articles for this campaign to attract users to our site |
 
 
-### **10,000 USD worth of XPR we are saving for XPR smart contract operations and perhaps unforeseen expenses.**
+### **Finally: 2,000 USD worth of XPR we are saving for XPR smart contract operations.**
 
 ### Future Plans
 
